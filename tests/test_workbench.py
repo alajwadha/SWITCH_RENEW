@@ -144,13 +144,17 @@ def test_true_two_stage_benchmarks(client, risk):
 
 def test_country_snapshot_is_source_dated_and_no_fake_2026(client):
     atlas = json.loads((ROOT / "public/atlas.json").read_text())
+    if atlas.get("index_file"):
+        import gzip
+        atlas = json.loads(gzip.decompress((ROOT / "public" / atlas["index_file"].lstrip("/")).read_bytes()))
     assert len(atlas["countries"]) >= 249
     for country in atlas["countries"]:
         assert set(country["indicators"]) == set(atlas["metadata"])
         for k, obs in country["indicators"].items():
             if obs["value"] is not None:
-                assert 2010 <= obs["year"] <= atlas["latest_completed_year"]
-                assert atlas["metadata"][k]["source_url"].startswith("https://data.worldbank.org/indicator/")
+                if atlas["metadata"][k]["frequency"] == "annual":
+                    assert 2010 <= obs["year"] <= atlas["latest_completed_year"]
+                assert atlas["metadata"][k]["source_url"].startswith("https://")
                 assert obs["year"] == max(h["year"] for h in obs["history"])
             else:
                 assert obs["year"] is None
@@ -188,3 +192,17 @@ def test_table_exposes_unmodified_baseline_for_draft_preview(client):
     assert float(table["rows"][0]["zone_demand_mw"]) == 9
     assert float(table["baseline_rows"][1]["zone_demand_mw"]) == 4
     assert float(table["rows"][1]["zone_demand_mw"]) == pytest.approx(4.8)
+
+def test_compressed_country_index_and_history_are_served(client):
+    import gzip
+    manifest = client.get('/atlas.json').json()
+    index_response = client.get(manifest['index_file'])
+    assert index_response.status_code == 200
+    raw = index_response.content
+    atlas = json.loads(gzip.decompress(raw) if raw.startswith(b'\x1f\x8b') else raw)
+    assert len(atlas['countries']) == 251
+    history = client.get(atlas['history_files']['K'])
+    assert history.status_code == 200
+    raw = history.content
+    data = json.loads(gzip.decompress(raw) if raw.startswith(b'\x1f\x8b') else raw)
+    assert len(data['KEN']['generation_total']) >= 10

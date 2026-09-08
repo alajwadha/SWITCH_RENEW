@@ -72,7 +72,7 @@ On the next laptop, clone this repository, run setup, then restore to a **new** 
 
 Restore refuses to overwrite an existing directory, rejects traversal/symlink archive entries and verifies every checksum. `SWITCH_WORKSPACE` can select another workspace folder. A previously used default `workspace/` can be kept by restoring to a different directory and setting that environment variable; never delete your prior work just to satisfy restore.
 
-The downloadable code package is separate from a workspace backup. Git contains code, source lockfiles, small country snapshots, documentation, tests and CI. The live workspace, large model downloads, logs, database, solver licenses and dependencies are excluded.
+The downloadable code package is separate from a workspace backup. Git contains code, source lockfiles, compressed global country snapshots, documentation, tests and CI. The live workspace, large model downloads, logs, database, solver licenses and dependencies are excluded.
 
 ## GitHub
 
@@ -100,20 +100,28 @@ Use regular commits and pushes for future updates. Never force-push over remote 
 
 ## Country atlas
 
-The snapshot has profiles for ISO countries plus additional World Bank reporting territories/economies. Eleven World Development Indicators cover population, GDP, GDP/person, urbanization, electricity access, clean cooking, electricity consumption/person, renewable generation share, electricity losses, primary energy intensity and land area.
+All **251 country and territory profiles** share 12 energy sections, plus country context: generation; capacity and projects; electricity demand; the whole energy system; fuels and security; emissions; trade and grids; storage and flexibility; prices and costs; access and reliability; renewable resources; policies and targets.
 
-Every metric has units, observation year, provider link and retrieval/publication metadata. Missing observations stay null. Latest-available comparison displays individual years; same-calendar-year comparison uses the chosen year and leaves missing values empty. No 2026 YTD series are loaded. Annual 2026 is unfinished at the snapshot date, so the fetch uses completed years through 2025, with earlier observations when required.
+The expanded snapshot contains **278 indicators**, **253 with observations somewhere**, **37,124 latest country values** and **488,520 historical observations**. Sources include Ember, IRENA, EIA, World Bank, OWID, Eurostat, Solargis/ESMAP, Net Zero Tracker, RFF, Global Energy Monitor and DOE/NTESS Sandia. Source coverage differs by country. See [the full data dictionary and coverage audit](docs/ATLAS_DATA.md).
 
-The World Bank can reject some long-history requests; the fetcher falls back to a latest non-empty observation and retains cached history. Profiles do not promise identical historical coverage. Broader electricity mix/capacity, power emissions, prices and policy targets need the Ember/IRENA/other-source adapters on the roadmap. Atlas statistics never silently become SWITCH input values.
+Use the searchable section controls, country overview, generation/capacity charts, historical comparisons and globe layers. Compare up to six countries in the same observation period or choose latest available with dates displayed. Compatible totals can be shown per person using population from the same year. Annual growth requires the immediately preceding year. CSV exports include units, sources and dates; chart exports are SVG. The infrastructure view filters plants and projects by technology, status and name, with source links and CSV downloads.
 
-Refresh the snapshot while online, then rebuild:
+GEM's **February 2026** inventory supplies 143,109 original plant/unit/phase records. Country allocations of cross-border hydro give 143,172 displayed records. The separate historical DOE/NTESS **January 2022** inventory supplies 1,045 battery/chemical-storage projects. Neither inventory is a current, complete national installed-capacity total.
+
+Annual observations stop at the latest completed calendar year, **2025**, with earlier years where necessary. Available monthly 2026 data and matched-month YTD comparisons are separately labeled. Policy snapshots retain their source dates; solar potential retains its long-term **2020 study** basis. Global 2025 technology cost benchmarks are separate from country prices. No country statistic automatically changes SWITCH inputs.
+
+Missing observations remain null. Some requested national measures have no connected comparable dataset, including current battery MWh, utility SAIDI/SAIFI, bilateral interconnector capacities, LNG terminals and country wind summaries. Those fields explain the gap in **Data coverage**. There is no synthetic universal 2025/2026 dataset.
+
+To fetch updated data, stop the local app and run while online, then rebuild and restart:
 
 ```bash
-.venv/bin/python scripts/refresh_atlas.py
+.venv/bin/python scripts/refresh_atlas.py --refresh
 npm run build
 ```
 
-Raw responses are kept under `workspace/atlas_raw/`. Globe boundaries come from Natural Earth and are bundled so the map does not depend on an online tile server.
+Windows uses `.venv\Scripts\python.exe`. Omitting `--refresh` reuses cached source files; `--offline` requires a complete cache and makes no downloads. New source files are validated before publishing a replacement snapshot. The entry point refreshes the complete atlas, including the original country context. Updates to pinned IRENA/DOE/GEM releases should be reviewed before changing their declared vintage.
+
+Provider responses and request/hash records are kept under ignored `workspace/atlas_raw/`. The bundled manifest points to compressed country indices, histories, infrastructure and provenance under `public/atlas/`; all are included in Git. Data is unpacked by modern browsers with the standard DecompressionStream API. Only the histories and inventories needed by the current view are loaded; global matched-period maps load the full history. Natural Earth geography is also bundled, so the globe does not need an online tile server. Country selection remains available when WebGL is unavailable.
 
 ## Architecture and development
 
@@ -135,7 +143,7 @@ For frontend source changes, rebuild with `npm run build`; the Python server ser
 
 ```bash
 npm run build
-node --experimental-strip-types --test tests/scenario-state.test.mjs
+node --experimental-strip-types --test tests/*.test.mjs
 .venv/bin/python -m pytest -q
 ```
 

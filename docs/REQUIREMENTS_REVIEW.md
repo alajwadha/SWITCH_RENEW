@@ -22,7 +22,7 @@ The agreed direction is sound: a personal local SWITCH workbench with a Next.js/
 - Scenario parameters plus numerical CSV editing with version conflict detection.
 - Exact multiplier entry, live draft input previews, parameter definitions/units/ranges, draft retention across in-app navigation, and revision-specific validation/run requests.
 - Results, manifests, raw exports, scenario comparisons and logs.
-- Globe with bundled Natural Earth geography, 251 country/territory profiles, 11 sourced World Bank indicators, latest/same-calendar-year comparison, and source/missing-data display.
+- Globe with bundled Natural Earth geography and 251 country/territory profiles. All 12 energy sections have sourced observations, historical and matched-period comparisons, CSV/SVG exports, global plant inventory and a separately dated historical storage inventory. Source gaps are explicitly audited in ATLAS_DATA.md.
 - Learning view explaining equations, input versus decision variables, stochastic versus sensitivity.
 - Genuine two-stage teaching model with expected cost, VSS, EVPI and CVaR.
 - Consistent backup/restore with checksums and no overwrite of an existing workspace.
@@ -30,4 +30,4 @@ The agreed direction is sound: a personal local SWITCH workbench with a Next.js/
 The final verification evidence and material limits are recorded in `VERIFICATION.md`.
 
 ## Remaining complete-v1 roadmap
-Kenya custom variants and county layers; broad energy/policy data pipelines (Ember, IRENA, EI, policy sources); YTD ingestion and broader atlas comparisons (same-calendar-year comparison is implemented for the bundled World Bank history); batch experiments/sensitivity orchestration; SWITCH-based stochastic extensive form then Kenya scale study; advanced constraints/duals and infeasibility diagnosis; optional module authoring; authenticated remote workers/HPC and cloud storage. Preserve the broader prompt as the roadmap, and show only implemented capabilities as active.
+Kenya custom variants and county layers; remaining atlas data-source gaps (see ATLAS_DATA.md), including current national battery ratings, bilateral interconnectors and utility reliability; batch experiments/sensitivity orchestration; SWITCH-based stochastic extensive form then Kenya scale study; advanced constraints/duals and infeasibility diagnosis; optional module authoring; authenticated remote workers/HPC and cloud storage. Preserve the broader prompt as the roadmap, and show only implemented capabilities as active.
