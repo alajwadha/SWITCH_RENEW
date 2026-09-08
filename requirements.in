@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+pyomo==6.9.1
+highspy
+pandas
+pyarrow
+httpx
+pytest
+pycountry
+setuptools<81
+pint
+testfixtures

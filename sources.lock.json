@@ -1,0 +1,17 @@
+{
+  "switch": {
+    "url": "https://github.com/switch-model/switch.git",
+    "commit": "239d62cbe9baeec3bb05e56487241bdea60740af",
+    "license": "Apache-2.0"
+  },
+  "tutorial": {
+    "url": "https://github.com/switch-model/switch_tutorial.git",
+    "commit": "6b72f3006854a81ac74d008d0145da1919c54d49",
+    "license": "See upstream LICENSE"
+  },
+  "kenya": {
+    "url": "https://github.com/NotEleven/Switch-Kenya-2025_public.git",
+    "commit": "089834b8fee23239d61ffb6e7d68279f0a74efed",
+    "license": "CC-BY-NC-4.0; noncommercial academic/research use"
+  }
+}

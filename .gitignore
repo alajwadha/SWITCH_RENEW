@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.venv/
+.sources/
+workspace/
+backups/
+artifacts/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.tsbuildinfo
+.env*
+!.env.example
+*.lic
+*.db*
+*.sqlite*
