@@ -32,6 +32,10 @@ class Edit(BaseModel):
     row: int = Field(ge=0)
     value: float
 
+class RevisionBody(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+    revision: int = Field(ge=1)
+
 class ScenarioBody(BaseModel):
     model_config = ConfigDict(extra="forbid")
     name: str = Field(min_length=1, max_length=100)
@@ -146,15 +150,23 @@ def table(sid: str, filename: str, offset: int = Query(0, ge=0), limit: int = Qu
     if scenario["model"] == "stochastic":
         raise ValueError("No input CSV tables for this model")
     fields, rows = prepared_table(scenario, filename)
-    return {"columns": fields, "rows": rows[offset:offset + limit], "offset": offset, "total": len(rows), "editable": EDITABLE[filename], "revision": scenario["revision"]}
+    _, original = read_csv(baseline(scenario["model"]) / filename)
+    return {"columns": fields, "rows": rows[offset:offset + limit], "baseline_rows": original[offset:offset + limit], "offset": offset, "total": len(rows), "editable": EDITABLE[filename], "revision": scenario["revision"]}
+
+def selected_revision(sid: str, body: RevisionBody):
+    scenario = get_scenario(sid)
+    if scenario["revision"] != body.revision:
+        raise HTTPException(409, "The saved scenario changed in another window. Review the latest revision before validating or running.")
+    return scenario
 
 @app.post("/api/scenarios/{sid}/validate")
-def validation(sid: str):
-    return validate(get_scenario(sid))
+def validation(sid: str, body: RevisionBody):
+    scenario = selected_revision(sid, body)
+    return {**validate(scenario), "revision": scenario["revision"]}
 
 @app.post("/api/scenarios/{sid}/run", status_code=202)
-def run_scenario(sid: str):
-    return queue_run(get_scenario(sid))
+def run_scenario(sid: str, body: RevisionBody):
+    return queue_run(selected_revision(sid, body))
 
 @app.get("/api/runs")
 def runs():

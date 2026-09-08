@@ -20,6 +20,7 @@ The agreed direction is sound: a personal local SWITCH workbench with a Next.js/
 - Local launcher, pinned source bootstrap, reproducible dependency lockfiles, CI.
 - Real official 3_zone_tiny and base Kenya adapter with validation, immutable inputs and robust job records.
 - Scenario parameters plus numerical CSV editing with version conflict detection.
+- Exact multiplier entry, live draft input previews, parameter definitions/units/ranges, draft retention across in-app navigation, and revision-specific validation/run requests.
 - Results, manifests, raw exports, scenario comparisons and logs.
 - Globe with bundled Natural Earth geography, 251 country/territory profiles, 11 sourced World Bank indicators, latest/same-calendar-year comparison, and source/missing-data display.
 - Learning view explaining equations, input versus decision variables, stochastic versus sensitivity.

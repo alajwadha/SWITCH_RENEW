@@ -258,6 +258,7 @@ def queue_run(scenario):
         atomic_json(folder / "manifest.json", {"schema_version": 1, "id": rid, "created_at": stamp, "scenario": scenario, "source_versions": versions, "input_hashes": hashes(folder / "inputs") if (folder / "inputs").exists() else {}, "custom_hashes": hashes(folder / "custom") if (folder / "custom").exists() else {}, "solver": {"name": "HiGHS", "interface": "appsi_highs", "time_limit_seconds": scenario["config"]["time_limit"], "mip_gap": scenario["config"]["mip_gap"]}, "validation": report})
         with connect() as db:
             # Reject a stale browser update before inserting the run snapshot.
+            db.execute("BEGIN IMMEDIATE")
             current = db.execute("SELECT revision FROM scenarios WHERE id=?", (scenario["id"],)).fetchone()
             if current is None or current[0] != scenario["revision"]:
                 raise ValueError("Scenario changed while preparing the run. Refresh and retry.")

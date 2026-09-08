@@ -1,5 +1,6 @@
 import json
 import sqlite3
+import subprocess
 import threading
 import zipfile
 from pathlib import Path
@@ -23,7 +24,7 @@ def scenario(client, **kw):
     return response.json()
 
 def run_and_wait(client, s):
-    response = client.post(f"/api/scenarios/{s['id']}/run")
+    response = client.post(f"/api/scenarios/{s['id']}/run", json={"revision": s["revision"]})
     assert response.status_code == 202, response.text
     run = response.json()
     assert claim("test-worker") == run["id"]
@@ -52,9 +53,11 @@ def test_real_switch_matches_published_reference_and_preserves_inputs(client):
 
 def test_revisions_conflicts_and_queued_snapshot(client):
     s = scenario(client)
-    before = client.post(f"/api/scenarios/{s['id']}/run").json()
+    before = client.post(f"/api/scenarios/{s['id']}/run", json={"revision": s["revision"]}).json()
     snapshot = hashes(run_dir(before["id"]) / "inputs")
-    body = {k: s[k] for k in ("name", "model", "config", "edits", "revision")}
+    # Exercise the same serializer as the actual React Save revision handler.
+    serialized = subprocess.run(["node", "--experimental-strip-types", "--input-type=module", "-e", "import {scenarioBody} from './components/scenario-state.ts'; import fs from 'node:fs'; console.log(JSON.stringify(scenarioBody(JSON.parse(fs.readFileSync(0, 'utf8')))));"], input=json.dumps(s), text=True, capture_output=True, check=True, cwd=ROOT)
+    body = json.loads(serialized.stdout)
     body["config"]["demand_multiplier"] = 1.2
     body["edits"] = [{"file": "loads.csv", "row": 0, "column": "zone_demand_mw", "value": 9}]
     updated = client.put(f"/api/scenarios/{s['id']}", json=body)
@@ -76,7 +79,7 @@ def test_rejects_invalid_inputs_and_cross_origin_writes(client):
 
 def test_backup_restore_and_tamper_detection(client, tmp_path):
     s = scenario(client)
-    queued = client.post(f"/api/scenarios/{s['id']}/run").json()
+    queued = client.post(f"/api/scenarios/{s['id']}/run", json={"revision": s["revision"]}).json()
     assert client.post("/api/backup").status_code == 400
     client.post(f"/api/runs/{queued['id']}/cancel")
     path = create_backup()
@@ -110,13 +113,13 @@ def test_archive_traversal_is_rejected(tmp_path):
 
 def test_claim_once_cancel_running_and_recover(client):
     s = scenario(client)
-    r = client.post(f"/api/scenarios/{s['id']}/run").json()
+    r = client.post(f"/api/scenarios/{s['id']}/run", json={"revision": s["revision"]}).json()
     assert claim("one") == r["id"]
     assert claim("two") is None
     assert client.post(f"/api/runs/{r['id']}/cancel").json()["status"] == "cancelling"
     execute(r["id"], threading.Event())
     assert get_run(r["id"])["status"] == "cancelled"
-    r2 = client.post(f"/api/scenarios/{s['id']}/run").json()
+    r2 = client.post(f"/api/scenarios/{s['id']}/run", json={"revision": s["revision"]}).json()
     claim("crashed-worker")
     recover()
     assert get_run(r2["id"])["status"] == "interrupted"
@@ -158,3 +161,30 @@ def test_production_page_and_real_api_available(client):
     assert "SWITCH Workbench" in page.text
     assert client.get("/api/health").json()["status"] == "ok"
     assert client.get("/world.geojson").status_code == 200
+
+
+def test_selected_revision_required_and_stale_actions_create_no_run(client):
+    s = scenario(client, model="stochastic")
+    path = f"/api/scenarios/{s['id']}"
+    body = {k: s[k] for k in ("name", "model", "config", "edits", "revision")}
+    body["name"] = "Updated in another window"
+    assert client.put(path, json=body).json()["revision"] == 2
+    for action in ("validate", "run"):
+        assert client.post(path + "/" + action).status_code == 422
+        assert client.post(path + "/" + action, json={"revision": 1}).status_code == 409
+    assert list_runs() == []
+    report = client.post(path + "/validate", json={"revision": 2}).json()
+    assert report["valid"] and report["revision"] == 2
+    run = client.post(path + "/run", json={"revision": 2}).json()
+    assert run["revision"] == 2
+    manifest = client.get(f"/api/runs/{run['id']}").json()["manifest"]
+    assert manifest["scenario"]["name"] == body["name"]
+
+
+def test_table_exposes_unmodified_baseline_for_draft_preview(client):
+    s = scenario(client, config={"demand_multiplier": 1.2}, edits=[{"file": "loads.csv", "row": 0, "column": "zone_demand_mw", "value": 9}])
+    table = client.get(f"/api/scenarios/{s['id']}/tables/loads.csv?offset=0&limit=2").json()
+    assert len(table["baseline_rows"]) == 2
+    assert float(table["rows"][0]["zone_demand_mw"]) == 9
+    assert float(table["baseline_rows"][1]["zone_demand_mw"]) == 4
+    assert float(table["rows"][1]["zone_demand_mw"]) == pytest.approx(4.8)

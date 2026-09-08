@@ -2,7 +2,8 @@
 
 ## Passed
 - Next.js production export compiles and TypeScript passes.
-- Python test suite: **10 passed**. The suite includes real solver execution, input migration/checksums, revision conflicts, validation, queued and running cancellation, interrupted-job recovery, service-restart persistence, consistent backup/restore and tamper/path rejection, and stochastic benchmark/physical balance checks.
+- Python test suite: **12 passed**. The suite includes real solver execution, input migration/checksums, revision conflicts, validation, queued and running cancellation, interrupted-job recovery, service-restart persistence, consistent backup/restore and tamper/path rejection, and stochastic benchmark/physical balance checks. The save test passes the actual frontend serializer output into the API; additional checks reject missing/stale run revisions and verify unmodified baseline values for draft previews.
+- Editor state regression suite: **4 passed**, covering save-request fields, draft preservation during navigation and concurrent updates, multiplier/override precedence and incomplete/invalid edits. These are state and contract tests, not browser interaction tests.
 - Official `3_zone_tiny` baseline objective: **126,750,492.10678375**, matching the pinned upstream published reference within the test tolerance of 1e-7 relative.
 - Tutorial demand multiplier 1.2: **152,435,913.2644603**. Both runs terminate optimal.
 - Risk-neutral and risk-averse teaching lab runs terminate optimal. Risk-neutral benchmarks satisfy WS ≤ RP ≤ EEV, with VSS = EEV − RP and EVPI = RP − WS.

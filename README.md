@@ -34,6 +34,14 @@ The service log is `workspace/service.log`. If an operating system blocks an exe
 4. Duplicate the scenario, increase the demand multiplier to 1.2, save its revision, and run again.
 5. Open **Compare runs**. Use **Input snapshot** to trace exactly what changed.
 
+## Editing assumptions
+
+Use the number boxes for exact multipliers or the sliders for exploration. The input table previews the current draft immediately: the pinned baseline is scaled first, then absolute cell overrides replace individual values. Each editable column has a unit, definition and allowed range under **Variables, units and allowed values**. **Remove override** restores the baseline with the current multiplier; **Clear all overrides** applies to every input table.
+
+Drafts remain available when switching views or scenarios while the page is open. The Scenarios badge counts unsaved drafts. **Save revision** writes a draft to disk; browser draft memory is not a backup. A browser close/reload warning is requested while drafts exist, but browser or device shutdown can still lose unsaved drafts.
+
+If another window updates the same scenario, your draft keeps its original revision. Save the draft as a new copy or discard it to load the latest saved revision. Validation and run submission explicitly name the revision being used and reject stale requests. A run never silently substitutes a newer revision.
+
 The **Kenya base** model uses its pinned county configuration and `gen_build_limits.py`. Storage and reserves are active. It constructs with 778,293 variables and 1,040,868 constraints. A 15-second integration check reached the solver but found no incumbent before the limit; a full optimal Kenya solve has not been verified. The limit covers solver time, not model construction/translation. See `docs/VERIFICATION.md`. Hydrogen variants and a Kenya stochastic adapter are not implemented in this milestone.
 
 The **Two-stage learning lab** is a separate original Pyomo model with three demand outcomes, shared firm/solar investments and scenario-specific dispatch. It reports expected annual cost, CVaR, VSS and EVPI. It is explicitly illustrative and is not presented as a Kenya model or a native SWITCH stochastic extension.
@@ -127,10 +135,13 @@ For frontend source changes, rebuild with `npm run build`; the Python server ser
 
 ```bash
 npm run build
+node --experimental-strip-types --test tests/scenario-state.test.mjs
 .venv/bin/python -m pytest -q
 ```
 
 Tests cover an actual tutorial solve versus its published reference; input migration and immutability; scenario revision conflicts; numerical input validation; queue claims/cancellation/interruption; restart persistence; backup/restore/tampering; two-stage benchmark inequalities and physical balances; sourced country dates; and serving the production UI with the real API. Browser rendering and interaction QA has not been performed in this environment.
+
+The editor regression checks cover the actual save-request serializer, draft preservation across newer revisions, invalid cell edits, and multiplier/override preview order. API clients must include `{"revision": 1}` (using the selected saved revision) in POST bodies for `/api/scenarios/{id}/validate` and `/api/scenarios/{id}/run`. After updating application code, restart the local backend and worker and reload the page.
 
 ## Sources and permissions
 

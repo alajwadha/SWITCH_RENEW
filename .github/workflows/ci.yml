@@ -33,5 +33,7 @@ jobs:
           npm ci --no-audit --no-fund
       - name: Build production interface
         run: npm run build
+      - name: Verify scenario editing and draft preservation
+        run: node --experimental-strip-types --test tests/scenario-state.test.mjs
       - name: Verify model parity, persistence and backup recovery
         run: python -m pytest -q
