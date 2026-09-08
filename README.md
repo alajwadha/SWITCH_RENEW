@@ -14,7 +14,7 @@ From this project folder, run the one-time setup:
 python scripts/setup.py
 ```
 
-On macOS/Linux, your Python command may be `python3`. On Windows, `py -3.12` can be used. The setup installs the pinned Python environment, clones the pinned model repositories, installs frontend dependencies and builds the local website. The Kenya repository is large; `--skip-kenya` installs the tutorial and stochastic lab first. Run setup again without the flag to add Kenya.
+On macOS/Linux, your Python command may be `python3`. On Windows, `py -3.12` can be used. The setup installs the pinned Python environment, clones the pinned model repositories, installs frontend dependencies and builds the local website. New Kenya checkouts use Git sparse checkout for the base `inputs/` directory and root-level modules and license files, avoiding the large upstream variant/output archives. Existing source checkouts are preserved. `--skip-kenya` installs the tutorial and stochastic lab first. Run setup again without the flag to add Kenya.
 
 Then double-click:
 
@@ -24,9 +24,15 @@ Then double-click:
 
 The browser opens at **http://127.0.0.1:8765**. Backend and worker are detached from the launcher; its terminal can be closed. Closing a browser tab does not cancel a run. The computer still needs to remain powered on and awake. macOS/Windows idle-sleep inhibition is best-effort and does not protect against shutdown or closing the lid.
 
-The service log is `workspace/service.log`. If an operating system blocks an executable download, inspect the scripts and use the Python launch command. This build was exercised on Linux/Python 3.12; Windows/macOS launch paths have been authored but not tested on those operating systems.
+The service log is `workspace/service.log`. If an operating system blocks an executable download, inspect the scripts and use the Python launch command. Setup, automated tests and launch have been exercised on Linux and Windows with Python 3.12; macOS launch remains untested. See `docs/VERIFICATION.md` for the Windows setup findings.
 
 ## First experiment
+
+### Hosted atlas
+
+The Vercel build is an atlas/learning edition and does not upload or access your local scenarios, SQLite database, solver worker or backups. Use the local launcher for experiments. Vercel builds automatically select this read-only edition through `VERCEL=1`; ordinary local builds keep the complete workbench.
+
+Visual changes and targeted desktop/mobile checks are recorded in [docs/DESIGN_REVIEW.md](docs/DESIGN_REVIEW.md).
 
 1. Create a **Three-zone tutorial** scenario.
 2. Keep the baseline multipliers at 1. Validate inputs and run.
@@ -147,7 +153,7 @@ node --experimental-strip-types --test tests/*.test.mjs
 .venv/bin/python -m pytest -q
 ```
 
-Tests cover an actual tutorial solve versus its published reference; input migration and immutability; scenario revision conflicts; numerical input validation; queue claims/cancellation/interruption; restart persistence; backup/restore/tampering; two-stage benchmark inequalities and physical balances; sourced country dates; and serving the production UI with the real API. Browser rendering and interaction QA has not been performed in this environment.
+Tests cover an actual tutorial solve versus its published reference; input migration and immutability; scenario revision conflicts; numerical input validation; queue claims/cancellation/interruption; restart persistence; backup/restore/tampering; two-stage benchmark inequalities and physical balances; sourced country dates; and serving the production UI with the real API. A Windows Chrome smoke check confirmed overview/globe rendering; comprehensive browser interaction QA remains outstanding.
 
 The editor regression checks cover the actual save-request serializer, draft preservation across newer revisions, invalid cell edits, and multiplier/override preview order. API clients must include `{"revision": 1}` (using the selected saved revision) in POST bodies for `/api/scenarios/{id}/validate` and `/api/scenarios/{id}/run`. After updating application code, restart the local backend and worker and reload the page.
 

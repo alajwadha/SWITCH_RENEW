@@ -8,8 +8,8 @@ import type {Atlas,Country,Histories,IndicatorMeta,Observation,PowerAsset} from 
 import {compact,number} from './types';
 import {commonMix,comparisonObservation,displayUnit,fetchAtlasJSON,makeCSV,observationCSV,periodOf,seriesFor,transformedSeries} from './atlas-state';
 const Globe=dynamic(()=>import('./globe'),{ssr:false,loading:()=> <div className="globe-panel map-loading"><LoaderCircle className="spin"/> Loading globe</div>});
-const colors=['#67d6c4','#aacd78','#dfb877','#86a9f2','#d69acb','#b5c5d1'];
-const tooltip={background:'#142737',border:'1px solid #385161',borderRadius:8,color:'#edf7fc'};
+const colors=['#2889d7','#df9950','#8c76c8','#2ba389','#d27999','#6e8eaa'];
+const tooltip={background:'rgba(255,255,255,.96)',border:'1px solid #d9e1e8',borderRadius:14,color:'#172d3e',boxShadow:'0 12px 36px #17364718'};
 const generationKeys=['generation_coal','generation_gas','generation_other_fossil','generation_nuclear','generation_hydro','generation_wind','generation_solar','generation_bioenergy','generation_other_renewables'];
 const capacityKeys=['capacity_coal','capacity_gas','capacity_oil','capacity_nuclear','capacity_hydro_renewable','capacity_hydro_mixed','capacity_wind_onshore','capacity_wind_offshore','capacity_solar_pv','capacity_csp','capacity_bioenergy','capacity_geothermal'];
 function valueText(o:Observation|undefined){return typeof o?.value==='string'?o.value:o?.value==null?'No data':number(o.value,3);}

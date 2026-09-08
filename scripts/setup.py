@@ -36,6 +36,10 @@ def main():
         path = ROOT / ".sources" / name
         if not path.exists():
             call(["git", "clone", "--filter=blob:none", "--no-checkout", meta["url"], path])
+            if name == "kenya":
+                # The base adapter needs inputs/ and root-level modules/licenses,
+                # not the upstream multi-gigabyte scenario output archives.
+                call(["git", "-C", path, "sparse-checkout", "set", "inputs"])
             call(["git", "-C", path, "checkout", "--detach", meta["commit"]])
         else:
             actual = subprocess.check_output(["git", "-C", str(path), "rev-parse", "HEAD"], text=True).strip()

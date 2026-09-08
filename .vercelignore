@@ -1,0 +1,16 @@
+.git
+.venv
+.sources
+workspace
+backups
+artifacts
+backend
+scripts
+tests
+docs
+__pycache__
+.pytest_cache
+*.db
+*.sqlite
+*.log
+.env*
