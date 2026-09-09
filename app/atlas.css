@@ -1,0 +1,83 @@
+/* Extend the existing light research workspace with a larger map and an adjacent, scrollable profile. */
+.atlas-page-heading h1 { font-size: clamp(1.8rem,2.7vw,2.5rem); }
+.atlas-page-heading p { font-size: .875rem; }
+.atlas-categories { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 7px; margin-bottom: 10px; scrollbar-width: thin; }
+.atlas-categories button { flex: 0 0 auto; min-width: 145px; font-size: .875rem; padding: 11px 13px; }
+.atlas-categories small { font-size: .75rem; }
+.atlas-main-toolbar { padding: 14px 18px; margin-bottom: 16px; }
+.atlas-main-toolbar .atlas-country-search { flex-direction: row; align-items: flex-end; gap: 10px; max-width: 440px; }
+.atlas-main-toolbar .atlas-country-search>label { flex: 1; min-width: 130px; font-size: .875rem; }
+.atlas-main-toolbar .atlas-country-search>select { flex: 1; min-width: 155px; max-width: 230px; }
+.atlas-view-tabs { background: #ecf2f8; border-color: #dce5ec; }
+.atlas-view-tabs button { color: #48647c; }
+.atlas-view-tabs button.active { background: #fff; color: #215d99; border-color: #bdcfe2; }
+.atlas-explorer-controls { margin: 10px 0 18px; }
+.atlas-explorer-controls label { font-size: .875rem; }
+.atlas-world.world-layout { grid-template-columns: minmax(0,1fr) 360px; align-items: start; border-color: #dce6ee; border-radius: 20px; }
+.atlas-world .globe-observatory { height: 780px; min-height: 780px; }
+.atlas-world .atlas-country-detail.country-panel { height: 780px; max-height: 780px; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #a4bacd #f6f9fb; padding: 0 24px 24px; background: #fff; color: #26445b; }
+.country-detail-heading { position: sticky; top: 0; z-index: 2; background: #fffffff5; padding: 23px 0 17px; border-bottom: 1px solid #e0e9f0; }
+.country-detail-heading .country-code { font-size: .75rem; color: #3176a1; letter-spacing: .13em; }
+.country-detail-heading h2 { font-size: 1.8rem; letter-spacing: -.04em; margin: 5px 0; line-height: 1.15; color: #173a54; }
+.country-detail-heading p { font-size: .875rem; color: #597084; line-height: 1.55; margin: 7px 0 0; }
+.country-selected-metric { padding: 22px 0 20px; }
+.detail-section-label { font-size: .75rem; color: #647d90; letter-spacing: .06em; }
+.country-selected-metric h3 { font-size: 1rem; line-height: 1.5; font-weight: 500; margin: 7px 0 11px; }
+.country-indicator-value { display: flex; flex-wrap: wrap; gap: 5px 12px; align-items: baseline; }
+.country-indicator-value>strong { color: #1d5b8b; font-size: 2.8rem; line-height: 1.12; font-weight: 600; letter-spacing: -.05em; overflow-wrap: anywhere; max-width: 100%; }
+.country-indicator-value>span { font-size: .875rem; color: #547088; }
+.country-selected-metric .country-observation-date { color: #356c84; font-size: .875rem; margin: 11px 0; }
+.country-data-tags { display: flex; gap: 7px; flex-wrap: wrap; margin: 12px 0; }
+.country-data-tags>span { padding: 4px 8px; border-radius: 5px; background: #eef4f9; color: #466c87; font-size: .75rem; }
+.country-selected-metric .source-link { display: inline-flex; gap: 5px; font-size: .875rem; line-height: 1.55; color: #216d9f; }
+.country-missing { font-size: .875rem; line-height: 1.6; color: #637b8c; margin-block: 10px; }
+.country-section-heading { display: flex; justify-content: space-between; gap: 10px; align-items: baseline; }
+.country-section-heading h3 { font-size: 1rem; font-weight: 550; color: #24475f; margin: 0; }
+.country-section-heading small { font-size: .75rem; color: #688091; text-align: right; }
+.country-history,.country-system-facts,.country-generation-mix { padding: 20px 0; border-top: 1px solid #e0e9f0; }
+.country-history-chart { height: 170px; width: 100%; margin-top: 12px; }
+.country-chart-note { display: block; font-size: .75rem; line-height: 1.6; color: #688091; margin: 7px 0 0; }
+.country-history-status { display: flex; align-items: center; gap: 9px; font-size: .875rem; color: #617d91; min-height: 60px; line-height: 1.6; }
+.country-facts-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 10px; margin-top: 13px; }
+.country-facts-grid>button { display: flex; flex-direction: column; align-items: flex-start; text-align: left; padding: 13px 11px; background: #f4f8fb; border: 1px solid #dce6ee; border-radius: 10px; color: #47667d; min-width: 0; }
+.country-facts-grid>button:hover,.country-facts-grid>button.active { background: #eaf3fc; border-color: #82add4; }
+.country-facts-grid>button>span { font-size: .875rem; line-height: 1.45; }
+.country-facts-grid strong { color: #235c87; font-size: 1.4rem; margin: 7px 0 4px; font-weight: 550; }
+.country-facts-grid small { color: #5c788e; font-size: .75rem; line-height: 1.55; }
+.country-mix-bar { display: flex; width: 100%; height: 15px; border-radius: 4px; overflow: hidden; margin: 17px 0; }
+.country-mix-labels { display: flex; flex-direction: column; gap: 6px; }
+.country-mix-labels>button { display: flex; align-items: center; gap: 8px; background: transparent; color: #496a81; border: 0; text-align: left; padding: 4px 0; font-size: .875rem; }
+.country-mix-labels>button:hover { color: #125d96; text-decoration: underline; }
+.country-mix-labels i { width: 9px; height: 9px; border-radius: 2px; flex: 0 0 auto; }
+.country-mix-labels strong { margin-left: auto; font-size: .875rem; color: #254a64; font-weight: 500; }
+.country-detail-actions { display: flex; flex-direction: column; gap: 9px; margin-top: 4px; }
+.atlas-country-detail .country-detail-actions .button { width: 100%; font-size: .875rem; min-width: 0; min-height: 43px; justify-content: center; }
+.atlas-country-detail button:focus-visible { outline: 3px solid #2882be; outline-offset: 2px; }
+.atlas-main-toolbar select,.atlas-main-toolbar input,.atlas-explorer-controls select,.atlas-explorer-controls input { min-height: 42px; font-size: .875rem; }
+@media(min-width:1650px) { .atlas-world.world-layout { grid-template-columns: minmax(0,1fr) 400px; } }
+@media(max-width:1180px) and (min-width:901px) {
+ .atlas-world.world-layout { grid-template-columns: minmax(0,1fr) 300px; }
+ .atlas-world .atlas-country-detail.country-panel { padding-inline: 19px; }
+ .atlas-map-header { flex-wrap: wrap; }
+}
+@media(max-width:900px) {
+ .atlas-world.world-layout { grid-template-columns: 1fr; }
+ .atlas-world .globe-observatory { height: 700px; min-height: 700px; }
+ .atlas-world .atlas-country-detail.country-panel { height: auto; max-height: none; border-left: 0; border-top: 1px solid #dce6ee; }
+ .country-detail-heading { position: static; }
+ .country-history-chart { height: 220px; }
+ .atlas-main-toolbar .atlas-country-search { max-width: none; width: 100%; }
+}
+@media(max-width:700px) {
+ .atlas-main-toolbar .atlas-country-search { display: flex; flex-direction: column; align-items: stretch; gap: 8px; margin-bottom: 14px; }
+ .atlas-main-toolbar .atlas-country-search>select { max-width: none; }
+ .atlas-world .globe-observatory { height: 690px; min-height: 690px; }
+ .atlas-categories { display: flex; gap: 7px; }
+ .atlas-categories button { min-width: 135px; font-size: .875rem; }
+ .atlas-main-toolbar,.atlas-explorer-controls { padding: 14px; }
+ .atlas-world .atlas-country-detail.country-panel { padding-inline: 20px; }
+ .atlas-map-caption { display: none; }
+ .atlas-map-header { justify-content: center; }
+ .map-legend-heading>strong { font-size: .875rem; }
+}
+@media(prefers-reduced-motion:reduce) { .country-facts-grid>button { transition: none; } }
