@@ -1,6 +1,6 @@
 # SWITCH Workbench
 
-A local research workbench for Ali: edit assumptions, run SWITCH, inspect results, compare experiments, explore a sourced country globe, and learn the equations.
+A research workbench to edit assumptions, run SWITCH, inspect results, compare experiments, explore a sourced global energy atlas, and learn the equations.
 
 This is the first working implementation milestone. It includes actual optimization; charts are generated from saved solver results. The broader v1 roadmap remains in `docs/REQUIREMENTS_REVIEW.md`.
 
