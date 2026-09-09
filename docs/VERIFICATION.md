@@ -1,4 +1,12 @@
-# Verification · 8 September 2026
+# Verification · 9 September 2026
+
+## Learn SWITCH expansion · 9 September 2026
+
+- Replaced the four short learning panels with 44 source-linked lessons in ten parts, 54 rendered equations, 111 detailed reference entries, 44 worked examples, 132 explained practice questions and five interactive browser illustrations. See [LEARN_SWITCH.md](LEARN_SWITCH.md) for content and implementation boundaries.
+- Local and Vercel-mode production exports and TypeScript checking pass. All **26 frontend/content/numerical tests** pass: the existing 12 scenario/atlas tests plus 14 learning tests. Strict KaTeX parsing checks all 54 equations. The stochastic illustration is tested over a probability/capital/risk/confidence grid, including zero-probability and fractional-tail cases.
+- Source object names were compared with their cited pinned Python modules. The course corrects the prior hydrogen-activation assumption and documents conditional Kenya source defects without modifying the research model.
+- No backend dependency or model code changed. Python solver tests and the previously recorded tutorial/Kenya integration were not rerun for this content-only change. No user scenarios or run data were modified.
+- No browser visual/interaction QA was performed for this update; compilation and content/numerical tests do not certify browser behavior. Reading markers use browser-local storage and are not part of workspace backups.
 
 ## Windows setup verification · 8 September 2026
 
@@ -31,7 +39,7 @@ The base model constructs successfully and reaches HiGHS: **778,293 Pyomo variab
 ## Practical limits
 - The original verification ran on Linux and Python 3.12. Windows setup, tests and launch are now verified as recorded above; macOS launch remains untested.
 - Targeted Chrome desktop/mobile visual and interaction QA is recorded in DESIGN_REVIEW.md. Comprehensive cross-browser WebGL, real-device touch and accessibility certification remain unverified. Compilation and HTTP checks do not substitute for those checks.
-- Local backend only: no authenticated remote/HPC worker, cloud database or Vercel deployment has been connected. The public `alajwadha/SWITCH_RENEW` repository stores code and setup; it does not run the models or automatically back up the live workspace.
+- Local backend only: no authenticated remote/HPC worker or cloud database is connected. The Vercel deployment is the read-only atlas/learning edition, not a solver backend. The public `alajwadha/SWITCH_RENEW` repository stores code and setup; it does not run the models or automatically back up the live workspace.
 - Stochastic lab is a separate teaching model; Kenya stochastic, hydrogen variants and detailed county-map layers remain on the roadmap.
 - All 12 energy sections now have source-backed observations somewhere in the global dataset. Coverage is not universal; consult ATLAS_DATA.md for exact remaining source gaps, inventory vintages and data-boundary limitations.
 - The optional example-workspace backup contains completed tutorial and teaching runs; it is not a national Kenya solution.

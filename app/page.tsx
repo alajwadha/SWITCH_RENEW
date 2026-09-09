@@ -7,7 +7,6 @@ import {Area,AreaChart,Bar,BarChart,CartesianGrid,Legend,ResponsiveContainer,Too
 import {Activity,ArrowDownToLine,ArrowRight,ArrowUpRight,BookOpen,Check,CheckCheck,ChevronDown,ChevronLeft,ChevronRight,Clock3,Copy,Database,Earth,FileText,FolderGit2,GitCompareArrows,Layers3,LayoutDashboard,LoaderCircle,Menu,Play,Plus,Save,Search,Settings2,ShieldCheck,SlidersHorizontal,Sparkles,Square,Terminal,TriangleAlert,X,Zap} from 'lucide-react';
 import type {Atlas,Config,Country,Model,Run,Scenario,Summary} from '@/components/types';
 import {api,compact,defaults,number} from '@/components/types';
-import Learning from '@/components/learning';
 import ScenarioEditor from '@/components/scenario-editor';
 import CountryAtlas from '@/components/country-atlas';
 import {fetchAtlasJSON} from '@/components/atlas-state';
@@ -15,6 +14,7 @@ import type {Act} from '@/components/scenario-editor';
 import {hasDraftChanges,resolveDraft} from '@/components/scenario-state';
 import type {EditorDraft} from '@/components/scenario-state';
 const Globe=dynamic(()=>import('@/components/globe'),{ssr:false,loading:()=> <div className="globe-panel map-loading"><LoaderCircle className="spin"/> Loading globe</div>});
+const Learning=dynamic(()=>import('@/components/learning'),{loading:()=> <div className="panel"><BookOpen size={24}/><h2>Opening the SWITCH course…</h2><p>Lessons, equations and interactive illustrations.</p></div>});
 
 type Tab='overview'|'models'|'scenarios'|'runs'|'compare'|'atlas'|'learn'|'settings';
 const nav:{id:Tab;label:string;icon:typeof Earth}[]=[{id:'overview',label:'Overview',icon:LayoutDashboard},{id:'models',label:'Model library',icon:Layers3},{id:'scenarios',label:'Scenarios',icon:SlidersHorizontal},{id:'runs',label:'Runs & results',icon:Activity},{id:'compare',label:'Compare runs',icon:GitCompareArrows},{id:'atlas',label:'Country atlas',icon:Earth},{id:'learn',label:'Learn SWITCH',icon:BookOpen}];
@@ -29,6 +29,7 @@ export default function Workbench(){
  const[tab,setTab]=useState<Tab>(hosted?'atlas':'overview'),[mobile,setMobile]=useState(false),[models,setModels]=useState<Model[]>([]),[scenarios,setScenarios]=useState<Scenario[]>([]),[runs,setRuns]=useState<Run[]>([]),[atlas,setAtlas]=useState<Atlas|null>(null),[selectedCountry,setSelectedCountry]=useState('KEN'),[health,setHealth]=useState<{worker_online:boolean;workspace:string;active_runs:number}|null>(null),[connected,setConnected]=useState(!hosted),[error,setError]=useState(''),[notice,setNotice]=useState(''),[busy,setBusy]=useState(false);
  const[showNew,setShowNew]=useState(false),[newName,setNewName]=useState(''),[newModel,setNewModel]=useState('tiny'),[scenarioId,setScenarioId]=useState(''),[runId,setRunId]=useState('');
  const[drafts,setDrafts]=useState<Record<string,EditorDraft>>({});
+ useEffect(()=>{if(new URLSearchParams(window.location.search).has('learn'))setTab('learn');},[]);
  const unsavedCount=Object.values(drafts).filter(hasDraftChanges).length;
  useEffect(()=>{
   if(!unsavedCount)return;
@@ -72,7 +73,7 @@ export default function Workbench(){
  useEffect(()=>{refresh();const i=setInterval(refresh,3000);fetch('/atlas.json').then(r=>{if(!r.ok)throw Error('Atlas snapshot unavailable');return r.json();}).then(d=>d.index_file?fetchAtlasJSON<Atlas>(d.index_file):d as Atlas).then(setAtlas).catch(e=>setError(e.message));return()=>clearInterval(i);},[refresh]);
  useEffect(()=>{if(!notice)return;const t=setTimeout(()=>setNotice(''),4500);return()=>clearTimeout(t);},[notice]);
  const country=atlas?.countries.find(c=>c.iso3===selectedCountry),active=runs.filter(running),latest=runs.find(r=>r.summary?.objective!=null&&r.status==='succeeded');
- function go(t:Tab){setTab(t);setMobile(false);}
+ function go(t:Tab){setTab(t);setMobile(false);const url=new URL(window.location.href);if(t==='learn'){if(!url.searchParams.has('learn'))url.searchParams.set('learn','');}else{url.searchParams.delete('learn');}url.hash='';window.history.replaceState(null,'',url);}
  async function act<T,>(fn:()=>Promise<T>,success?:string){setBusy(true);setError('');try{const result=await fn();await refresh();if(success)setNotice(success);return result;}catch(e){setError(e instanceof Error?e.message:String(e));}finally{setBusy(false);}}
  function newScenario(model='tiny'){if(hosted){go('atlas');return;}lastFocus.current=document.activeElement as HTMLElement;setNewModel(model);setNewName(model==='kenya'?'Kenya · experiment 01':model==='stochastic'?'Uncertain demand · experiment 01':'Tutorial · experiment 01');setShowNew(true);}
  async function create(){const s=await act(()=>api<Scenario>('/scenarios','POST',{name:newName,model:newModel,config:defaults}),'Scenario saved');if(s){setShowNew(false);setScenarioId(s.id);go('scenarios');}}

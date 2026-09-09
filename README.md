@@ -40,6 +40,14 @@ Visual changes and targeted desktop/mobile checks are recorded in [docs/DESIGN_R
 4. Duplicate the scenario, increase the demand multiplier to 1.2, save its revision, and run again.
 5. Open **Compare runs**. Use **Input snapshot** to trace exactly what changed.
 
+## Learn SWITCH from scratch
+
+Open **Learn SWITCH** for a source-linked, ten-part course: **44 lessons**, more than **24,000 words**, **54 equations**, **111 detailed reference entries**, **44 worked examples**, and **132 practice questions with explanations**. Start with units and optimization, then time, finance, physical systems, policy, input/output files, Xi Xi's Kenya application, stochastic planning and your own extensions.
+
+Five interactive browser illustrations let you explore dispatch, financing, time weights, storage and stochastic decisions. They are labelled teaching calculations—not saved SWITCH runs. Full-text search, a searchable object/equation/glossary reference and lesson links are available in both the local and Vercel editions. Add `?learn=what-switch-does` to the site URL to start directly.
+
+Reading markers are saved **in this browser only**, separately from model runs; they do not sync through GitHub or workspace backups. The course distinguishes verified framework behavior, Kenya-specific code/data, known source issues and unimplemented research extensions. See [docs/LEARN_SWITCH.md](docs/LEARN_SWITCH.md) for the curriculum, source audit and testing scope.
+
 ## Editing assumptions
 
 Use the number boxes for exact multipliers or the sliders for exploration. The input table previews the current draft immediately: the pinned baseline is scaled first, then absolute cell overrides replace individual values. Each editable column has a unit, definition and allowed range under **Variables, units and allowed values**. **Remove override** restores the baseline with the current multiplier; **Clear all overrides** applies to every input table.
