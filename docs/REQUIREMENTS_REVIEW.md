@@ -31,3 +31,7 @@ The final verification evidence and material limits are recorded in `VERIFICATIO
 
 ## Remaining complete-v1 roadmap
 Kenya custom variants and county layers; remaining atlas data-source gaps (see ATLAS_DATA.md), including current national battery ratings, bilateral interconnectors and utility reliability; batch experiments/sensitivity orchestration; SWITCH-based stochastic extensive form then Kenya scale study; advanced constraints/duals and infeasibility diagnosis; optional module authoring; authenticated remote workers/HPC and cloud storage. Preserve the broader prompt as the roadmap, and show only implemented capabilities as active.
+
+## Mapped results and run monitoring concept · 21 September 2026
+
+The [mapped model results and run monitoring design](MODEL_RESULTS_MAP_AND_RUN_MONITOR.md) records the proposed shared experience for Kenya first, then Somalia, Saudi Arabia and GCC models. The scope covers the whole concept: geographic results, regional and asset detail, a complete results catalog, comparison, exports and honest run-time estimates. Model geography, available outputs and location confidence govern what can be displayed. This is a documented future requirement, not implementation or authorization to start a solve.
