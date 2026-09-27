@@ -4,6 +4,12 @@ A research workbench to edit assumptions, run SWITCH, inspect results, compare e
 
 This is the first working implementation milestone. It includes actual optimization; charts are generated from saved solver results. The broader v1 roadmap remains in `docs/REQUIREMENTS_REVIEW.md`.
 
+## Research and collaboration instructions
+
+The approved [repository instructions](AGENTS.md) govern new research and development. Read the [research workflow](docs/RESEARCH_WORKFLOW.md) for live step-by-step explanations, documentation and Dan Kammen consultation checkpoints. The [documentation index](docs/DOCUMENTATION.md) links the authoritative records.
+
+Future Somalia work has a separate [study folder](models/somalia/README.md) and [additional instructions](models/somalia/AGENTS.md). This establishes its documentation and working rules; it does not add a runnable Somalia model. [Research ideas](docs/RESEARCH_BACKLOG.md) remain proposals.
+
 ## Start on your computer
 
 Install **Python 3.12**, **Node.js 22 or later**, and **Git**. Keep this folder on a normal local disk, outside a continuously synced cloud-drive folder.

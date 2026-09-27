@@ -35,3 +35,9 @@ Kenya custom variants and county layers; remaining atlas data-source gaps (see A
 ## Mapped results and run monitoring concept · 21 September 2026
 
 The [mapped model results and run monitoring design](MODEL_RESULTS_MAP_AND_RUN_MONITOR.md) records the proposed shared experience for Kenya first, then Somalia, Saudi Arabia and GCC models. The scope covers the whole concept: geographic results, regional and asset detail, a complete results catalog, comparison, exports and honest run-time estimates. Model geography, available outputs and location confidence govern what can be displayed. This is a documented future requirement, not implementation or authorization to start a solve.
+
+## Approved research and collaboration instructions · 27 September 2026
+
+The user approved the combined [shared instructions](../AGENTS.md), [research workflow](RESEARCH_WORKFLOW.md) and [Somalia-specific instructions](../models/somalia/AGENTS.md). They cover independent judgment, ADHD-friendly step-by-step explanations during work, reliable evidence, reproducibility, continuous documentation, validation, advisor checkpoints and completion criteria. The [documentation index](DOCUMENTATION.md) records their locations.
+
+The [Somalia folder](../models/somalia/README.md) is established for preparation within this repository. The [ideas backlog](RESEARCH_BACKLOG.md) and mapped-results concept remain future work; adopting these instructions does not authorize a solve or implement a model.
