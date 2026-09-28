@@ -4,6 +4,8 @@
 
 The [28 September 2026 literature review](literature/2026-09-28/README.md) adds 73 publication/source records across electricity, cooking/biomass, transport/fuels/governance and productive uses. Start with its [full publication table](literature/2026-09-28/PUBLICATIONS.md), [critical synthesis](literature/2026-09-28/REVIEW.md), [source issues](literature/2026-09-28/SOURCE_ISSUES.md) and [data leads](literature/2026-09-28/DATA_LEADS.md). Inspection depth and source limitations are explicit; one entry is an identity-only publication lead.
 
+The [two-reviewer QC record](reviews/2026-09-28/README.md) documents subsequent factual corrections. The [author-contact and data-request table](literature/2026-09-28/AUTHOR_DATA_REQUESTS.md) identifies what the user can request for the existing research. It does not change the research scope or model configuration.
+
 Read the [Somalia instructions](AGENTS.md), [shared instructions](../../AGENTS.md) and [research workflow](../../docs/RESEARCH_WORKFLOW.md) before starting work.
 
 ## Starting point

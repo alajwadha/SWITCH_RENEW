@@ -1,0 +1,404 @@
+{
+  "review_date": "2026-09-28",
+  "purpose": "Help the user contact authors or institutional data custodians for existing Somalia energy research.",
+  "selection_basis": "Potential decision value of missing underlying data; not a certification of unseen data quality. Public data access routes are distinguished from restricted or unlocated replication files.",
+  "requests": [
+    {
+      "id": "RQ01",
+      "priority": "High",
+      "publication_ids": [
+        "PU01",
+        "E07"
+      ],
+      "topic": "Hospital electricity demand and measured wind",
+      "availability_status": "not_obtained",
+      "availability_detail": "The papers describe historical load and wind measurements; no downloadable raw series was identified. This does not establish that the data are unavailable.",
+      "contacts": [
+        {
+          "name": "Ercan Aykut",
+          "email": "eaykut@gelisim.edu.tr",
+          "role": "Corresponding author of E07; coauthor of PU01",
+          "source_url": "https://acikerisim.gelisim.edu.tr/server/api/core/bitstreams/e5408721-f7c3-400b-8ace-4b44e247cd23/content",
+          "locator": "2024 paper, PDF p1"
+        },
+        {
+          "name": "Bahtiyar Dursun",
+          "email": "bdursun@gelisim.edu.tr",
+          "role": "Coauthor; newer publication-listed address",
+          "source_url": "https://acikerisim.gelisim.edu.tr/server/api/core/bitstreams/e5408721-f7c3-400b-8ace-4b44e247cd23/content",
+          "locator": "2024 paper, PDF p1; PU01 lists an older fsm.edu.tr address"
+        }
+      ],
+      "data_to_request": "Original timestamped hospital load readings behind the 2017–2018 profile; the 2019–2021 wind speed/direction series at the reported heights; meter/station metadata, timezone, gaps and quality flags; HOMER input file if shareable.",
+      "why_useful": "Supports checking chronological demand, peak load, resource estimates and storage/diesel assumptions in the existing Somalia energy research.",
+      "reuse_limit": "A single hospital is not a city or national load. Historical demand and later wind observations are not a simultaneous dataset. Published wind and power/energy unit conflicts must be resolved.",
+      "availability_source_url": "https://acikerisim.gelisim.edu.tr/server/api/core/bitstreams/87c19563-85cd-4b1d-a3d9-ba18eb9ec33e/content",
+      "availability_locator": "PU01 PDF p3 load description; E07 PDF p5 station description",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    },
+    {
+      "id": "RQ02",
+      "priority": "High",
+      "publication_ids": [
+        "E06"
+      ],
+      "topic": "Western Somaliland wind station observations",
+      "availability_status": "author_request",
+      "availability_detail": "The primary article explicitly offers data on request. Raw files have not been obtained.",
+      "contacts": [
+        {
+          "name": "Mohamed Jama",
+          "email": "mohamed.jama@adu.ac.ae",
+          "role": "Corresponding author; Shaima Batran is first author",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11237845/",
+          "locator": "Author correspondence in primary JATS XML"
+        }
+      ],
+      "data_to_request": "Original 7 March 2011–6 March 2012 SWALIM wind observations for Aburin, Daarbuduq and Xumba Weyne; sampling/height metadata; missing-value masks; gap-filling and extrapolation code; clarification of Table 11 energy/capacity-factor results.",
+      "why_useful": "Provides ground observations for checking gridded wind inputs and the uncertainty of renewable generation profiles used in the existing research.",
+      "reuse_limit": "Old, one-year station coverage; extrapolated hub-height output is not a measurement. Published power-density and turbine-output inconsistencies remain unresolved.",
+      "availability_source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11237845/",
+      "availability_locator": "Data availability; measured data section; Tables2 and11; Eq33",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    },
+    {
+      "id": "RQ03",
+      "priority": "High",
+      "publication_ids": [
+        "E03"
+      ],
+      "topic": "Hormuud telecom solar operating data",
+      "availability_status": "confidential",
+      "availability_detail": "The article states that the data used are confidential. Sharing requires the authors/data owner's agreement; public aggregates may be a possible alternative.",
+      "contacts": [
+        {
+          "name": "Hazlie Mokhlis",
+          "email": "hazli@um.edu.my",
+          "role": "Corresponding author; Abdullahi Mohamed Samatar is first author",
+          "source_url": "https://sun-connect.org/wp-content/uploads/1-s2.0-S2211467X23000585-main.pdf",
+          "locator": "Published article PDF p1 correspondence; DOI10.1016/j.esr.2023.101108"
+        }
+      ],
+      "data_to_request": "Permission for anonymized timestamped PV monitoring underlying the 2021 Hormuud case, with capacity, inverter configuration, outages/curtailment and maintenance metadata where recorded; otherwise publishable hourly or monthly aggregates and definitions.",
+      "why_useful": "Observed operating performance can check solar-yield and availability assumptions against Somalia conditions.",
+      "reuse_limit": "Telecom sites are a specific load class. The existence of irradiance, diesel or maintenance columns has not been established. Request these only if recorded.",
+      "availability_source_url": "https://www.sciencedirect.com/science/article/pii/S2211467X23000585",
+      "availability_locator": "Hormuud case-study section and Data availability",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    },
+    {
+      "id": "RQ04",
+      "priority": "High",
+      "publication_ids": [
+        "E05",
+        "E17"
+      ],
+      "topic": "Electrification-plan scenario and utility inputs",
+      "availability_status": "partial_public",
+      "availability_detail": "OnSSET code is public. A complete identifiable Somalia scenario bundle and original SEAP utility files were not established from the repository listing.",
+      "contacts": [
+        {
+          "name": "Andreas Sahlberg",
+          "email": "asahl@kth.se",
+          "role": "Corresponding author of E05",
+          "source_url": "https://mdpi-res.com/d_attachment/energies/energies-16-06489/article_deploy/energies-16-06489.pdf",
+          "locator": "PDF p1 correspondence"
+        },
+        {
+          "name": "Babak Khavari",
+          "email": "khavari@kth.se",
+          "role": "E05 coauthor",
+          "source_url": "https://mdpi-res.com/d_attachment/energies/energies-16-06489/article_deploy/energies-16-06489.pdf",
+          "locator": "PDF p1 affiliation contacts"
+        },
+        {
+          "name": "Ismail Mohamed",
+          "email": "ismail@piuenergy.so",
+          "role": "E05 coauthor; project implementation unit contact",
+          "source_url": "https://mdpi-res.com/d_attachment/energies/energies-16-06489/article_deploy/energies-16-06489.pdf",
+          "locator": "PDF p1 affiliation contacts"
+        }
+      ],
+      "data_to_request": "Exact publication-version Somalia settlement/scenario inputs, preprocessing scripts and output files; provenance and shareable aggregate ESP billing, customer, collection and infrastructure records used in SEAP; access instructions for any existing public bundle.",
+      "why_useful": "Helps reconcile existing service areas and utility aggregates and compare published electrification assumptions with the existing Somalia evidence inventory.",
+      "reuse_limit": "Do not call the entire model unavailable. Annual billing/collection data are not hourly demand or unmet demand; protect customer-level information.",
+      "availability_source_url": "https://github.com/OnSSET/onsset/tree/Somalia-1.0",
+      "availability_locator": "Public tree listing; E17 data-collection sections; DATA_LEADS.md",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    },
+    {
+      "id": "RQ05",
+      "priority": "High",
+      "publication_ids": [
+        "COOK14",
+        "COOK15"
+      ],
+      "topic": "PROSCAL cooking-fuel adoption and programme follow-up",
+      "availability_status": "not_located",
+      "availability_detail": "Public reports exist; underlying beneficiary, refill/subsidy and follow-up records were not located. Evaluators may route the request to UNDP/FAO/UNEP rather than own these records.",
+      "contacts": [
+        {
+          "name": "Kevin Enongene",
+          "email": "kenongene@fokabs.com",
+          "role": "Lead evaluator/author; data-owner referral route",
+          "source_url": "https://undpngddlsprod01.blob.core.windows.net/pdc/00085377-PPMFINAL%20PROSCAL%20TE%20REPORT-CLEAN-05112023.pdf",
+          "locator": "PDF p2 project/evaluation information"
+        },
+        {
+          "name": "Ismail Elmi",
+          "email": "ismacc2@gmail.com",
+          "role": "National evaluator/author; publicly printed professional correspondence",
+          "source_url": "https://undpngddlsprod01.blob.core.windows.net/pdc/00085377-PPMFINAL%20PROSCAL%20TE%20REPORT-CLEAN-05112023.pdf",
+          "locator": "PDF p2 evaluator email"
+        }
+      ],
+      "data_to_request": "De-identified monitoring tables, survey instruments and codebooks; LPG refill, price/subsidy, stove-distribution and follow-up-use records where held; dates, sample selection and attrition; referral to the programme data custodian.",
+      "why_useful": "Adds evidence on observed fuel use and affordability after support ends, which can support cooking-fuel assumptions within the existing broad energy review.",
+      "reuse_limit": "Availability of a longitudinal refill dataset is unconfirmed. Evaluation findings do not establish a randomized impact estimate; do not request identifying interview details.",
+      "availability_source_url": "https://www.undp.org/somalia/projects/joint-programme-sustainable-charcoal-reduction-and-alternative-livelihoods",
+      "availability_locator": "Terminal evaluation methodology, sustainability discussion and annexes",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    },
+    {
+      "id": "RQ06",
+      "priority": "Medium",
+      "publication_ids": [
+        "COOK11"
+      ],
+      "topic": "Charcoal-kiln labels and detection outputs",
+      "availability_status": "not_located",
+      "availability_detail": "The JRC publication describes FAO expert-labelled kilns and trained models. A downloadable study dataset or code package was not identified on its public record.",
+      "contacts": [
+        {
+          "name": "Marijn van der Velde",
+          "email": "marijn.van-der-velde@ec.europa.eu",
+          "role": "Coauthor of the Somalia paper; verified public correspondence in a separate 2024 primary publication",
+          "source_url": "https://essd.copernicus.org/articles/16/5723/2024/",
+          "locator": "Author information/corresponding author; original Somalia author list in JRC134273"
+        }
+      ],
+      "data_to_request": "FAO kiln delineations and shareable geospatial detections; training/validation split, labels and uncertainty/error tables; model weights/code if releasable; permitted image-access route or derivative-only alternative.",
+      "why_useful": "Can support checking charcoal-production mapping and spatial evidence relevant to cooking-fuel supply and environmental impacts.",
+      "reuse_limit": "Lead author is Astrid Verhegghen; the listed contact is a coauthor route, not a confirmed data custodian. Commercial imagery rights and kiln-to-charcoal conversion still require separate checks.",
+      "availability_source_url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC134273",
+      "availability_locator": "Article abstract and public repository record",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    },
+    {
+      "id": "RQ07",
+      "priority": "Medium",
+      "publication_ids": [
+        "COOK01",
+        "COOK05"
+      ],
+      "topic": "Cooking-fuel survey replication files",
+      "availability_status": "public_base_missing_replication",
+      "availability_detail": "SIHBS2022 has an official SNBS microdata access route. The missing item is the papers' cleaned analysis files/code and precise recoding decisions, not proof that survey data are unavailable.",
+      "contacts": [
+        {
+          "name": "Dahir Abdi Ali",
+          "email": "daahir@simad.edu.so",
+          "role": "Corresponding author of COOK01 and coauthor of COOK05",
+          "source_url": "https://econjournals.com/index.php/ijeep/article/download/19826/9622",
+          "locator": "Published PDF p1 correspondence"
+        }
+      ],
+      "data_to_request": "Analysis scripts, variable/fuel recoding dictionary, sample exclusions, weights/strata/cluster settings and exact source-data version; shareable derived tables rather than redistribution of restricted respondent records.",
+      "why_useful": "Helps reconcile incompatible fuel categories and obtain reproducible cooking baselines from the existing evidence, without counting repeated survey analyses as new observations.",
+      "reuse_limit": "Household fuel choice is not consumption quantity or measured exposure; SIHBS access conditions apply. Definition and confidence-interval issues remain to be clarified.",
+      "availability_source_url": "https://microdata.nbs.gov.so/index.php/catalog/59",
+      "availability_locator": "Official SIHBS2022 catalogue DDI-SOM-SNBS-SIHBS-2022-v02; papers' methods",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    },
+    {
+      "id": "RQ08",
+      "priority": "Medium",
+      "publication_ids": [
+        "PU17"
+      ],
+      "topic": "Mogadishu irrigation prototype observations",
+      "availability_status": "author_request",
+      "availability_detail": "The publisher states that supporting data are available from corresponding author A.F.A on reasonable request.",
+      "contacts": [
+        {
+          "name": "Abdirahman Farah Ali",
+          "email": "afarah@just.edu.so",
+          "role": "Corresponding author",
+          "source_url": "https://www.tandfonline.com/doi/full/10.1080/23311932.2026.2696549",
+          "locator": "Publisher author information; indexed primary full text"
+        }
+      ],
+      "data_to_request": "Thirty-day sensor and irrigation-event logs, manual-comparator water/labour records, calibration and experimental dates; controller code; pump power/runtime or metered energy only if actually recorded.",
+      "why_useful": "Supports checking productive-use water-demand/control assumptions and what can legitimately be inferred about electricity requirements.",
+      "reuse_limit": "One-square-metre experiment; water savings are not measured energy savings. Do not extrapolate directly to farm-scale or national pumping demand.",
+      "availability_source_url": "https://www.tandfonline.com/doi/full/10.1080/23311932.2026.2696549",
+      "availability_locator": "Methods and Data availability statement",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    },
+    {
+      "id": "RQ09",
+      "priority": "High",
+      "publication_ids": [
+        "PU06"
+      ],
+      "topic": "Women's fisheries organisations and cold-chain constraints",
+      "availability_status": "not_located",
+      "availability_detail": "The report explicitly describes digital Kobo responses and a database; no underlying respondent file was located.",
+      "contacts": [
+        {
+          "name": "Stefania Valentini (author); GIZ Sector Project Food and Nutrition Security",
+          "email": "sves@giz.de",
+          "role": "Published institutional/project contact; NOT the author's personal email",
+          "source_url": "https://www.giz.de/en/downloads/giz2024-en-studie-somalia.pdf",
+          "locator": "PDF p2 imprint/author"
+        }
+      ],
+      "data_to_request": "De-identified Kobo exports, questionnaire and dictionary for the 21 groups and 5 individual vendors in Kismayo/Badhadhe surveyed December 2022–January 2023; coded storage/ice/access/operational constraints and any underlying cost/throughput observations.",
+      "why_useful": "Helps identify actual refrigeration service needs and business constraints relevant to productive energy use and avoids sizing systems from equipment counts alone.",
+      "reuse_limit": "Organisational survey data are not metered refrigeration loads, temperature records or a causal earnings estimate; those measurements may not exist.",
+      "availability_source_url": "https://www.giz.de/en/downloads/giz2024-en-studie-somalia.pdf",
+      "availability_locator": "Introduction and printed pp9–10 data collection/work plan",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    },
+    {
+      "id": "RQ10",
+      "priority": "High",
+      "publication_ids": [
+        "PU08"
+      ],
+      "topic": "Healthcare electricity sizing and cost assumptions",
+      "availability_status": "not_located",
+      "availability_detail": "The public brief supplies results/assumptions; a site-level source inventory and calculation workbook were not identified.",
+      "contacts": [
+        {
+          "name": "Katherine Patterson",
+          "email": "katherine.patterson@unitar.org",
+          "role": "Coauthor with Shahaab Javeri; public GPA author correspondence",
+          "source_url": "https://www.humanitarianenergy.org/news/latest/de-risking-energy-investment-in-displacement-settings-gpa-at-cop-29-in-baku",
+          "locator": "Author byline, updated17January2025; email in indexed first-party version"
+        }
+      ],
+      "data_to_request": "Somalia facility-list definitions and status, source load estimates, component/diesel/finance assumptions, sizing/cost workbook, and clarification of inconsistent facility totals; identify which inputs are measured versus standardized.",
+      "why_useful": "Allows an auditable check of clinic energy needs and costing against the existing productive-use evidence.",
+      "reuse_limit": "Do not assume measured hourly profiles exist. A standardized facility class does not prove reliable delivered service or commissioned equipment.",
+      "availability_source_url": "https://www.humanitarianenergy.org/assets/resources/HHE-brief-2025.pdf",
+      "availability_locator": "Somalia/facility tables and load/cost assumptions",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    },
+    {
+      "id": "RQ11",
+      "priority": "High",
+      "publication_ids": [
+        "TF008",
+        "TF014"
+      ],
+      "topic": "Official transport fuel accounting and LEAP inputs",
+      "availability_status": "not_located",
+      "availability_detail": "Official reports are public. Underlying fuel-allocation workbooks and the exact LEAP project files were not identified.",
+      "contacts": [
+        {
+          "name": "Ministry of Environment and Climate Change, Somalia",
+          "email": "info@moecc.gov.so",
+          "role": "Corporate report author/institutional routing contact; request climate-inventory or BUR data team",
+          "source_url": "https://moecc.gov.so/contact-us/",
+          "locator": "Official Contact Information"
+        }
+      ],
+      "data_to_request": "Transport fuel import/allocation and inventory workbooks, activity factors, units, source years and sector boundaries; BUR LEAP project/version; reconciliation of NDC baseline and target definitions; data-custodian contact.",
+      "why_useful": "Helps avoid double-counting imported fuels across transport and electricity and keeps policy scenarios consistent with their source accounting.",
+      "reuse_limit": "The BUR itself reports missing activity data. This request is for underlying accounting, not an assumed vehicle-level dataset. National targets are not a power-sector emissions cap.",
+      "availability_source_url": "https://unfccc.int/sites/default/files/resource/Somalia%20First%20BUR%20report%202022.pdf",
+      "availability_locator": "LEAP pp105–106 and transport pp134–135; NDC printed pp8,17,40",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    },
+    {
+      "id": "RQ12",
+      "priority": "Medium",
+      "publication_ids": [
+        "TF009"
+      ],
+      "topic": "Urban mobility research materials",
+      "availability_status": "not_located",
+      "availability_detail": "The synthesis is public; all underlying commissioned studies, coded material and instruments were not attached to the inspected report.",
+      "contacts": [
+        {
+          "name": "Tobias Hagmann",
+          "email": "tobias.hagmann@unibas.ch",
+          "role": "Lead author; address published in institutional October2024 CV",
+          "source_url": "https://politikwissenschaft.philhist.unibas.ch/fileadmin/user_upload/politikwissenschaft/Personen/Assistenzen/CV_Tobias_Hagmann_Uni_Basel__Oct_2024_.pdf",
+          "locator": "CV p1; institutional listing date, deliverability untested"
+        }
+      ],
+      "data_to_request": "Underlying urban-mobility study reports, interview guides, de-identified coded/aggregate findings on travel costs, modes, reliability and barriers; referral to the original field-study/data owners.",
+      "why_useful": "Adds local context to interpreting transport access, affordability and service assumptions in the existing research.",
+      "reuse_limit": "Qualitative institutional evidence is not a vehicle-kilometre or fuel-consumption survey. Do not request identifiable transcripts; coding/data ownership may differ by study.",
+      "availability_source_url": "https://riftvalley.net/wp-content/uploads/2022/06/rvi-commodified-cities-report-2022-en.pdf",
+      "availability_locator": "Methodology and urban mobility chapter, printed pp52–60",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    },
+    {
+      "id": "RQ13",
+      "priority": "Medium",
+      "publication_ids": [
+        "PU16"
+      ],
+      "topic": "Water-pumping maintenance and institutional barriers",
+      "availability_status": "restricted_author_request",
+      "availability_detail": "The preprint says qualitative data are not public because of confidentiality; anonymized access may be possible on reasonable request subject to ethical restrictions.",
+      "contacts": [
+        {
+          "name": "Mulatu Tiruneh Kassa",
+          "email": "mulat_tiruneh@yahoo.com",
+          "role": "Corresponding author; publicly printed professional correspondence",
+          "source_url": "https://doi.org/10.31223/X5FR2S",
+          "locator": "Author manuscript PDF p1 correspondence and Data availability"
+        }
+      ],
+      "data_to_request": "Permitted anonymized thematic coding/aggregate interview evidence, interview guide and codebook on solar/diesel pump maintenance, finance and service barriers; access/ethics conditions.",
+      "why_useful": "Can clarify maintenance and operating constraints behind water-energy assumptions, complementing engineering data already gathered.",
+      "reuse_limit": "Non-peer-reviewed qualitative preprint; no measured pump efficiencies, abstraction or hourly electricity series established. Participants' identities are unnecessary.",
+      "availability_source_url": "https://doi.org/10.31223/X5FR2S",
+      "availability_locator": "PDF cover Data availability; methodology",
+      "contact_checked_on": "2026-09-28",
+      "contact_verification_scope": "Publicly listed professional correspondence verified at the cited source; inbox deliverability and data-owner permission not tested.",
+      "outreach_status": "Not contacted",
+      "scope_note": "Data request for existing research; no change to research scope or model configuration."
+    }
+  ]
+}

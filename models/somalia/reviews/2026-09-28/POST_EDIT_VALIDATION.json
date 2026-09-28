@@ -1,0 +1,52 @@
+{
+  "review_date": "2026-09-28",
+  "baseline_commit": "cf5da4ddf04082b6e1d6fb62ce269516d6a56a17",
+  "scope": "Post-edit integrity, links and change-scope checks; not source-data validation or inbox verification.",
+  "checks": [
+    {
+      "check": "literature_manifest",
+      "passed": true,
+      "details": {
+        "files_checked": 84,
+        "mismatches": []
+      }
+    },
+    {
+      "check": "review_and_literature_local_links",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "original_data_snapshot_unchanged",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "changes_within_authorized_qc_and_contact_scope",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "corrected_literature_validation",
+      "passed": true,
+      "details": {
+        "passed": 749,
+        "failed": 0
+      }
+    },
+    {
+      "check": "request_register_not_outreach",
+      "passed": true,
+      "details": {
+        "requests": 13,
+        "contact_entries": 17
+      }
+    },
+    {
+      "check": "both_independent_reports_present",
+      "passed": true,
+      "details": null
+    }
+  ],
+  "passed": true
+}

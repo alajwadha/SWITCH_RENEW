@@ -2,6 +2,8 @@
 
 Status as of 28 September 2026. **Metadata availability is not validation of data contents.** Public API file listings and checksums are saved in [linked_repositories.json](provenance/linked_repositories.json). No workbook macros or models were run.
 
+**For contacting authors:** [13 prioritized data requests and 17 public contact entries](AUTHOR_DATA_REQUESTS.md) identify the files to ask for, availability evidence, professional contacts and usefulness to the existing research. This QC update does not change the research scope. “Not obtained” or “not located” does not mean that data are unavailable.
+
 ## Existing model and transport repositories
 
 | Source | Verified repository result | Reuse boundary |

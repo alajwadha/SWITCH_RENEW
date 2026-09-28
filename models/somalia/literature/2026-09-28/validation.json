@@ -2,7 +2,7 @@
   "review_date": "2026-09-28",
   "scope": "Structural, bibliography and selected arithmetic checks. Passing is not validation of every source finding.",
   "records": 73,
-  "checks_passed": 740,
+  "checks_passed": 749,
   "checks_failed": 0,
   "doi_metadata_retrieved": 42,
   "doi_metadata_exceptions": [
@@ -39,9 +39,16 @@
     "COOK12_forest_area_ratio": {
       "formula": "8729400/87294",
       "derived": 100.0
+    },
+    "E06_WT7_Xumbo_AEP_GWh": {
+      "formula": "1500*8760*0.29/1e6",
+      "derived": 3.8105999999999995,
+      "source_reported_GWh": 6.04,
+      "source_locator": "Tables2/11 and Eq33; source CF rounded to2 decimals",
+      "rounding_max_GWh": 3.8763
     }
   },
-  "maximum_substantive_words_per_record": 108,
+  "maximum_substantive_words_per_record": 115,
   "checks": [
     {
       "check": "unique_record_ids",
@@ -301,7 +308,7 @@
     {
       "check": "E06:compact_original_summary",
       "passed": true,
-      "details": 80
+      "details": 99
     },
     {
       "check": "E07:required_fields",
@@ -351,7 +358,7 @@
     {
       "check": "E07:compact_original_summary",
       "passed": true,
-      "details": 74
+      "details": 88
     },
     {
       "check": "E08:required_fields",
@@ -2101,7 +2108,7 @@
     {
       "check": "TF014:compact_original_summary",
       "passed": true,
-      "details": 91
+      "details": 115
     },
     {
       "check": "TF012:required_fields",
@@ -2851,7 +2858,7 @@
     {
       "check": "PU16:compact_original_summary",
       "passed": true,
-      "details": 76
+      "details": 84
     },
     {
       "check": "PU17:required_fields",
@@ -3501,7 +3508,7 @@
     {
       "check": "PU01:compact_original_summary",
       "passed": true,
-      "details": 77
+      "details": 82
     },
     {
       "check": "PU05:required_fields",
@@ -3719,6 +3726,46 @@
       "details": null
     },
     {
+      "check": "unique_data_request_ids",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "data_requests_reference_catalogued_publications",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "publication_request_cross_references",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "contacts_have_public_source_and_locator",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "contact_email_syntax_only",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "request_access_status_and_limits",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "request_csv_roundtrip",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "request_link_anchors",
+      "passed": true,
+      "details": null
+    },
+    {
       "check": "internal_markdown_file_links",
       "passed": true,
       "details": []
@@ -3909,6 +3956,11 @@
     },
     {
       "check": "independent_arithmetic_checks",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E06_turbine_arithmetic_and_rounding_conflict",
       "passed": true,
       "details": null
     }

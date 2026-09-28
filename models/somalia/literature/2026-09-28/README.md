@@ -16,13 +16,15 @@
 - [Full publication table](PUBLICATIONS.md) — source links, methods, findings, limitations and access depth.
 - [Review](REVIEW.md) and [balanced reading route](READING_GUIDE.md).
 - [Data/reproducibility leads](DATA_LEADS.md), [evidence gaps](EVIDENCE_GAPS.md), [source issues](SOURCE_ISSUES.md).
+- [Author contacts and exact data requests](AUTHOR_DATA_REQUESTS.md), with [CSV](author_data_requests.csv) and [JSON](author_data_requests.json).
+- [Two-reviewer QC and corrections](../../reviews/2026-09-28/README.md); research scope remains unchanged.
 - [CSV](publications.csv), [JSON](publications.json), [BibTeX](references.bib) for reuse.
 - [Advisor brief](ADVISOR_BRIEF.md), [protocol](PROTOCOL.md), [numbered work log](WORK_LOG.md).
 - [Reproduction and verification](REPRODUCE.md), [validation results](validation.json), [file hashes](checksums.sha256).
 
 ## What was verified
 
-4 short documents were read in full; 54 records were inspected through selected full-text sections; 8 through abstracts; 7 through official summaries, including the identity-only lead. These are inspection categories, not quality scores. DOI metadata, selected arithmetic/definition checks and linked-repository file listings supplement the content review.
+4 short documents were read in full; 55 records were inspected through selected full-text sections; 8 through abstracts; 6 through official summaries, including the identity-only lead. These are inspection categories, not quality scores. DOI metadata, selected arithmetic/definition checks and linked-repository file listings supplement the content review.
 
 This is a structured scoping review, not exhaustive systematic coverage. Underlying datasets, source calculations and models have not all been reproduced. Full article/report PDFs and extracted text are not redistributed here. Numerical conflicts and inaccessible corrections are retained explicitly.
 

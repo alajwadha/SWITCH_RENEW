@@ -24,7 +24,7 @@
     "method": "HOMER hybrid-system optimization using a historical hospital load profile.",
     "data_sources": "Technical-department load measurements; NASA weather inputs and synthesized hourly solar resource.",
     "key_findings": "The model selects a wind/diesel/battery configuration at a simulated USD 0.191/kWh.",
-    "limitations": "One site; raw series unavailable. Wind measurement wording conflicts with its NASA citation; Fig. 2 power/energy labels require care.",
+    "limitations": "One site; raw series not obtained and public download not identified. Wind measurement wording conflicts with its NASA citation; Fig.2 power/energy labels require care.",
     "project_relevance": "Obtain and validate the hospital’s original hourly load series.",
     "evidence_type": "techno-economic simulation with reported measured load",
     "inspection_depth": "selected_full_text_sections",
@@ -37,7 +37,10 @@
       "P04"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ01"
+    ]
   },
   {
     "id": "PU02",
@@ -77,7 +80,8 @@
       "P02"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU03",
@@ -117,7 +121,8 @@
       "P04"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU04",
@@ -157,7 +162,8 @@
       "P06"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU05",
@@ -196,7 +202,8 @@
       "P03"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU06",
@@ -235,7 +242,10 @@
       "TRACE01"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ09"
+    ]
   },
   {
     "id": "PU07",
@@ -273,7 +283,8 @@
       "P03"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU08",
@@ -312,7 +323,10 @@
       "P02"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ10"
+    ]
   },
   {
     "id": "PU09",
@@ -350,7 +364,8 @@
       "P03"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU10",
@@ -388,7 +403,8 @@
       "P01"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU11",
@@ -425,7 +441,8 @@
       "P12"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU12",
@@ -465,7 +482,8 @@
       "TRACE03"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU13",
@@ -508,7 +526,8 @@
       "P10"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU14",
@@ -547,7 +566,8 @@
       "P10"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU15",
@@ -586,7 +606,8 @@
       "P07"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU16",
@@ -620,13 +641,17 @@
     "inspection_depth": "selected_full_text_sections",
     "verification_locator": "Cover preprint/data statements; methods sections 2.3–2.6; findings and limitations.",
     "quality_appraisal": "Exploratory stakeholder evidence; explicitly not submitted to a peer-reviewed journal at posting.",
-    "data_code_availability": "Confidential transcripts; anonymized access may be possible subject to ethical restrictions.",
+    "data_code_availability": "Anonymized qualitative data may be available from corresponding author on reasonable request, subject to ethical/confidentiality restrictions; no data received.",
     "retrieved_date": "2026-09-28",
     "discovery_queries": [
       "P09"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "bibliographic_note": "Primary PDF cover orders authors Kassa, Elema, Redding; EarthArXiv/Crossref order Kassa, Redding, Elema. Catalogue retains the inspected PDF order; discrepancy is explicit.",
+    "data_request_ids": [
+      "RQ13"
+    ]
   },
   {
     "id": "PU17",
@@ -666,7 +691,10 @@
       "P11"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ08"
+    ]
   },
   {
     "id": "PU18",
@@ -709,6 +737,7 @@
       "P13"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   }
 ]

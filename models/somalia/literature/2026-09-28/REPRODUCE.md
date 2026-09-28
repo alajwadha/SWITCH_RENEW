@@ -8,10 +8,11 @@ From this snapshot directory, using Python 3.10 or later:
 
 ```console
 python scripts/build_catalogue.py
+python scripts/build_data_requests.py
 python scripts/validate_catalogue.py
 ```
 
-Both scripts use the Python standard library. The builder regenerates the table, JSON, CSV, BibTeX, README and summary. Validation checks structure, duplicate IDs/DOIs, bibliography matches, links, file hygiene and selected arithmetic; it then writes a SHA-256 manifest. It does **not** prove source claims or rerun any energy model.
+All three scripts use the Python standard library. The catalogue builder regenerates the table, JSON, CSV, BibTeX, README and summary. The data-request builder regenerates its table and CSV from `author_data_requests.json`. Validation checks structure, duplicate IDs/DOIs, bibliography matches, links, request references, file hygiene and selected arithmetic; it then writes a SHA-256 manifest. It does **not** prove source claims, verify email delivery or rerun any energy model.
 
 The sibling data-snapshot link is checked after copying into the repository. The checksum file excludes itself. Rebuilding or updating provenance may change hashes; preserve dated versions when making substantive revisions.
 

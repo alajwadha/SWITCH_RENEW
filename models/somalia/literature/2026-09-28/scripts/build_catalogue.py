@@ -34,6 +34,7 @@ def main():
             author=r['authors'][0]+(' et al.' if len(r['authors'])>1 else '')
             status=' **Identity only; findings unreviewed.**' if r.get('review_status')=='identity_only' else ''
             if r.get('scope_role')=='regional_context': status+=' **Regional context.**'
+            if r.get('data_request_ids'): status+=' Data request: '+', '.join('['+q+'](AUTHOR_DATA_REQUESTS.md#'+q.lower()+')' for q in r['data_request_ids'])+'.'
             table.append(f'| <a id="{r["id"].lower()}"></a> {r["id"]} / {r["year"] or "undated"} | [{cell(r["title"])}]({r["primary_url"]})<br>{cell(author)}; {cell(r["publication_type"])} | {cell(r["geographic_scope"])}. {cell(r["method"])} | {cell(r["key_findings"])}{status} | {cell(r["limitations"])} **{DEPTH[r["inspection_depth"]]}.** |')
         table.append('')
     write('PUBLICATIONS.md','\n'.join(table))
@@ -70,6 +71,8 @@ def main():
     '- [Full publication table](PUBLICATIONS.md) — source links, methods, findings, limitations and access depth.',
     '- [Review](REVIEW.md) and [balanced reading route](READING_GUIDE.md).',
     '- [Data/reproducibility leads](DATA_LEADS.md), [evidence gaps](EVIDENCE_GAPS.md), [source issues](SOURCE_ISSUES.md).',
+    '- [Author contacts and exact data requests](AUTHOR_DATA_REQUESTS.md), with [CSV](author_data_requests.csv) and [JSON](author_data_requests.json).',
+    '- [Two-reviewer QC and corrections](../../reviews/2026-09-28/README.md); research scope remains unchanged.',
     '- [CSV](publications.csv), [JSON](publications.json), [BibTeX](references.bib) for reuse.',
     '- [Advisor brief](ADVISOR_BRIEF.md), [protocol](PROTOCOL.md), [numbered work log](WORK_LOG.md).',
     '- [Reproduction and verification](REPRODUCE.md), [validation results](validation.json), [file hashes](checksums.sha256).',

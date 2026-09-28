@@ -38,7 +38,8 @@
       "TQ10"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF002",
@@ -77,7 +78,8 @@
       "TQ11"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF004",
@@ -115,7 +117,8 @@
       "TQ16"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF005",
@@ -154,7 +157,8 @@
       "TQ12"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF006",
@@ -193,7 +197,8 @@
       "TQ11"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF007",
@@ -231,7 +236,8 @@
       "TQ10"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF008",
@@ -272,7 +278,10 @@
       "TQ17"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ11"
+    ]
   },
   {
     "id": "TF009",
@@ -320,7 +329,10 @@
       "TQ11"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ12"
+    ]
   },
   {
     "id": "TF010",
@@ -359,7 +371,8 @@
       "TQ06"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF011",
@@ -396,7 +409,8 @@
       "TQ16"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF012",
@@ -436,7 +450,8 @@
       "TQ07"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF013",
@@ -476,7 +491,8 @@
       "TQ02"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF014",
@@ -499,23 +515,26 @@
     "full_text_url": "https://www.unfccc.int/sites/default/files/2025-09/Somalia%20NDC%203.0_Official_2025.pdf",
     "geographic_scope": "Somalia national targets",
     "data_period": "Updated submission 8 September 2025; target 2035",
-    "method": "National policy targets and sector priorities; underlying modeling not inspected in current run.",
-    "data_sources": "UNFCCC registry and NDC Partnership official country synopsis.",
+    "method": "National policy targets and sector priorities; selected full-text findings reconciled with the prior same-day data review. Underlying model not reproduced.",
+    "data_sources": "Official September2025 NDC and prior full-text extraction preserved in data snapshot statistics_facts.csv and CONFLICTS.md C05.",
     "key_findings": "Commits to 34% below business-as-usual GHG emissions by 2035, including energy, transport and cooling priorities.",
-    "limitations": "Official summary only: full updated PDF could not be retrieved in this run; no sector-specific arithmetic or assumptions audited here.",
+    "limitations": "Selected sections only. Baseline54.3 versus53.4MtCO2e and BAU/base-year target wording conflict. Full sector calculations and underlying model remain unaudited.",
     "project_relevance": "Policy scenario reference; targets must remain separate from measured outcomes.",
     "evidence_type": "policy/planning",
-    "inspection_depth": "official_summary",
-    "verification_locator": "UNFCCC Somalia registry lists8September2025; NDC Partnership country overview: https://ndcpartnership.org/country/som .",
-    "quality_appraisal": "Reliable for declared commitment and scope; insufficient for calibration or allocation of national cap to electricity.",
-    "data_code_availability": "Full PDF public URL supplied; current-run access limitation recorded.",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Official NDC printed pp8,17,20,26,40 (PDF pp10,19,22,28,42); prior data review C05 and statistics_facts SOM_STAT_021–028; same source SHA256 recorded in statistics_fuels.md.",
+    "quality_appraisal": "Authoritative policy commitment with unresolved internal accounting conflicts; not a calibration baseline or power-sector emissions cap.",
+    "data_code_availability": "Report previously inspected in full-text sections; current re-fetch met a web challenge. No underlying calculation workbook/LEAP package identified; access request RQ11.",
     "retrieved_date": "2026-09-28",
     "discovery_queries": [
       "TQ10",
       "TQ18"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ11"
+    ]
   },
   {
     "id": "TF015",
@@ -553,7 +572,8 @@
       "TQ07"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF016",
@@ -592,7 +612,8 @@
       "TQ11"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF017",
@@ -629,7 +650,8 @@
       "TQ01"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF018",
@@ -674,6 +696,7 @@
       "TQ20"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   }
 ]

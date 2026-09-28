@@ -41,6 +41,22 @@ def main():
     b=(ROOT/'references.bib').read_text(encoding='utf-8')
     check('bibtex_one_entry_per_record',len(re.findall(r'^@\w+\{',b,re.M))==len(rs))
     check('bibtex_balanced_braces',b.count('{')==b.count('}'))
+    request_package=json.loads((ROOT/'author_data_requests.json').read_text(encoding='utf-8'))
+    requests=request_package['requests']
+    request_ids={r['id'] for r in requests}
+    paper_ids={r['id'] for r in rs}
+    check('unique_data_request_ids',len(request_ids)==len(requests))
+    check('data_requests_reference_catalogued_publications',all(r['publication_ids'] and set(r['publication_ids'])<=paper_ids for r in requests))
+    check('publication_request_cross_references',all(r.get('data_request_ids',[])==[q['id'] for q in requests if r['id'] in q['publication_ids']] for r in rs))
+    contacts=[c for r in requests for c in r['contacts']]
+    check('contacts_have_public_source_and_locator',all(c.get('name') and c.get('role') and c.get('locator') and urlparse(c.get('source_url','')).scheme=='https' for c in contacts))
+    check('contact_email_syntax_only',all(re.fullmatch(r'[^\s@]+@[^\s@]+\.[^\s@]+',c['email']) for c in contacts))
+    statuses={'not_obtained','author_request','confidential','partial_public','not_located','public_base_missing_replication','restricted_author_request'}
+    check('request_access_status_and_limits',all(r['availability_status'] in statuses and r['availability_detail'] and r['reuse_limit'] and r['availability_locator'] for r in requests))
+    with (ROOT/'author_data_requests.csv').open(encoding='utf-8',newline='') as f: request_csv=list(csv.DictReader(f))
+    check('request_csv_roundtrip',len(request_csv)==len(requests) and all(c['request_id']==r['id'] and c['data_to_request']==r['data_to_request'] and c['contact_emails']=='; '.join(x['email'] for x in r['contacts']) for c,r in zip(request_csv,requests)))
+    request_md=(ROOT/'AUTHOR_DATA_REQUESTS.md').read_text(encoding='utf-8')
+    check('request_link_anchors',all('id="'+r['id'].lower()+'"' in request_md for r in requests))
     missing_links=[]
     for p in ROOT.rglob('*.md'):
         body=p.read_text(encoding='utf-8-sig')
@@ -73,8 +89,10 @@ def main():
     arithmetic={
         'E11_CAGR_percent':{'formula':'100*((1814.2/133.2)**(1/30)-1)','derived':100*((1814.2/133.2)**(1/30)-1),'source_reported':1.88},
         'E11_diesel_sum_MW':{'terms':['124.9','84','52.75','17.8','9.6','8.4','48.8'],'derived':str(sum(Decimal(v) for v in ['124.9','84','52.75','17.8','9.6','8.4','48.8'])),'source_total':'302.35'},
-        'COOK12_forest_area_ratio':{'formula':'8729400/87294','derived':8729400/87294}}
+        'COOK12_forest_area_ratio':{'formula':'8729400/87294','derived':8729400/87294},
+        'E06_WT7_Xumbo_AEP_GWh':{'formula':'1500*8760*0.29/1e6','derived':1500*8760*0.29/1e6,'source_reported_GWh':6.04,'source_locator':'Tables2/11 and Eq33; source CF rounded to2 decimals','rounding_max_GWh':1500*8760*0.295/1e6}}
     check('independent_arithmetic_checks',abs(arithmetic['E11_CAGR_percent']['derived']-9.095297580578832)<1e-10 and arithmetic['E11_diesel_sum_MW']['derived']=='346.25' and arithmetic['COOK12_forest_area_ratio']['derived']==100)
+    check('E06_turbine_arithmetic_and_rounding_conflict',abs(arithmetic['E06_WT7_Xumbo_AEP_GWh']['derived']-3.8106)<1e-10 and arithmetic['E06_WT7_Xumbo_AEP_GWh']['rounding_max_GWh']<6.035)
     result={'review_date':'2026-09-28','scope':'Structural, bibliography and selected arithmetic checks. Passing is not validation of every source finding.','records':len(rs),'checks_passed':sum(x['passed'] for x in checks),'checks_failed':len(errors),'doi_metadata_retrieved':len(titlechecks),'doi_metadata_exceptions':metadata_errors,'arithmetic_checks':arithmetic,'maximum_substantive_words_per_record':max(wordcounts.values()),'checks':checks}
     (ROOT/'validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8',newline='\n')
     manifest=[]

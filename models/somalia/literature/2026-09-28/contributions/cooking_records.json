@@ -37,7 +37,10 @@
       "CQ01"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ07"
+    ]
   },
   {
     "id": "COOK02",
@@ -80,7 +83,8 @@
       "CQ01"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK03",
@@ -120,7 +124,8 @@
       "CQ01"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK04",
@@ -161,7 +166,8 @@
       "CQ07"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK05",
@@ -200,7 +206,10 @@
       "CQ09"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ07"
+    ]
   },
   {
     "id": "COOK06",
@@ -243,7 +252,8 @@
       "CQ12"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK07",
@@ -282,7 +292,8 @@
       "CQ05"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK08",
@@ -323,7 +334,8 @@
       "CQ14"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK09",
@@ -363,7 +375,8 @@
       "CQ08"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK10",
@@ -404,7 +417,8 @@
       "CQ14"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK11",
@@ -447,7 +461,10 @@
       "CQ13"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ06"
+    ]
   },
   {
     "id": "COOK12",
@@ -486,7 +503,8 @@
       "CQ02"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK13",
@@ -525,7 +543,8 @@
       "CQ10"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK14",
@@ -564,7 +583,10 @@
       "CQ05"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ05"
+    ]
   },
   {
     "id": "COOK15",
@@ -604,7 +626,10 @@
       "CQ05"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ05"
+    ]
   },
   {
     "id": "COOK16",
@@ -643,7 +668,8 @@
       "CQ20"
     ],
     "review_status": "identity_only",
-    "scope_role": "followup_lead"
+    "scope_role": "followup_lead",
+    "data_request_ids": []
   },
   {
     "id": "COOK17",
@@ -681,7 +707,8 @@
       "CQ16"
     ],
     "review_status": "content_appraised",
-    "scope_role": "regional_context"
+    "scope_role": "regional_context",
+    "data_request_ids": []
   },
   {
     "id": "COOK18",
@@ -721,7 +748,8 @@
       "CQ21"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK19",
@@ -763,6 +791,7 @@
       "CQ22"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   }
 ]

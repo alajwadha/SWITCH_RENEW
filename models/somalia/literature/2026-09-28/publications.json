@@ -36,7 +36,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E15",
@@ -73,7 +74,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E10",
@@ -111,7 +113,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E11",
@@ -154,7 +157,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E06",
@@ -184,19 +188,22 @@
     "method": "Hourly station measurements, gap filling, Weibull fitting and turbine/economic simulations.",
     "data_sources": "FAO-SWALIM wind speed/direction at 10 m; commercial turbine curves.",
     "key_findings": "Site differences matter; Xumba Weyne has the strongest modeled wind potential among the three.",
-    "limitations": "One old measurement year; nearest-neighbor repair of gaps; hub-height outputs are extrapolated. Power-density units need checking.",
+    "limitations": "One old measurement year; gap-filled observations and extrapolated hub heights. Power-density unit labels conflict; Table 11 AEP/CF/rated-power combinations do not reconcile with Eq33.",
     "project_relevance": "Locate original SWALIM series and quality-control masks for resource validation.",
     "evidence_type": "observed resource plus simulation",
     "inspection_depth": "selected_full_text_sections",
-    "verification_locator": "Study area and measured data overview, Table 1; results and Tables 8–10; full-text XML.",
-    "quality_appraisal": "Strong measurement provenance relative to generic maps; not a bankable multi-year hub-height assessment.",
-    "data_code_availability": "No reusable data/code package verified in this review.",
+    "verification_locator": "Measured-data section/Table1; Tables2,5–11 and Eq33; Data availability and corresponding-author note in primary JATS XML.",
+    "quality_appraisal": "Useful station-data lead; published turbine-energy and economic outputs need clarification and independent recomputation.",
+    "data_code_availability": "Authors explicitly offer data on request. No downloadable raw series or code package verified; corresponding author Mohamed Jama, see RQ02.",
     "retrieved_date": "2026-09-28",
     "discovery_queries": [
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ02"
+    ]
   },
   {
     "id": "E07",
@@ -222,19 +229,22 @@
     "method": "Hourly wind observations at 10/30 m; Weibull/Rayleigh fits, height extrapolation and turbine comparisons.",
     "data_sources": "Hospital meteorological station and manufacturer turbine performance curves.",
     "key_findings": "Observed station data support site-specific wind analysis; turbine output is modeled.",
-    "limitations": "One station; extrapolation and turbine assumptions limit transfer. Raw series and quality flags were not obtained.",
+    "limitations": "One station; extrapolation limits transfer. Abstract prints 4494/6203 m/s versus Table1 4.49/6.20. Table2 labels rotor diameter cm for values90–172. Raw series and quality flags not obtained.",
     "project_relevance": "Concrete provider/location lead for independent resource checks.",
     "evidence_type": "observed resource plus simulation",
     "inspection_depth": "selected_full_text_sections",
-    "verification_locator": "Analysis and results / Description of the site, PDF p.5; Table 1 and turbine results. Author-institution copy matched DOI.",
-    "quality_appraisal": "Useful multi-year measurement lead; power estimates need raw-data and micrositing validation.",
+    "verification_locator": "Institutional PDF p1 abstract and correspondence; p5 station description/Table1; p6 Table2. Abstract conflict visually checked.",
+    "quality_appraisal": "Useful multi-year measurement lead; quarantine conflicting printed magnitudes and verify turbine specifications before numerical reuse.",
     "data_code_availability": "No reusable data/code package verified in this review.",
     "retrieved_date": "2026-09-28",
     "discovery_queries": [
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ01"
+    ]
   },
   {
     "id": "E08",
@@ -275,7 +285,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E09",
@@ -316,7 +327,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E13",
@@ -359,7 +371,8 @@
     ],
     "bibliographic_note": "Crossref date 25 April 2024; PDF says available online 28 April. Year is consistent; PDF author list takes precedence.",
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E16",
@@ -398,7 +411,8 @@
     ],
     "bibliographic_note": "SciSpace returned inconsistent author names for duplicate records; corrected against publisher PDF.",
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E03",
@@ -442,7 +456,10 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ03"
+    ]
   },
   {
     "id": "E05",
@@ -484,7 +501,10 @@
     ],
     "evidence_family": "Somalia SEAP / OnSSET; shares foundational data with E17",
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ04"
+    ]
   },
   {
     "id": "E02",
@@ -523,7 +543,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E19",
@@ -593,7 +614,8 @@
     ],
     "evidence_family": "CCG starter kits; related to E18",
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E04",
@@ -631,7 +653,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E17",
@@ -672,7 +695,10 @@
     ],
     "evidence_family": "Somalia SEAP / OnSSET; shared foundation with E05",
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ04"
+    ]
   },
   {
     "id": "E18",
@@ -736,7 +762,8 @@
     ],
     "evidence_family": "CCG starter kits; country note linked by E19",
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E01",
@@ -778,7 +805,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK01",
@@ -818,7 +846,10 @@
       "CQ01"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ07"
+    ]
   },
   {
     "id": "COOK05",
@@ -857,7 +888,10 @@
       "CQ09"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ07"
+    ]
   },
   {
     "id": "COOK06",
@@ -900,7 +934,8 @@
       "CQ12"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK07",
@@ -939,7 +974,8 @@
       "CQ05"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK16",
@@ -978,7 +1014,8 @@
       "CQ20"
     ],
     "review_status": "identity_only",
-    "scope_role": "followup_lead"
+    "scope_role": "followup_lead",
+    "data_request_ids": []
   },
   {
     "id": "COOK18",
@@ -1018,7 +1055,8 @@
       "CQ21"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK02",
@@ -1061,7 +1099,8 @@
       "CQ01"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK04",
@@ -1102,7 +1141,8 @@
       "CQ07"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK11",
@@ -1145,7 +1185,10 @@
       "CQ13"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ06"
+    ]
   },
   {
     "id": "COOK14",
@@ -1184,7 +1227,10 @@
       "CQ05"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ05"
+    ]
   },
   {
     "id": "COOK19",
@@ -1226,7 +1272,8 @@
       "CQ22"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK03",
@@ -1266,7 +1313,8 @@
       "CQ01"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK12",
@@ -1305,7 +1353,8 @@
       "CQ02"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK10",
@@ -1346,7 +1395,8 @@
       "CQ14"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK09",
@@ -1386,7 +1436,8 @@
       "CQ08"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK08",
@@ -1427,7 +1478,8 @@
       "CQ14"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK17",
@@ -1465,7 +1517,8 @@
       "CQ16"
     ],
     "review_status": "content_appraised",
-    "scope_role": "regional_context"
+    "scope_role": "regional_context",
+    "data_request_ids": []
   },
   {
     "id": "COOK13",
@@ -1504,7 +1557,8 @@
       "CQ10"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "COOK15",
@@ -1544,7 +1598,10 @@
       "CQ05"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ05"
+    ]
   },
   {
     "id": "TF015",
@@ -1582,7 +1639,8 @@
       "TQ07"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF016",
@@ -1621,7 +1679,8 @@
       "TQ11"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF013",
@@ -1661,7 +1720,8 @@
       "TQ02"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF014",
@@ -1684,23 +1744,26 @@
     "full_text_url": "https://www.unfccc.int/sites/default/files/2025-09/Somalia%20NDC%203.0_Official_2025.pdf",
     "geographic_scope": "Somalia national targets",
     "data_period": "Updated submission 8 September 2025; target 2035",
-    "method": "National policy targets and sector priorities; underlying modeling not inspected in current run.",
-    "data_sources": "UNFCCC registry and NDC Partnership official country synopsis.",
+    "method": "National policy targets and sector priorities; selected full-text findings reconciled with the prior same-day data review. Underlying model not reproduced.",
+    "data_sources": "Official September2025 NDC and prior full-text extraction preserved in data snapshot statistics_facts.csv and CONFLICTS.md C05.",
     "key_findings": "Commits to 34% below business-as-usual GHG emissions by 2035, including energy, transport and cooling priorities.",
-    "limitations": "Official summary only: full updated PDF could not be retrieved in this run; no sector-specific arithmetic or assumptions audited here.",
+    "limitations": "Selected sections only. Baseline54.3 versus53.4MtCO2e and BAU/base-year target wording conflict. Full sector calculations and underlying model remain unaudited.",
     "project_relevance": "Policy scenario reference; targets must remain separate from measured outcomes.",
     "evidence_type": "policy/planning",
-    "inspection_depth": "official_summary",
-    "verification_locator": "UNFCCC Somalia registry lists8September2025; NDC Partnership country overview: https://ndcpartnership.org/country/som .",
-    "quality_appraisal": "Reliable for declared commitment and scope; insufficient for calibration or allocation of national cap to electricity.",
-    "data_code_availability": "Full PDF public URL supplied; current-run access limitation recorded.",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Official NDC printed pp8,17,20,26,40 (PDF pp10,19,22,28,42); prior data review C05 and statistics_facts SOM_STAT_021–028; same source SHA256 recorded in statistics_fuels.md.",
+    "quality_appraisal": "Authoritative policy commitment with unresolved internal accounting conflicts; not a calibration baseline or power-sector emissions cap.",
+    "data_code_availability": "Report previously inspected in full-text sections; current re-fetch met a web challenge. No underlying calculation workbook/LEAP package identified; access request RQ11.",
     "retrieved_date": "2026-09-28",
     "discovery_queries": [
       "TQ10",
       "TQ18"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ11"
+    ]
   },
   {
     "id": "TF012",
@@ -1740,7 +1803,8 @@
       "TQ07"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF018",
@@ -1785,7 +1849,8 @@
       "TQ20"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF010",
@@ -1824,7 +1889,8 @@
       "TQ06"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF011",
@@ -1861,7 +1927,8 @@
       "TQ16"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF017",
@@ -1898,7 +1965,8 @@
       "TQ01"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF008",
@@ -1939,7 +2007,10 @@
       "TQ17"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ11"
+    ]
   },
   {
     "id": "TF009",
@@ -1987,7 +2058,10 @@
       "TQ11"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ12"
+    ]
   },
   {
     "id": "TF006",
@@ -2026,7 +2100,8 @@
       "TQ11"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF007",
@@ -2064,7 +2139,8 @@
       "TQ10"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF005",
@@ -2103,7 +2179,8 @@
       "TQ12"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF004",
@@ -2141,7 +2218,8 @@
       "TQ16"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF002",
@@ -2180,7 +2258,8 @@
       "TQ11"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "TF001",
@@ -2221,7 +2300,8 @@
       "TQ10"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU11",
@@ -2258,7 +2338,8 @@
       "P12"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU16",
@@ -2292,13 +2373,17 @@
     "inspection_depth": "selected_full_text_sections",
     "verification_locator": "Cover preprint/data statements; methods sections 2.3–2.6; findings and limitations.",
     "quality_appraisal": "Exploratory stakeholder evidence; explicitly not submitted to a peer-reviewed journal at posting.",
-    "data_code_availability": "Confidential transcripts; anonymized access may be possible subject to ethical restrictions.",
+    "data_code_availability": "Anonymized qualitative data may be available from corresponding author on reasonable request, subject to ethical/confidentiality restrictions; no data received.",
     "retrieved_date": "2026-09-28",
     "discovery_queries": [
       "P09"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "bibliographic_note": "Primary PDF cover orders authors Kassa, Elema, Redding; EarthArXiv/Crossref order Kassa, Redding, Elema. Catalogue retains the inspected PDF order; discrepancy is explicit.",
+    "data_request_ids": [
+      "RQ13"
+    ]
   },
   {
     "id": "PU17",
@@ -2338,7 +2423,10 @@
       "P11"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ08"
+    ]
   },
   {
     "id": "PU07",
@@ -2376,7 +2464,8 @@
       "P03"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU08",
@@ -2415,7 +2504,10 @@
       "P02"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ10"
+    ]
   },
   {
     "id": "PU09",
@@ -2453,7 +2545,8 @@
       "P03"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU10",
@@ -2491,7 +2584,8 @@
       "P01"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU12",
@@ -2531,7 +2625,8 @@
       "TRACE03"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU18",
@@ -2574,7 +2669,8 @@
       "P13"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU02",
@@ -2614,7 +2710,8 @@
       "P02"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU03",
@@ -2654,7 +2751,8 @@
       "P04"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU04",
@@ -2694,7 +2792,8 @@
       "P06"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU06",
@@ -2733,7 +2832,10 @@
       "TRACE01"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ09"
+    ]
   },
   {
     "id": "E14",
@@ -2772,7 +2874,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU01",
@@ -2799,7 +2902,7 @@
     "method": "HOMER hybrid-system optimization using a historical hospital load profile.",
     "data_sources": "Technical-department load measurements; NASA weather inputs and synthesized hourly solar resource.",
     "key_findings": "The model selects a wind/diesel/battery configuration at a simulated USD 0.191/kWh.",
-    "limitations": "One site; raw series unavailable. Wind measurement wording conflicts with its NASA citation; Fig. 2 power/energy labels require care.",
+    "limitations": "One site; raw series not obtained and public download not identified. Wind measurement wording conflicts with its NASA citation; Fig.2 power/energy labels require care.",
     "project_relevance": "Obtain and validate the hospital’s original hourly load series.",
     "evidence_type": "techno-economic simulation with reported measured load",
     "inspection_depth": "selected_full_text_sections",
@@ -2812,7 +2915,10 @@
       "P04"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ01"
+    ]
   },
   {
     "id": "PU05",
@@ -2851,7 +2957,8 @@
       "P03"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU13",
@@ -2894,7 +3001,8 @@
       "P10"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU14",
@@ -2933,7 +3041,8 @@
       "P10"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "PU15",
@@ -2972,6 +3081,7 @@
       "P07"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   }
 ]

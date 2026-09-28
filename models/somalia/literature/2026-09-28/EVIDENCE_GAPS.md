@@ -24,7 +24,7 @@ Do not propose broad novelty claims such as “first national energy model,” �
 ## Gaps in this review itself
 
 - Not a subscription-database systematic review; search rankings are dynamic and some full texts are blocked.
-- Eight entries use abstract-level inspection and seven use official summaries; one of the latter is identity-only. Their findings cannot support a full methods audit.
+- Eight entries use abstract-level inspection and six use official summaries; one of the latter is identity-only. Their findings cannot support a full methods audit.
 - No comprehensive retraction/Crossmark audit was performed. DOI relationships were checked where available; the desalination correction is explicitly flagged.
 - Arabic/Somali-language grey literature, theses, utility archives and unpublished evaluations may be underrepresented.
 - Hydrogen, geothermal, ocean energy, aviation, shipping and industrial process heat did not receive enough directly inspected Somalia-specific material for a strong synthesis. This is a coverage limit and follow-up search priority, not proof of technical potential or research absence.

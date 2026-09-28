@@ -39,7 +39,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E02",
@@ -78,7 +79,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E03",
@@ -122,7 +124,10 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ03"
+    ]
   },
   {
     "id": "E04",
@@ -160,7 +165,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E05",
@@ -202,7 +208,10 @@
     ],
     "evidence_family": "Somalia SEAP / OnSSET; shares foundational data with E17",
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ04"
+    ]
   },
   {
     "id": "E06",
@@ -232,19 +241,22 @@
     "method": "Hourly station measurements, gap filling, Weibull fitting and turbine/economic simulations.",
     "data_sources": "FAO-SWALIM wind speed/direction at 10 m; commercial turbine curves.",
     "key_findings": "Site differences matter; Xumba Weyne has the strongest modeled wind potential among the three.",
-    "limitations": "One old measurement year; nearest-neighbor repair of gaps; hub-height outputs are extrapolated. Power-density units need checking.",
+    "limitations": "One old measurement year; gap-filled observations and extrapolated hub heights. Power-density unit labels conflict; Table 11 AEP/CF/rated-power combinations do not reconcile with Eq33.",
     "project_relevance": "Locate original SWALIM series and quality-control masks for resource validation.",
     "evidence_type": "observed resource plus simulation",
     "inspection_depth": "selected_full_text_sections",
-    "verification_locator": "Study area and measured data overview, Table 1; results and Tables 8–10; full-text XML.",
-    "quality_appraisal": "Strong measurement provenance relative to generic maps; not a bankable multi-year hub-height assessment.",
-    "data_code_availability": "No reusable data/code package verified in this review.",
+    "verification_locator": "Measured-data section/Table1; Tables2,5–11 and Eq33; Data availability and corresponding-author note in primary JATS XML.",
+    "quality_appraisal": "Useful station-data lead; published turbine-energy and economic outputs need clarification and independent recomputation.",
+    "data_code_availability": "Authors explicitly offer data on request. No downloadable raw series or code package verified; corresponding author Mohamed Jama, see RQ02.",
     "retrieved_date": "2026-09-28",
     "discovery_queries": [
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ02"
+    ]
   },
   {
     "id": "E07",
@@ -270,19 +282,22 @@
     "method": "Hourly wind observations at 10/30 m; Weibull/Rayleigh fits, height extrapolation and turbine comparisons.",
     "data_sources": "Hospital meteorological station and manufacturer turbine performance curves.",
     "key_findings": "Observed station data support site-specific wind analysis; turbine output is modeled.",
-    "limitations": "One station; extrapolation and turbine assumptions limit transfer. Raw series and quality flags were not obtained.",
+    "limitations": "One station; extrapolation limits transfer. Abstract prints 4494/6203 m/s versus Table1 4.49/6.20. Table2 labels rotor diameter cm for values90–172. Raw series and quality flags not obtained.",
     "project_relevance": "Concrete provider/location lead for independent resource checks.",
     "evidence_type": "observed resource plus simulation",
     "inspection_depth": "selected_full_text_sections",
-    "verification_locator": "Analysis and results / Description of the site, PDF p.5; Table 1 and turbine results. Author-institution copy matched DOI.",
-    "quality_appraisal": "Useful multi-year measurement lead; power estimates need raw-data and micrositing validation.",
+    "verification_locator": "Institutional PDF p1 abstract and correspondence; p5 station description/Table1; p6 Table2. Abstract conflict visually checked.",
+    "quality_appraisal": "Useful multi-year measurement lead; quarantine conflicting printed magnitudes and verify turbine specifications before numerical reuse.",
     "data_code_availability": "No reusable data/code package verified in this review.",
     "retrieved_date": "2026-09-28",
     "discovery_queries": [
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ01"
+    ]
   },
   {
     "id": "E08",
@@ -323,7 +338,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E09",
@@ -364,7 +380,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E10",
@@ -402,7 +419,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E11",
@@ -445,7 +463,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E12",
@@ -484,7 +503,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E13",
@@ -527,7 +547,8 @@
     ],
     "bibliographic_note": "Crossref date 25 April 2024; PDF says available online 28 April. Year is consistent; PDF author list takes precedence.",
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E14",
@@ -566,7 +587,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E15",
@@ -603,7 +625,8 @@
       "Root web and SciSpace searches; see electricity_search_log.json"
     ],
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E16",
@@ -642,7 +665,8 @@
     ],
     "bibliographic_note": "SciSpace returned inconsistent author names for duplicate records; corrected against publisher PDF.",
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E17",
@@ -683,7 +707,10 @@
     ],
     "evidence_family": "Somalia SEAP / OnSSET; shared foundation with E05",
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": [
+      "RQ04"
+    ]
   },
   {
     "id": "E18",
@@ -747,7 +774,8 @@
     ],
     "evidence_family": "CCG starter kits; country note linked by E19",
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   },
   {
     "id": "E19",
@@ -817,6 +845,7 @@
     ],
     "evidence_family": "CCG starter kits; related to E18",
     "review_status": "content_appraised",
-    "scope_role": "somalia_relevant"
+    "scope_role": "somalia_relevant",
+    "data_request_ids": []
   }
 ]

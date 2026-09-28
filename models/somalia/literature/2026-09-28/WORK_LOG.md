@@ -14,6 +14,10 @@ Date: 28 September2026. The previous Somalia data snapshot is preserved separate
 10. Prepared thematic synthesis, full publication table, CSV/JSON/BibTeX exports, balanced reading route, data leads, evidence gaps and an advisor checkpoint brief. No outreach or model execution occurred.
 11. Validated structure, identifiers, DOI/title checks, chronology, original-summary lengths, links, arithmetic checks and publication-file hygiene. Verification results and file hashes are saved with this snapshot.
 12. Prepared publication in the existing isolated checkout, adding only this literature snapshot and index links. Existing Kenya work and the previous data snapshot were not edited. Final GitHub commit/readback is recorded in the task completion message.
+13. At the user's request, assigned two independent reviewers: a simulated Kammen-inspired advisor lens and a scientific-data/reproducibility auditor. Preserved their reports and original chat claims under `models/somalia/reviews/2026-09-28/`.
+14. Reconciled TF014 with the earlier NDC full-text inspection; corrected PU01 access wording; added E06 request availability and turbine-output inconsistency; flagged E07 printed wind/rotor units; retained PU16 author-order discrepancy without changing its primary-PDF ordering.
+15. Prepared author/data-request contacts with exact missing files, source locators, use limits and value to the existing research. The user clarified these are for their own data requests, not a research redesign. No research scope, model configuration, raw dataset or advisor recommendation was changed or sent.
+16. Regenerated affected catalogues, source-issue notes, contact exports and verification records. The QC disposition records what was corrected, retained or left unresolved.
 
 ## Decisions and limitations
 
