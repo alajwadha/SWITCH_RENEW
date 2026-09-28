@@ -1,0 +1,1193 @@
+[
+  {
+    "name": "OnSSET Somalia-1.0",
+    "requested_url": "https://api.github.com/repos/OnSSET/onsset/git/trees/Somalia-1.0?recursive=1",
+    "retrieved_at_utc": "2026-09-28T18:13:01.173540+00:00",
+    "inspection": "Repository metadata/file listing only; inputs not validated or executed",
+    "status": "retrieved",
+    "resolved_url": "https://api.github.com/repos/OnSSET/onsset/git/trees/Somalia-1.0?recursive=1",
+    "tree_sha": "bd5a27c267b231efb18b0eb964b7a3d17a80e4c7",
+    "files": [
+      {
+        "path": ".coveralls.yml",
+        "sha": "7050bb6f74bf0bfb2f77eb32054a1a5860853f3c",
+        "size": 45
+      },
+      {
+        "path": ".gitignore",
+        "sha": "c35f777e79d543daa96171013faaa0ca4def4d91",
+        "size": 1454
+      },
+      {
+        "path": ".pre-commit-config.yaml",
+        "sha": "dd12b959588f1e8658f9607f9578cb5f5f23e7cb",
+        "size": 608
+      },
+      {
+        "path": ".readthedocs.yml",
+        "sha": "18574f2d51b04649a595a296b9985cff4e3141f7",
+        "size": 528
+      },
+      {
+        "path": ".travis.yml",
+        "sha": "fb3e77d18616f5ec9f0d58425dffa8e9857ccc13",
+        "size": 1181
+      },
+      {
+        "path": "CONTRIBUTING.md",
+        "sha": "723f8fea11c2d8698ab7ea5beff48846f496b1cc",
+        "size": 1556
+      },
+      {
+        "path": "LICENSE",
+        "sha": "af6bbb5fd397419efcd17a1a5782a9347178d653",
+        "size": 1164
+      },
+      {
+        "path": "OnSSET Software Requirements.docx",
+        "sha": "70278092f9d37baf29660a596ed9f9664c39c220",
+        "size": 1476261
+      },
+      {
+        "path": "OnSSET Steering Committee Minutes.docx",
+        "sha": "8839d44286c6688ca47b0ce435440e81592a2e11",
+        "size": 126771
+      },
+      {
+        "path": "OnSSET_notebook.ipynb",
+        "sha": "ba09bce6d2b7ac67d7b21c817b2133d949bfa626",
+        "size": 50259
+      },
+      {
+        "path": "README.md",
+        "sha": "1ff8a43cd8574894c59ee1bcbb73ea116410e730",
+        "size": 1590
+      },
+      {
+        "path": "Resource_Assessment/Conditioning/Conditioning_ArcGIS.py",
+        "sha": "91fd8028c4a51960b3ccbf0d892e1b225a0c3f09",
+        "size": 2634
+      },
+      {
+        "path": "Resource_Assessment/Conditioning/Conditioning_QGIS.txt",
+        "sha": "25dfb254e20af6e81a5537f4c5599b6e4611126f",
+        "size": 1496
+      },
+      {
+        "path": "Resource_Assessment/DBF_to_CSV/DBF_to_CSV.py",
+        "sha": "97544cc72346618f083a03367d9cedfc48a8ceb0",
+        "size": 811
+      },
+      {
+        "path": "Resource_Assessment/DieselCost/Diesel_Cost.xlsx",
+        "sha": "f403bcd6e3ebd327ebda11bec7f00b5ff0da1964",
+        "size": 29945
+      },
+      {
+        "path": "Resource_Assessment/HydroPower/Hydropower Methodology.pdf",
+        "sha": "f9d2850deda895c4f4dd6ae04b34fbe6a91cff53",
+        "size": 459714
+      },
+      {
+        "path": "Resource_Assessment/HydroPower/HydropowerTool.zip",
+        "sha": "51f2aaf44fb14796ab1581afdf8dccc2855efc3e",
+        "size": 4259
+      },
+      {
+        "path": "Resource_Assessment/HydroPower/Methodology For HydroPower (Additional).txt",
+        "sha": "a786618761257ae6998e94e25dc7184694ddbe5c",
+        "size": 6776
+      },
+      {
+        "path": "Resource_Assessment/HydroPower/Methodology for HydroPower.txt",
+        "sha": "784b34f1607c22766fee0fd748bd8662c7e52f1a",
+        "size": 5369
+      },
+      {
+        "path": "Resource_Assessment/Prepare_The_Geodatabase/Prepare_The_Geodatabase.docx",
+        "sha": "23405621620de2fdb95f32533e6a04e5fc21b266",
+        "size": 2819902
+      },
+      {
+        "path": "Resource_Assessment/Python_Commands_For_Processing_GIS_Data/Extraction.xml",
+        "sha": "ddb914be2aef14d886d20f2143adae2db5b3baff",
+        "size": 1026
+      },
+      {
+        "path": "Resource_Assessment/Python_Commands_For_Processing_GIS_Data/How to run the plugin for GEP.docx",
+        "sha": "47dfbedda390614186c6d40b0ca92e574c70ab04",
+        "size": 554281
+      },
+      {
+        "path": "Resource_Assessment/Python_Commands_For_Processing_GIS_Data/Python Commands for Processing GIS Data_ArcGIS.txt",
+        "sha": "7fcef731570e4327dd39d206f3914ed4cfd41756",
+        "size": 7504
+      },
+      {
+        "path": "Resource_Assessment/Python_Commands_For_Processing_GIS_Data/Python Commands for Processing GIS Data_QGIS.txt",
+        "sha": "58552c953037ceba81794a3ad95c5aeb47fab113",
+        "size": 30156
+      },
+      {
+        "path": "Resource_Assessment/Python_Commands_For_Processing_GIS_Data/gep_onsset.zip",
+        "sha": "ae465abdb8af7a17274065b4b19523bd1da19c32",
+        "size": 151556
+      },
+      {
+        "path": "Resource_Assessment/Python_Commands_For_Processing_GIS_Data/onsset.zip",
+        "sha": "137a9b119fdce057ea805a0380c9d111339fd382",
+        "size": 83063
+      },
+      {
+        "path": "Resource_Assessment/Solar/Solar Methodology.pdf",
+        "sha": "d2b39e4f874b37f68ce518c385cd88591cf1d3e0",
+        "size": 294560
+      },
+      {
+        "path": "Resource_Assessment/Solar/Solar Raster Preparation.txt",
+        "sha": "63cabf9f53674875285e2bc16f3de2a7a8c6d7f9",
+        "size": 823
+      },
+      {
+        "path": "Resource_Assessment/Wind/Wind data methodology.txt",
+        "sha": "d625cccd070236c0acb267ae0a1a499457f6733d",
+        "size": 912
+      },
+      {
+        "path": "Resource_Assessment/Wind/Wind power integration in OnSSET.docx",
+        "sha": "9ec19df6aaf54c57e67f6962b75c0570a245ad23",
+        "size": 41908
+      },
+      {
+        "path": "docs/Makefile",
+        "sha": "155c7f6dfed861af339c9659bc6c71135d6198a1",
+        "size": 603
+      },
+      {
+        "path": "docs/OnSSET_model.rst",
+        "sha": "430223e697cf1395cb9eb4e626971591deac0913",
+        "size": 13780
+      },
+      {
+        "path": "docs/README.md",
+        "sha": "672dd6de9fee9076dd8de60457f318d964059ff2",
+        "size": 145
+      },
+      {
+        "path": "docs/_static/.gitkeep",
+        "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "size": 0
+      },
+      {
+        "path": "docs/analysis_visualization.rst",
+        "sha": "5f668eb48541c8208ea03d5736cefb9a474de9fc",
+        "size": 23030
+      },
+      {
+        "path": "docs/applications.rst",
+        "sha": "75d7b554dcb3113ab876ccf25886c73e69b30656",
+        "size": 2173
+      },
+      {
+        "path": "docs/conf.py",
+        "sha": "8f161a7340b37ce384b4d0d5e54bc37d68b3bcc0",
+        "size": 6816
+      },
+      {
+        "path": "docs/contact.rst",
+        "sha": "fe0cf28348e61f011d48e1df6833707131f33693",
+        "size": 1010
+      },
+      {
+        "path": "docs/data_acquisition.rst",
+        "sha": "7c92c90578f1b5c37caae0c1f20fface00eb6366",
+        "size": 63251
+      },
+      {
+        "path": "docs/data_preparation.rst",
+        "sha": "0691735e48f979c2438bdbaf9d194e9ce6a1f5e7",
+        "size": 19391
+      },
+      {
+        "path": "docs/faq.rst",
+        "sha": "9484034f4c0252c33dd3b06f455d1bed8979650a",
+        "size": 1219
+      },
+      {
+        "path": "docs/img/A1.png",
+        "sha": "d1e1a69ab6dc512eff6833756063b007ff71463c",
+        "size": 65890
+      },
+      {
+        "path": "docs/img/A2.png",
+        "sha": "24b24700cd668b5fd641a0f6ff107dfd8ccad6e8",
+        "size": 100006
+      },
+      {
+        "path": "docs/img/A3.JPG",
+        "sha": "50b69394e01652090e4d57b2d5aca9f76c9117ba",
+        "size": 21779
+      },
+      {
+        "path": "docs/img/AfghanCF.png",
+        "sha": "f0488ec2b2d23474c320c4f125448db532af014a",
+        "size": 287798
+      },
+      {
+        "path": "docs/img/AfghanDiesel.png",
+        "sha": "2a0fba9920421e0dae1758dd17ccccbf1fa36c38",
+        "size": 398555
+      },
+      {
+        "path": "docs/img/AfghanElec.png",
+        "sha": "ddccf7c846d7ae7c35989a200db2cdb36c373693",
+        "size": 187622
+      },
+      {
+        "path": "docs/img/AfghanHydro.png",
+        "sha": "be170ccb2dd20473cf25df96f8206dc9393d6895",
+        "size": 201465
+      },
+      {
+        "path": "docs/img/AfghanSolar.png",
+        "sha": "7c07ec756b997b08f578b0138dd2f0bf5ce58e62",
+        "size": 358336
+      },
+      {
+        "path": "docs/img/AfghanWind.png",
+        "sha": "5080632c43720f7df9df39485d35df61bb995125",
+        "size": 292103
+      },
+      {
+        "path": "docs/img/DatasetNames.png",
+        "sha": "4291343be79520e821bb208db750d3c196cc3f9f",
+        "size": 176859
+      },
+      {
+        "path": "docs/img/GridExtension.png",
+        "sha": "30b14b7856560b09f675940493ca90a587f931e2",
+        "size": 138251
+      },
+      {
+        "path": "docs/img/Kth_logo.png",
+        "sha": "d45dcb57b19ae25ad2b7de84f29e477aefc91b26",
+        "size": 175945
+      },
+      {
+        "path": "docs/img/Kth_logo1.png",
+        "sha": "d964970ba95b119dd09ef66bfca45f30ec5b5f9f",
+        "size": 114485
+      },
+      {
+        "path": "docs/img/Line14.png",
+        "sha": "1513f1a75d40b9f592b1e8c1c76944881bb3e488",
+        "size": 11183
+      },
+      {
+        "path": "docs/img/Line17.png",
+        "sha": "8e03e614f4c9175b6f3e5ba82295cc1e88c6eda4",
+        "size": 5213
+      },
+      {
+        "path": "docs/img/Line20.png",
+        "sha": "4e1e31bc2c06e697767a7de5f3513dbf0416db6a",
+        "size": 5525
+      },
+      {
+        "path": "docs/img/Line24.png",
+        "sha": "5f31aa5b7c7ad9962a9d9eb9bcc2d4f20cb683d8",
+        "size": 7971
+      },
+      {
+        "path": "docs/img/Methodology.png",
+        "sha": "949a14e3f643d7b1e42c87b7439fcec7f583de22",
+        "size": 122540
+      },
+      {
+        "path": "docs/img/MiniGrid.png",
+        "sha": "aa0bad09e5dcadc885de65d65a6e788299b58bd3",
+        "size": 302615
+      },
+      {
+        "path": "docs/img/RwandaElec.png",
+        "sha": "4d087db92c3215bb6bdf18cd085dbac653633ada",
+        "size": 144228
+      },
+      {
+        "path": "docs/img/StandAlone.png",
+        "sha": "998c3ca06e8c3c29023edf8efd469635cb71d1b3",
+        "size": 152409
+      },
+      {
+        "path": "docs/img/TierFramework.png",
+        "sha": "34f5c33dcbed78bb8b0cf6f6e5010ee7e382fdea",
+        "size": 193661
+      },
+      {
+        "path": "docs/img/UNPlatform.PNG",
+        "sha": "a60ba60f0bf0621dea0fbd6a17881554e22a59f2",
+        "size": 1768268
+      },
+      {
+        "path": "docs/img/Workspace.png",
+        "sha": "e0943095329a6128c626c1b46534a7112f8fa66b",
+        "size": 18486
+      },
+      {
+        "path": "docs/img/crs1.png",
+        "sha": "25bc9f6e703ea8e14187f4454a405a52fb43d43b",
+        "size": 87364
+      },
+      {
+        "path": "docs/img/crs2.png",
+        "sha": "91cd50c55a01314df5314422c28c9ff07886252e",
+        "size": 366231
+      },
+      {
+        "path": "docs/img/energydata.png",
+        "sha": "458848efe11844f33cdd464cc2880a95c75a4c8a",
+        "size": 629060
+      },
+      {
+        "path": "docs/img/fig1.png",
+        "sha": "ce54d60cd239a3a176a83fc7151ddb7cf8e1629c",
+        "size": 30060
+      },
+      {
+        "path": "docs/img/fig10.jpg",
+        "sha": "b8a2449ac93d1407ac7af115cd9e4e58d5cfa37d",
+        "size": 421945
+      },
+      {
+        "path": "docs/img/fig11.jpg",
+        "sha": "6b5ca266134491914e406761648941d6603e682a",
+        "size": 43077
+      },
+      {
+        "path": "docs/img/fig12.jpg",
+        "sha": "bfdc12a4a3ef3c5b336bb46f209fbaa541557bca",
+        "size": 35609
+      },
+      {
+        "path": "docs/img/fig13.jpg",
+        "sha": "ea6b5ec1ab4bb9b7d6e036d2b5376c787b4e0cc7",
+        "size": 36167
+      },
+      {
+        "path": "docs/img/fig14.jpg",
+        "sha": "406a2a1b9aa14046e924c492073b5244921f2f83",
+        "size": 46040
+      },
+      {
+        "path": "docs/img/fig15.jpg",
+        "sha": "11de7891f444f82e82a49dd473d5bfa391ccc8d6",
+        "size": 70554
+      },
+      {
+        "path": "docs/img/fig16.jpg",
+        "sha": "13f2c640e9604ec18043a199e6056c63fef17062",
+        "size": 71846
+      },
+      {
+        "path": "docs/img/fig2.jpg",
+        "sha": "6a3974939907a3d204ec3961ce1b7c08303ea0ff",
+        "size": 135559
+      },
+      {
+        "path": "docs/img/fig3.png",
+        "sha": "2a09d9611cea76509b05ec83e9c1afdd6776a571",
+        "size": 28751
+      },
+      {
+        "path": "docs/img/fig4.png",
+        "sha": "04df844675a53520398f330a09bbf2324f666d51",
+        "size": 93463
+      },
+      {
+        "path": "docs/img/fig5.jpg",
+        "sha": "c1c987dbbcdf8e9ed9fca2f69be1bada71fb71c0",
+        "size": 224306
+      },
+      {
+        "path": "docs/img/fig6.png",
+        "sha": "18bff9234d26598117527a620a8cd04d88abc52d",
+        "size": 11152
+      },
+      {
+        "path": "docs/img/fig7.jpg",
+        "sha": "96642ba774264e68b9c5024ebff5df9590fcbafc",
+        "size": 456650
+      },
+      {
+        "path": "docs/img/fig8.png",
+        "sha": "35ad1fe57532a4770e2a04514453799ac98525be",
+        "size": 29233
+      },
+      {
+        "path": "docs/img/fig9.png",
+        "sha": "7e2968b2cdeff677454775c3803ef51da6d7a898",
+        "size": 26460
+      },
+      {
+        "path": "docs/img/kth_logo2.png",
+        "sha": "8e721006338e7db0fb7b6a5d004d70c0ed67b11e",
+        "size": 9374
+      },
+      {
+        "path": "docs/img/onsset_logo.png",
+        "sha": "7ce9a325dcbbf67da907a7e585120a64b85532ca",
+        "size": 23496
+      },
+      {
+        "path": "docs/img/onsset_logo1.png",
+        "sha": "8d0f632ff8b319b8804ec67c2d257d0a05ac275f",
+        "size": 38122
+      },
+      {
+        "path": "docs/img/onssetorg.png",
+        "sha": "abcd6fb219e7f8730efccbfc42ce827692f8015c",
+        "size": 633065
+      },
+      {
+        "path": "docs/img/optimusnew.png",
+        "sha": "9ef7186d7f027298521574061515e060155ad1f9",
+        "size": 16059
+      },
+      {
+        "path": "docs/img/partners/abb_orig.jpg",
+        "sha": "572094e9d7a7eb31dd354013c26512e8b4fba4bc",
+        "size": 6054
+      },
+      {
+        "path": "docs/img/partners/iea.png",
+        "sha": "69ff24fa4e2c0b6deeae2781f095d81fbeb864f9",
+        "size": 8011
+      },
+      {
+        "path": "docs/img/partners/kth.png",
+        "sha": "713499daa976d2d1b4430c8f4730b8cad42d8b58",
+        "size": 11351
+      },
+      {
+        "path": "docs/img/partners/nasa.png",
+        "sha": "b90216284cd8c9f6db2d77e62cf834df0803f32d",
+        "size": 62534
+      },
+      {
+        "path": "docs/img/partners/sida.jpg",
+        "sha": "d2e7574e27461661fdb2eb2920c36fc8ff298218",
+        "size": 3709
+      },
+      {
+        "path": "docs/img/partners/undesa.jpg",
+        "sha": "4e5797f8fb5998a4348dc72df92b86181da020ce",
+        "size": 7912
+      },
+      {
+        "path": "docs/img/partners/undp.jpg",
+        "sha": "6ad6e04e62e4173e9c8a722c84500a9db3e97daa",
+        "size": 5628
+      },
+      {
+        "path": "docs/img/partners/vetenskapsr.jpg",
+        "sha": "2a79f3866aa9e4c5b5b9bd37ae4aca82a9a1487b",
+        "size": 20112
+      },
+      {
+        "path": "docs/img/partners/wbank.jpg",
+        "sha": "cdf54bddb1e127cdf4563864b7bde83c96d3c82b",
+        "size": 149077
+      },
+      {
+        "path": "docs/img/raster.png",
+        "sha": "d41b77bd47e7ac8e7c5233e1350ab1ea5694cfb6",
+        "size": 135564
+      },
+      {
+        "path": "docs/img/reddit.png",
+        "sha": "f923158dbcfa6ce00b51d2b07d62238a53ae8180",
+        "size": 3543
+      },
+      {
+        "path": "docs/img/sdg7-onsset-org.png",
+        "sha": "6fc06a757e7a919d714602b990d6df863ed6720a",
+        "size": 24731
+      },
+      {
+        "path": "docs/img/step2.png",
+        "sha": "64489bd08e74d0876c94ad70c640af17dc579b62",
+        "size": 51754
+      },
+      {
+        "path": "docs/img/step3.png",
+        "sha": "d082acdd1f5a030fc69f7e002bc6b2e8051c1af5",
+        "size": 13225
+      },
+      {
+        "path": "docs/img/step4.png",
+        "sha": "d6a395a0c3abd21b61c1c6cedfc0e9189f7125c7",
+        "size": 13594
+      },
+      {
+        "path": "docs/img/step5.png",
+        "sha": "febc31619de127c52846f97b423dfb5dedf68659",
+        "size": 26811
+      },
+      {
+        "path": "docs/img/step6.png",
+        "sha": "dd4a2b2cdcc165635c7735c3eb12bc433f9ddd09",
+        "size": 27100
+      },
+      {
+        "path": "docs/img/step7a.png",
+        "sha": "556b770ba5ab2fc258ccf997d55b0fe863088459",
+        "size": 22606
+      },
+      {
+        "path": "docs/img/step7b.PNG",
+        "sha": "c1b096d259521dd793f0fc64cb8608510508aaa0",
+        "size": 25679
+      },
+      {
+        "path": "docs/img/vector.png",
+        "sha": "583e4b2f97b0763ed53366f8d2d81a7041eae784",
+        "size": 120326
+      },
+      {
+        "path": "docs/img/vizstep1.PNG",
+        "sha": "0445711cb9e6c63599c89ee6695b1664c5a384df",
+        "size": 62562
+      },
+      {
+        "path": "docs/img/vizstep2.png",
+        "sha": "fe301780dba0ad07998bff32931f903af5715c40",
+        "size": 58920
+      },
+      {
+        "path": "docs/img/vizstep3.png",
+        "sha": "48a13a7fadb73470c88e0438fa0fc8cc3f6cc1b9",
+        "size": 69309
+      },
+      {
+        "path": "docs/img/vizstep4.png",
+        "sha": "2298cd3eb8bca330286da67b34e7ca27bf9ed273",
+        "size": 68756
+      },
+      {
+        "path": "docs/index.rst",
+        "sha": "115ae146204be79827f20c9a1ea6b72f6acf5a93",
+        "size": 1656
+      },
+      {
+        "path": "docs/installation.rst",
+        "sha": "c66a366a74af954c4b6be109d9bc21824b8544c1",
+        "size": 4845
+      },
+      {
+        "path": "docs/introduction.rst",
+        "sha": "5516c0650b211a27636a491c9dbc1b3f10591f9e",
+        "size": 3589
+      },
+      {
+        "path": "docs/license.rst",
+        "sha": "e647e18078dab05f75dc79df0f716a6d2f8d5e8b",
+        "size": 63
+      },
+      {
+        "path": "docs/make.bat",
+        "sha": "37ba6ec87293a7e6313fe3609cb5c23e8640f019",
+        "size": 810
+      },
+      {
+        "path": "docs/otherinputs.rst",
+        "sha": "3eeb806d08295a63ae7245d98a3aece26a4a31ed",
+        "size": 30754
+      },
+      {
+        "path": "docs/references.rst",
+        "sha": "2a2136baf125a135a3ae52a5d76cbab6ce611027",
+        "size": 3986
+      },
+      {
+        "path": "docs/requirements.txt",
+        "sha": "f5a332be49dad3bd964b78de7b48b34b5f4e614a",
+        "size": 69
+      },
+      {
+        "path": "docs/running.rst",
+        "sha": "e9281f87031307efd77a0eeee07ce62e1609100b",
+        "size": 11301
+      },
+      {
+        "path": "onsset/__init__.py",
+        "sha": "4ad1d22102f80a9fb01fbea85e3ca610d0389a73",
+        "size": 395
+      },
+      {
+        "path": "onsset/ethiopia_runner.py",
+        "sha": "d0ef8c3998a31c52526d7f41f501a130f8c7280c",
+        "size": 297
+      },
+      {
+        "path": "onsset/gui_runner.py",
+        "sha": "cae7bf6fcab497c847825bc6bb6b1bf015a80ba1",
+        "size": 2008
+      },
+      {
+        "path": "onsset/hybrids_pv.py",
+        "sha": "59dabc4200bc47fc3f602b5541d1ef9fc7b3691b",
+        "size": 16134
+      },
+      {
+        "path": "onsset/hybrids_wind.py",
+        "sha": "e7c5d9bec18f45bbca702b6139e547d6a47bbd05",
+        "size": 15653
+      },
+      {
+        "path": "onsset/onsset.py",
+        "sha": "8d6359a02c602bd179d977074a31f3d710c57324",
+        "size": 133774
+      },
+      {
+        "path": "onsset/runner.py",
+        "sha": "4c51289c62a728e7807b295c504997af670e147e",
+        "size": 19195
+      },
+      {
+        "path": "onsset/specs.py",
+        "sha": "9fbed25b24add8c5134342caf6ad9dbe1cb8dcd3",
+        "size": 2045
+      },
+      {
+        "path": "output_parameters.md",
+        "sha": "a2cada96b868142dc2a779ccadfd666681e1eb28",
+        "size": 9572
+      },
+      {
+        "path": "requirements.txt",
+        "sha": "2f22921a44ededa051658d600bda7ed0e8b46c16",
+        "size": 215
+      },
+      {
+        "path": "resources/Ethiopia_optimalmix_LCOE.png",
+        "sha": "a28402717d720cb96e2f29da4a648dc91bdb7d33",
+        "size": 229062
+      },
+      {
+        "path": "resources/Nigeria_LCOE_surface.png",
+        "sha": "c8e9f9dc08f398bb6052a2c3ff0c93e0531bc3ed",
+        "size": 347532
+      },
+      {
+        "path": "resources/nigeria_electrification_map.png",
+        "sha": "75d38231cb02d665671f80cd6f35618b067ea99c",
+        "size": 329462
+      },
+      {
+        "path": "resources/onsset_logo_3.png",
+        "sha": "7ce9a325dcbbf67da907a7e585120a64b85532ca",
+        "size": 23496
+      },
+      {
+        "path": "resources/pip1.png",
+        "sha": "abc9c2d7fb1f09e51f346dabda957ed4fa66eade",
+        "size": 5133
+      },
+      {
+        "path": "resources/pip2.png",
+        "sha": "810ffda46371ba9ee6a8f9f78ec28b11a0ee4031",
+        "size": 4824
+      },
+      {
+        "path": "setup.py",
+        "sha": "f899f6c5beeaa4bd2869bade416d71d5b9760ffe",
+        "size": 1177
+      },
+      {
+        "path": "test/run_profile.py",
+        "sha": "3c85b3d4944c9f9e61d1285f1a3ae4a0710399ea",
+        "size": 1824
+      },
+      {
+        "path": "test/test_data/dj-specs-test.xlsx",
+        "sha": "a2b4362a121926778c8e2db148e7f85ce769c0df",
+        "size": 11277
+      },
+      {
+        "path": "test/test_data/dj-test.csv",
+        "sha": "fa866b0cf299311b3352025f9edaa003a409c71c",
+        "size": 276787
+      },
+      {
+        "path": "test/test_diesel_cost.py",
+        "sha": "7f3db9f5922df16d31986ce0966b6cdfc4142c57",
+        "size": 2789
+      },
+      {
+        "path": "test/test_elevation.py",
+        "sha": "c2fe1d91e1a33caf668a171e470caadd71ae60fb",
+        "size": 847
+      },
+      {
+        "path": "test/test_grid_penalty.py",
+        "sha": "a62db3630dfda496c6b17511148b38ceacd29ab1",
+        "size": 1457
+      },
+      {
+        "path": "test/test_land_cover.py",
+        "sha": "b18766297e0291ee055d31f21f2c2b496f66123f",
+        "size": 862
+      },
+      {
+        "path": "test/test_results/expected_full.csv",
+        "sha": "23fa663ed7d9760d7b8ae7b1f5e100a09341062d",
+        "size": 986107
+      },
+      {
+        "path": "test/test_results/expected_summary.csv",
+        "sha": "fe97942be6f86daa576f30d9f16cd6be943bc85d",
+        "size": 1116
+      },
+      {
+        "path": "test/test_road_distance.py",
+        "sha": "168003d79e32c93774cec9b943e3717b4c06a565",
+        "size": 897
+      },
+      {
+        "path": "test/test_runner.py",
+        "sha": "4708d548c5adc12b3ce4cee071abbe983e795f24",
+        "size": 2348
+      },
+      {
+        "path": "test/test_slope.py",
+        "sha": "3bfcb0a8ab49556fb0e959ee6e292aeb7e758c4b",
+        "size": 831
+      },
+      {
+        "path": "test/test_substation_distance.py",
+        "sha": "de40778e4b6a9efe507d77ea9e432e5b4889d687",
+        "size": 878
+      },
+      {
+        "path": "test/test_wind_cfs.py",
+        "sha": "3050b56f22945e3ae27f280c06e8e51f62422837",
+        "size": 1660
+      }
+    ],
+    "tree_truncated": false,
+    "previous_attempts": [
+      {
+        "name": "OnSSET Somalia-1.0",
+        "requested_url": "https://api.github.com/repos/OnSSET/onsset/branches/Somalia-1.0",
+        "retrieved_at_utc": "2026-09-28T18:11:16.483219+00:00",
+        "inspection": "Repository metadata/file listing only; inputs not validated or executed",
+        "status": "error",
+        "error": "HTTP Error 404: Not Found"
+      }
+    ]
+  },
+  {
+    "name": "Somalia energy starter kit",
+    "requested_url": "https://zenodo.org/api/records/4725474",
+    "retrieved_at_utc": "2026-09-28T18:13:01.590760+00:00",
+    "inspection": "Repository metadata/file listing only; inputs not validated or executed",
+    "status": "retrieved",
+    "resolved_url": "https://zenodo.org/api/records/7540465",
+    "doi": "10.5281/zenodo.7540465",
+    "title": "CCG Starter Data Kit: Somalia",
+    "publication_date": "2023-01-16",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "files": [
+      {
+        "key": "Table8_SOM.csv",
+        "size": 533,
+        "checksum": "md5:248e6c035b580c6a0e54373af6db3721",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Table8_SOM.csv/content"
+        }
+      },
+      {
+        "key": "Table9_SOM.csv",
+        "size": 253,
+        "checksum": "md5:debd7cb3eeb74e0ccbdad0da819c4cfb",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Table9_SOM.csv/content"
+        }
+      },
+      {
+        "key": "readme.txt",
+        "size": 1480,
+        "checksum": "md5:0b44ae5cd093d15f15f89905f0047567",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/readme.txt/content"
+        }
+      },
+      {
+        "key": "Table7_SOM.csv",
+        "size": 314,
+        "checksum": "md5:6654188d9bbb42759b14d0757060191b",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Table7_SOM.csv/content"
+        }
+      },
+      {
+        "key": "Somalia_FF_SAND.xlsm",
+        "size": 42919805,
+        "checksum": "md5:0df9c4fe172df160540691cde611e36f",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Somalia_FF_SAND.xlsm/content"
+        }
+      },
+      {
+        "key": "Somalia_LCv1_SAND.xlsm",
+        "size": 42941428,
+        "checksum": "md5:87e55dbd8dc57205cc4b265aed8fd2da",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Somalia_LCv1_SAND.xlsm/content"
+        }
+      },
+      {
+        "key": "Table6_SOM.csv",
+        "size": 3607,
+        "checksum": "md5:c0d9ae8f4df0b2166ca0618f6c940b2a",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Table6_SOM.csv/content"
+        }
+      },
+      {
+        "key": "Table5_SOM.csv",
+        "size": 518,
+        "checksum": "md5:0b4e00adf29f090063ce255158951078",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Table5_SOM.csv/content"
+        }
+      },
+      {
+        "key": "Table4_SOM.csv",
+        "size": 547,
+        "checksum": "md5:e2851b7b2cb5ada06255f5f7e5f6e046",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Table4_SOM.csv/content"
+        }
+      },
+      {
+        "key": "Table3_SOM.csv",
+        "size": 3465,
+        "checksum": "md5:cb8c25ca93d86d4f9b329c58bd44ae85",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Table3_SOM.csv/content"
+        }
+      },
+      {
+        "key": "Somalia Base SAND.xlsm",
+        "size": 42867055,
+        "checksum": "md5:77a8d40888fd9542ec7d366f252a4dbf",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Somalia%20Base%20SAND.xlsm/content"
+        }
+      },
+      {
+        "key": "Table2_SOM.csv",
+        "size": 4954,
+        "checksum": "md5:3ea4008153409fd89e82695686523190",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Table2_SOM.csv/content"
+        }
+      },
+      {
+        "key": "Table1_SOM.csv",
+        "size": 1074,
+        "checksum": "md5:d237a8f6c23cc7a3fa29cd69d0ff6226",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Table1_SOM.csv/content"
+        }
+      },
+      {
+        "key": "references.bib",
+        "size": 8436,
+        "checksum": "md5:642926aa4d5d6bac6539a6ef08dec8e8",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/references.bib/content"
+        }
+      },
+      {
+        "key": "Somalia_Scenario_Constraints.xlsx",
+        "size": 676802,
+        "checksum": "md5:f218a7215b0c2ca63ec3d0952f9c18c6",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Somalia_Scenario_Constraints.xlsx/content"
+        }
+      },
+      {
+        "key": "Somalia_NZv2_SAND.xlsm",
+        "size": 42930967,
+        "checksum": "md5:f787ffa3699be9814014c29f4930fe89",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Somalia_NZv2_SAND.xlsm/content"
+        }
+      },
+      {
+        "key": "Somalia_NZv1_SAND.xlsm",
+        "size": 42944712,
+        "checksum": "md5:3a1c03f1c15b79e9d34be0c54c0cf249",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Somalia_NZv1_SAND.xlsm/content"
+        }
+      },
+      {
+        "key": "Somalia_LCv2_SAND.xlsm",
+        "size": 42928320,
+        "checksum": "md5:5b943b2b6f01f558055599857eed02a1",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/Somalia_LCv2_SAND.xlsm/content"
+        }
+      },
+      {
+        "key": "New_Somalia_Data_Collection.xlsx",
+        "size": 7473914,
+        "checksum": "md5:151de8469c6d6650ce364dac5cb6da59",
+        "links": {
+          "self": "https://zenodo.org/api/records/7540465/files/New_Somalia_Data_Collection.xlsx/content"
+        }
+      }
+    ],
+    "previous_attempts": [
+      {
+        "name": "Somalia energy starter kit",
+        "requested_url": "https://zenodo.org/api/records/4725474",
+        "retrieved_at_utc": "2026-09-28T18:11:16.724303+00:00",
+        "inspection": "Repository metadata/file listing only; inputs not validated or executed",
+        "status": "retrieved",
+        "resolved_url": "https://zenodo.org/api/records/7540465",
+        "doi": "10.5281/zenodo.7540465",
+        "title": "CCG Starter Data Kit: Somalia",
+        "publication_date": "2023-01-16",
+        "license": {
+          "id": "cc-by-4.0"
+        },
+        "files": [
+          {
+            "key": "Table8_SOM.csv",
+            "size": 533,
+            "checksum": "md5:248e6c035b580c6a0e54373af6db3721",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Table8_SOM.csv/content"
+            }
+          },
+          {
+            "key": "Table9_SOM.csv",
+            "size": 253,
+            "checksum": "md5:debd7cb3eeb74e0ccbdad0da819c4cfb",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Table9_SOM.csv/content"
+            }
+          },
+          {
+            "key": "readme.txt",
+            "size": 1480,
+            "checksum": "md5:0b44ae5cd093d15f15f89905f0047567",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/readme.txt/content"
+            }
+          },
+          {
+            "key": "Table7_SOM.csv",
+            "size": 314,
+            "checksum": "md5:6654188d9bbb42759b14d0757060191b",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Table7_SOM.csv/content"
+            }
+          },
+          {
+            "key": "Somalia_FF_SAND.xlsm",
+            "size": 42919805,
+            "checksum": "md5:0df9c4fe172df160540691cde611e36f",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Somalia_FF_SAND.xlsm/content"
+            }
+          },
+          {
+            "key": "Somalia_LCv1_SAND.xlsm",
+            "size": 42941428,
+            "checksum": "md5:87e55dbd8dc57205cc4b265aed8fd2da",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Somalia_LCv1_SAND.xlsm/content"
+            }
+          },
+          {
+            "key": "Table6_SOM.csv",
+            "size": 3607,
+            "checksum": "md5:c0d9ae8f4df0b2166ca0618f6c940b2a",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Table6_SOM.csv/content"
+            }
+          },
+          {
+            "key": "Table5_SOM.csv",
+            "size": 518,
+            "checksum": "md5:0b4e00adf29f090063ce255158951078",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Table5_SOM.csv/content"
+            }
+          },
+          {
+            "key": "Table4_SOM.csv",
+            "size": 547,
+            "checksum": "md5:e2851b7b2cb5ada06255f5f7e5f6e046",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Table4_SOM.csv/content"
+            }
+          },
+          {
+            "key": "Table3_SOM.csv",
+            "size": 3465,
+            "checksum": "md5:cb8c25ca93d86d4f9b329c58bd44ae85",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Table3_SOM.csv/content"
+            }
+          },
+          {
+            "key": "Somalia Base SAND.xlsm",
+            "size": 42867055,
+            "checksum": "md5:77a8d40888fd9542ec7d366f252a4dbf",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Somalia%20Base%20SAND.xlsm/content"
+            }
+          },
+          {
+            "key": "Table2_SOM.csv",
+            "size": 4954,
+            "checksum": "md5:3ea4008153409fd89e82695686523190",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Table2_SOM.csv/content"
+            }
+          },
+          {
+            "key": "Table1_SOM.csv",
+            "size": 1074,
+            "checksum": "md5:d237a8f6c23cc7a3fa29cd69d0ff6226",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Table1_SOM.csv/content"
+            }
+          },
+          {
+            "key": "references.bib",
+            "size": 8436,
+            "checksum": "md5:642926aa4d5d6bac6539a6ef08dec8e8",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/references.bib/content"
+            }
+          },
+          {
+            "key": "Somalia_Scenario_Constraints.xlsx",
+            "size": 676802,
+            "checksum": "md5:f218a7215b0c2ca63ec3d0952f9c18c6",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Somalia_Scenario_Constraints.xlsx/content"
+            }
+          },
+          {
+            "key": "Somalia_NZv2_SAND.xlsm",
+            "size": 42930967,
+            "checksum": "md5:f787ffa3699be9814014c29f4930fe89",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Somalia_NZv2_SAND.xlsm/content"
+            }
+          },
+          {
+            "key": "Somalia_NZv1_SAND.xlsm",
+            "size": 42944712,
+            "checksum": "md5:3a1c03f1c15b79e9d34be0c54c0cf249",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Somalia_NZv1_SAND.xlsm/content"
+            }
+          },
+          {
+            "key": "Somalia_LCv2_SAND.xlsm",
+            "size": 42928320,
+            "checksum": "md5:5b943b2b6f01f558055599857eed02a1",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/Somalia_LCv2_SAND.xlsm/content"
+            }
+          },
+          {
+            "key": "New_Somalia_Data_Collection.xlsx",
+            "size": 7473914,
+            "checksum": "md5:151de8469c6d6650ce364dac5cb6da59",
+            "links": {
+              "self": "https://zenodo.org/api/records/7540465/files/New_Somalia_Data_Collection.xlsx/content"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Somalia transport starter kit",
+    "requested_url": "https://zenodo.org/api/records/7998431",
+    "retrieved_at_utc": "2026-09-28T18:13:02.490587+00:00",
+    "inspection": "Repository metadata/file listing only; inputs not validated or executed",
+    "status": "retrieved",
+    "resolved_url": "https://zenodo.org/api/records/10409827",
+    "doi": "10.5281/zenodo.10409827",
+    "title": "Transport Starter Data Kit: Historical socio-transport data for Somalia",
+    "publication_date": "2023-12-20",
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "files": [
+      {
+        "key": "TSDK_Somalia.xlsx",
+        "size": 169692,
+        "checksum": "md5:c6685aef3b3036c2f502b8d41b1cf633",
+        "links": {
+          "self": "https://zenodo.org/api/records/10409827/files/TSDK_Somalia.xlsx/content"
+        }
+      },
+      {
+        "key": "Somalia.pdf",
+        "size": 273478,
+        "checksum": "md5:4ea31cbfd542554f512ea9f0a133c794",
+        "links": {
+          "self": "https://zenodo.org/api/records/10409827/files/Somalia.pdf/content"
+        }
+      }
+    ],
+    "previous_attempts": [
+      {
+        "name": "Somalia transport starter kit",
+        "requested_url": "https://zenodo.org/api/records/7998431",
+        "retrieved_at_utc": "2026-09-28T18:11:17.534349+00:00",
+        "inspection": "Repository metadata/file listing only; inputs not validated or executed",
+        "status": "retrieved",
+        "resolved_url": "https://zenodo.org/api/records/10409827",
+        "doi": "10.5281/zenodo.10409827",
+        "title": "Transport Starter Data Kit: Historical socio-transport data for Somalia",
+        "publication_date": "2023-12-20",
+        "license": {
+          "id": "cc-by-4.0"
+        },
+        "files": [
+          {
+            "key": "TSDK_Somalia.xlsx",
+            "size": 169692,
+            "checksum": "md5:c6685aef3b3036c2f502b8d41b1cf633",
+            "links": {
+              "self": "https://zenodo.org/api/records/10409827/files/TSDK_Somalia.xlsx/content"
+            }
+          },
+          {
+            "key": "Somalia.pdf",
+            "size": 273478,
+            "checksum": "md5:4ea31cbfd542554f512ea9f0a133c794",
+            "links": {
+              "self": "https://zenodo.org/api/records/10409827/files/Somalia.pdf/content"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

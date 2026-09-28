@@ -1,0 +1,171 @@
+{
+  "requested_doi": "10.3390/su151914531",
+  "source_url": "https://api.crossref.org/works/10.3390%2Fsu151914531",
+  "retrieved_at_utc": "2026-09-28T18:25:55.888278+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.3390/su151914531",
+    "title": [
+      "Evaluation of the Methane (CH4) Generation Rate Constant (k Value) of Municipal Solid Waste (MSW) in Mogadishu City, Somalia"
+    ],
+    "author": [
+      {
+        "given": "Abdulkadir A.",
+        "family": "Araye",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of Civil Engineering, Engineering Campus, Universiti Sains Malaysia, Nibong Tebal 14300, Pulau Pinang, Malaysia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3743-2168",
+        "authenticated-orcid": false,
+        "given": "Mohd Suffian",
+        "family": "Yusoff",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Civil Engineering, Engineering Campus, Universiti Sains Malaysia, Nibong Tebal 14300, Pulau Pinang, Malaysia"
+          },
+          {
+            "name": "Solid Waste Management Cluster, Science and Technology Research Centre, Engineering Campus, Universiti Sains Malaysia, Nibong Tebal 14300, Pulau Pinang, Malaysia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7654-247X",
+        "authenticated-orcid": false,
+        "given": "Nik Azimatolakma",
+        "family": "Awang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Civil Engineering, Engineering Campus, Universiti Sains Malaysia, Nibong Tebal 14300, Pulau Pinang, Malaysia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9796-6941",
+        "authenticated-orcid": false,
+        "given": "Teh Sabariah Binti",
+        "family": "Abd Manan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Civil Engineering, Engineering Campus, Universiti Sains Malaysia, Nibong Tebal 14300, Pulau Pinang, Malaysia"
+          },
+          {
+            "name": "Institute of Tropical Biodiversity and Sustainable Development, Universiti Malaysia Terengganu, Kuala Nerus 21030, Terengganu, Malaysia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "MDPI AG",
+    "container-title": [
+      "Sustainability"
+    ],
+    "volume": "15",
+    "issue": "19",
+    "page": "14531",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          6
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          6
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          6
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2023-10-07T14:03:03Z",
+      "timestamp": 1696687383000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2023-10-06T00:00:00Z",
+          "timestamp": 1696550400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2071-1050/15/19/14531/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2071-1050/15/19/14531"
+      }
+    },
+    "URL": "https://doi.org/10.3390/su151914531",
+    "relation": {},
+    "is-referenced-by-count": 7
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

@@ -1,0 +1,195 @@
+{
+  "requested_doi": "10.1038/s41598-025-96401-z",
+  "source_url": "https://api.crossref.org/works/10.1038%2Fs41598-025-96401-z",
+  "retrieved_at_utc": "2026-09-28T18:25:44.111005+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1038/s41598-025-96401-z",
+    "title": [
+      "Techno-economic and environmental analysis of a fully renewable hybrid energy system for sustainable power infrastructure advancement"
+    ],
+    "author": [
+      {
+        "given": "Abdullahi Mohamed",
+        "family": "Samatar",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abdelhak",
+        "family": "Lekbir",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Saad",
+        "family": "Mekhilef",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hazlie",
+        "family": "Mokhlis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kok Soon",
+        "family": "Tey",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abdullah",
+        "family": "Alassaf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Springer Science and Business Media LLC",
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "volume": "15",
+    "issue": "1",
+    "article-number": "12140",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          9
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          9
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          9
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          9
+        ]
+      ],
+      "date-time": "2025-04-09T18:33:56Z",
+      "timestamp": 1744223636000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              9
+            ]
+          ],
+          "date-time": "2025-04-09T00:00:00Z",
+          "timestamp": 1744156800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              9
+            ]
+          ],
+          "date-time": "2025-04-09T00:00:00Z",
+          "timestamp": 1744156800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41598-025-96401-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-025-96401-z",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-025-96401-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41598-025-96401-z"
+      }
+    },
+    "URL": "https://doi.org/10.1038/s41598-025-96401-z",
+    "relation": {},
+    "is-referenced-by-count": 35
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

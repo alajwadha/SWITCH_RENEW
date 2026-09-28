@@ -1,0 +1,231 @@
+{
+  "requested_doi": "10.1002/ese3.70371",
+  "source_url": "https://api.crossref.org/works/10.1002%2Fese3.70371",
+  "retrieved_at_utc": "2026-09-28T17:52:08.579058+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1002/ese3.70371",
+    "title": [
+      "Energy Modelling and Analysis for Sustainable Energy System of Somalia"
+    ],
+    "author": [
+      {
+        "given": "Abdisalan Moallim",
+        "family": "Hirsi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Electrical Engineering Mehran University of Engineering and Technology Jamshoro Jamshoro Sindh Pakistan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shoaib Ahmed",
+        "family": "Khatri",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical Engineering Mehran University of Engineering and Technology Jamshoro Jamshoro Sindh Pakistan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5911-7743",
+        "authenticated-orcid": false,
+        "given": "Nayyar Hussain",
+        "family": "Mirjat",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical Engineering Mehran University of Engineering and Technology Jamshoro Jamshoro Sindh Pakistan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Musavir",
+        "family": "Hussain",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical Engineering Mehran University of Engineering and Technology SZAB Khairpur Mir's Khairpur Mir's Sindh Pakistan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Laveet",
+        "family": "Kumar",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Mechanical Engineering Mehran University of Engineering and Technology Jamshoro Jamshoro Sindh Pakistan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8444-2209",
+        "authenticated-orcid": false,
+        "given": "MD Shouquat",
+        "family": "Hossain",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical and Electronics Engineering, School of Engineering International University of Business Agriculture and Technology Dhaka Bangladesh"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Wiley",
+    "container-title": [
+      "Energy Science &amp; Engineering"
+    ],
+    "volume": "14",
+    "issue": "1",
+    "page": "501-518",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          18
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          18
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          18
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          19
+        ]
+      ],
+      "date-time": "2025-11-19T06:26:36Z",
+      "timestamp": 1763533596000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              18
+            ]
+          ],
+          "date-time": "2025-11-18T00:00:00Z",
+          "timestamp": 1763424000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              18
+            ]
+          ],
+          "date-time": "2025-11-18T00:00:00Z",
+          "timestamp": 1763424000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://scijournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ese3.70371",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://scijournals.onlinelibrary.wiley.com/doi/full-xml/10.1002/ese3.70371",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://scijournals.onlinelibrary.wiley.com/doi/pdf/10.1002/ese3.70371",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://scijournals.onlinelibrary.wiley.com/doi/10.1002/ese3.70371"
+      }
+    },
+    "URL": "https://doi.org/10.1002/ese3.70371",
+    "relation": {},
+    "is-referenced-by-count": 2
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

@@ -1,0 +1,119 @@
+{
+  "requested_doi": "10.32479/ijeep.19826",
+  "source_url": "https://api.crossref.org/works/10.32479%2Fijeep.19826",
+  "retrieved_at_utc": "2026-09-28T18:10:35.510251+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.32479/ijeep.19826",
+    "title": [
+      "Determinants of Household Energy Choices in Somalia: Applied Multinomial Logistic Regression Model"
+    ],
+    "author": [
+      {
+        "given": "Dahir Abdi",
+        "family": "Ali",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mohamed Ali",
+        "family": "Mohamud",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Richard",
+        "family": "Tuyiragize",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "publisher": "EconJournals",
+    "container-title": [
+      "International Journal of Energy Economics and Policy"
+    ],
+    "volume": "16",
+    "issue": "1",
+    "page": "499-506",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          26
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          26
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          26
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          12,
+          27
+        ]
+      ],
+      "date-time": "2025-12-27T14:37:36Z",
+      "timestamp": 1766846256000
+    },
+    "link": [
+      {
+        "URL": "https://econjournals.com/index.php/ijeep/article/download/19826/9622",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://econjournals.com/index.php/ijeep/article/download/19826/9622",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://econjournals.com/index.php/ijeep/article/view/19826"
+      }
+    },
+    "URL": "https://doi.org/10.32479/ijeep.19826",
+    "relation": {},
+    "is-referenced-by-count": 0
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

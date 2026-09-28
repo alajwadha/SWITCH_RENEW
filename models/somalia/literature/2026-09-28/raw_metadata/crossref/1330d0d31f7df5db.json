@@ -1,0 +1,226 @@
+{
+  "requested_doi": "10.1016/j.jag.2023.103524",
+  "source_url": "https://api.crossref.org/works/10.1016%2Fj.jag.2023.103524",
+  "retrieved_at_utc": "2026-09-28T18:10:23.982712+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1016/j.jag.2023.103524",
+    "title": [
+      "Automatic detection of charcoal kilns on Very High Resolution images with a computer vision approach in Somalia"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4234-0586",
+        "authenticated-orcid": false,
+        "given": "Astrid",
+        "family": "Verhegghen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1354-1792",
+        "authenticated-orcid": false,
+        "given": "Laura",
+        "family": "Martinez-Sanchez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6413-9026",
+        "authenticated-orcid": false,
+        "given": "Michele",
+        "family": "Bolognesi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2976-603X",
+        "authenticated-orcid": false,
+        "given": "Michele",
+        "family": "Meroni",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Felix",
+        "family": "Rembold",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-4363-7278",
+        "authenticated-orcid": false,
+        "given": "Petar",
+        "family": "Vojnović",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9103-7081",
+        "authenticated-orcid": false,
+        "given": "Marijn",
+        "family": "van der Velde",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "container-title": [
+      "International Journal of Applied Earth Observation and Geoinformation"
+    ],
+    "volume": "125",
+    "page": "103524",
+    "article-number": "103524",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          12
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          12
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          8
+        ]
+      ],
+      "date-time": "2023-11-08T11:24:31Z",
+      "timestamp": 1699442671000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2023-12-01T00:00:00Z",
+          "timestamp": 1701388800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2023-12-01T00:00:00Z",
+          "timestamp": 1701388800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              10,
+              14
+            ]
+          ],
+          "date-time": "2023-10-14T00:00:00Z",
+          "timestamp": 1697241600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569843223003485?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1569843223003485?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1569843223003485"
+      }
+    },
+    "URL": "https://doi.org/10.1016/j.jag.2023.103524",
+    "relation": {},
+    "is-referenced-by-count": 4
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

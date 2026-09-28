@@ -1,0 +1,125 @@
+{
+  "requested_doi": "10.1080/23311932.2026.2616845",
+  "source_url": "https://api.crossref.org/works/10.1080%2F23311932.2026.2616845",
+  "retrieved_at_utc": "2026-09-28T18:10:27.771256+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1080/23311932.2026.2616845",
+    "title": [
+      "Nexus between renewable energy and agricultural productivity in Somalia: Evidence from Fragile Foundations"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0009-3699-7803",
+        "authenticated-orcid": false,
+        "given": "Bile Abdisalan",
+        "family": "Nor",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Banking and Finance, Faculty of Management Sciences, Simad University",
+            "place": [
+              "Mogadishu, Somalia"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Informa UK Limited",
+    "container-title": [
+      "Cogent Food &amp; Agriculture"
+    ],
+    "volume": "12",
+    "issue": "1",
+    "article-number": "2616845",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          19
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          19
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          12,
+          31
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          19
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          19
+        ]
+      ],
+      "date-time": "2026-01-19T13:41:39Z",
+      "timestamp": 1768830099000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              19
+            ]
+          ],
+          "date-time": "2026-01-19T00:00:00Z",
+          "timestamp": 1768780800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.tandfonline.com/doi/pdf/10.1080/23311932.2026.2616845",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.tandfonline.com/doi/full/10.1080/23311932.2026.2616845"
+      }
+    },
+    "URL": "https://doi.org/10.1080/23311932.2026.2616845",
+    "relation": {},
+    "is-referenced-by-count": 6
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

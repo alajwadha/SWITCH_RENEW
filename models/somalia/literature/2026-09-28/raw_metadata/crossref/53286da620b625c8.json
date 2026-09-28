@@ -1,0 +1,149 @@
+{
+  "requested_doi": "10.1007/978-3-031-62881-8_1",
+  "source_url": "https://api.crossref.org/works/10.1007%2F978-3-031-62881-8_1",
+  "retrieved_at_utc": "2026-09-28T18:10:16.282356+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1007/978-3-031-62881-8_1",
+    "title": [
+      "Analyzing the Economic Viability and Design of Solar-Powered Water Pumps for Farming Irrigation: Case Study Conducted in Somalia"
+    ],
+    "author": [
+      {
+        "given": "Abdullahi Mohamed",
+        "family": "Isak",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ali Osman",
+        "family": "Özkan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Abdulaziz Ahmed",
+        "family": "Siyad",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "publisher": "Springer Nature Switzerland",
+    "container-title": [
+      "Lecture Notes in Networks and Systems",
+      "Forthcoming Networks and Sustainability in the AIoT Era"
+    ],
+    "page": "1-13",
+    "type": "book-chapter",
+    "published": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          26
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          25
+        ]
+      ],
+      "date-time": "2024-06-25T12:04:25Z",
+      "timestamp": 1719317065000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2024-01-01T00:00:00Z",
+          "timestamp": 1704067200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2024-01-01T00:00:00Z",
+          "timestamp": 1704067200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-62881-8_1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/978-3-031-62881-8_1"
+      }
+    },
+    "URL": "https://doi.org/10.1007/978-3-031-62881-8_1",
+    "relation": {},
+    "is-referenced-by-count": 1
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

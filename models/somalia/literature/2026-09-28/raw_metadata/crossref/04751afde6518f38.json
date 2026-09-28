@@ -1,0 +1,211 @@
+{
+  "requested_doi": "10.1016/j.heliyon.2024.e32500",
+  "source_url": "https://api.crossref.org/works/10.1016%2Fj.heliyon.2024.e32500",
+  "retrieved_at_utc": "2026-09-28T17:52:08.706722+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1016/j.heliyon.2024.e32500",
+    "title": [
+      "Assessment of wind energy resource in the western region of Somaliland"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6002-1052",
+        "authenticated-orcid": false,
+        "given": "Shaima",
+        "family": "Batran",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9845-9773",
+        "authenticated-orcid": false,
+        "given": "Mohamed",
+        "family": "Jama",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jawad",
+        "family": "Yousaf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Taimur",
+        "family": "Hassan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9045-6698",
+        "authenticated-orcid": false,
+        "given": "Mohammed",
+        "family": "Ghazal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1166-1934",
+        "authenticated-orcid": false,
+        "given": "Hazlie Bin",
+        "family": "Mokhlis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "container-title": [
+      "Heliyon"
+    ],
+    "volume": "10",
+    "issue": "12",
+    "page": "e32500",
+    "article-number": "e32500",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          6
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          6
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          13
+        ]
+      ],
+      "date-time": "2024-06-13T15:51:00Z",
+      "timestamp": 1718293860000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2024-06-01T00:00:00Z",
+          "timestamp": 1717200000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2024-06-01T00:00:00Z",
+          "timestamp": 1717200000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              5
+            ]
+          ],
+          "date-time": "2024-06-05T00:00:00Z",
+          "timestamp": 1717545600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 4,
+        "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2405844024085311?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2405844024085311?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2405844024085311"
+      }
+    },
+    "URL": "https://doi.org/10.1016/j.heliyon.2024.e32500",
+    "relation": {},
+    "is-referenced-by-count": 8
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

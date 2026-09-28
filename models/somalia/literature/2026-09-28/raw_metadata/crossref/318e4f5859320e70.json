@@ -1,0 +1,199 @@
+{
+  "requested_doi": "10.1177/11786302261427897",
+  "source_url": "https://api.crossref.org/works/10.1177%2F11786302261427897",
+  "retrieved_at_utc": "2026-09-28T18:10:30.109626+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1177/11786302261427897",
+    "title": [
+      "A Machine Learning Approach to Predicting Household Smoke Exposure Risk in Somalia: An Analysis With SHAP Explanations"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0003-5933-3846",
+        "authenticated-orcid": false,
+        "given": "Mohamed Abdirahim",
+        "family": "Omar",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Faculty of Health Science, Salaam University, Mogadishu, Somalia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yahye Sheikh Abdulle",
+        "family": "Hassan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Medicine and Health Sciences, Jamhuriya University of Science and Technology, Mogadishu, Somalia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Abdirasak Sharif",
+        "family": "Ali",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Microbiology and Laboratory Sciences, Faculty of Medicine and Health Sciences, SIMAD University, Mogadishu, Somalia"
+          },
+          {
+            "name": "Blood Bank Unit, Banadir Hospital, Mogadishu, Somalia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-5991-4052",
+        "authenticated-orcid": false,
+        "given": "Mohamed Mustaf",
+        "family": "Ahmed",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "SIMAD Institute for Global Health, SIMAD University, Mogadishu, Somalia"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "publisher": "SAGE Publications",
+    "container-title": [
+      "Environmental Health Insights"
+    ],
+    "volume": "20",
+    "article-number": "11786302261427897",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          4
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          11
+        ]
+      ],
+      "date-time": "2026-03-11T19:04:58Z",
+      "timestamp": 1773255898000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2026-03-01T00:00:00Z",
+          "timestamp": 1772323200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2026-03-01T00:00:00Z",
+          "timestamp": 1772323200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/11786302261427897",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/11786302261427897",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/11786302261427897",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/11786302261427897"
+      }
+    },
+    "URL": "https://doi.org/10.1177/11786302261427897",
+    "relation": {},
+    "is-referenced-by-count": 0
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

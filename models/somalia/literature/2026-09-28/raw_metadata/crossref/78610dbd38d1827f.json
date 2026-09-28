@@ -1,0 +1,112 @@
+{
+  "requested_doi": "10.12720/sgce.11.2.83-91",
+  "source_url": "https://api.crossref.org/works/10.12720%2Fsgce.11.2.83-91",
+  "retrieved_at_utc": "2026-09-28T17:52:08.791724+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.12720/sgce.11.2.83-91",
+    "title": [
+      "The feasibility of economic viability of hybrid PV-diesel energy system connect with the main grid in Somalia"
+    ],
+    "author": [
+      {
+        "given": "Yonis Khalif",
+        "family": "Elmi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Moein",
+        "family": "Jazayeri",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Diaa",
+        "family": "Salman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Engineering and Technology Publishing",
+    "container-title": [
+      "International Journal of Smart Grid and Clean Energy"
+    ],
+    "page": "83-91",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          4
+        ]
+      ],
+      "date-time": "2022-03-04T03:04:08Z",
+      "timestamp": 1646363048000
+    },
+    "link": [
+      {
+        "URL": "http://www.ijsgce.com/uploadfile/2022/0301/20220301035014424.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "http://www.ijsgce.com/index.php?m=content&c=index&a=show&catid=99&id=725"
+      }
+    },
+    "URL": "https://doi.org/10.12720/sgce.11.2.83-91",
+    "relation": {},
+    "is-referenced-by-count": 7
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

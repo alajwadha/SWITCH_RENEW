@@ -1,0 +1,122 @@
+{
+  "requested_doi": "10.1007/s43937-026-00173-0",
+  "source_url": "https://api.crossref.org/works/10.1007%2Fs43937-026-00173-0",
+  "retrieved_at_utc": "2026-09-28T17:52:08.559983+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1007/s43937-026-00173-0",
+    "title": [
+      "Feasibility analysis of renewable energy integration trends and future research directions in Somalia"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1962-107X",
+        "authenticated-orcid": false,
+        "given": "Abdirizak Yasin",
+        "family": "Yusuf",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Springer Science and Business Media LLC",
+    "container-title": [
+      "Discover Energy"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          24
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          24
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          24
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          24
+        ]
+      ],
+      "date-time": "2026-07-24T09:25:01Z",
+      "timestamp": 1784885101000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              24
+            ]
+          ],
+          "date-time": "2026-07-24T00:00:00Z",
+          "timestamp": 1784851200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              24
+            ]
+          ],
+          "date-time": "2026-07-24T00:00:00Z",
+          "timestamp": 1784851200000
+        },
+        "content-version": "am",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://link.springer.com/article/10.1007/s43937-026-00173-0",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s43937-026-00173-0"
+      }
+    },
+    "URL": "https://doi.org/10.1007/s43937-026-00173-0",
+    "relation": {},
+    "is-referenced-by-count": 0
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

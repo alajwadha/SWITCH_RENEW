@@ -1,0 +1,378 @@
+[
+  {
+    "id": "CQ01",
+    "queries": [
+      "Somalia charcoal cooking energy household study journal clean cooking Somaliland"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Broad household/cooking discovery; followed journal results to primary sources and distinguished repeated national surveys from Somaliland and Badhan data.",
+    "inspected_results": [
+      "COOK01",
+      "COOK02",
+      "COOK03",
+      "COOK04",
+      "COOK07"
+    ],
+    "access_notes": "No initial publication-date restriction. Search ranking or citation counts were not used as quality scores."
+  },
+  {
+    "id": "CQ02",
+    "queries": [
+      "Somalia biomass charcoal remote sensing academic study forest degradation"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Charcoal/forest discovery; traced older kiln-mapping studies and national forest-cover chapter to originating institutions and publishers.",
+    "inspected_results": [
+      "COOK08",
+      "COOK09",
+      "COOK10",
+      "COOK12"
+    ],
+    "access_notes": "Wikipedia, news and other non-primary summaries were not included as scientific evidence."
+  },
+  {
+    "id": "CQ03",
+    "queries": [
+      "Somalia household clean cooking fuels LPG survey report UNHCR"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Searched household LPG, clean cooking and displacement evidence; screened regional matches for country geography.",
+    "inspected_results": [],
+    "access_notes": "Generic global material and Kenyan/Ethiopian country results were not relabeled Somalia evidence."
+  },
+  {
+    "id": "CQ05",
+    "queries": [
+      "Somalia clean cooking market assessment LPG UNDP charcoal report 2024 2025",
+      "Somaliland cooking energy gender assessment final GEA report 2025",
+      "Somalia charcoal energy cooking UNHCR displaced solar cookers biogas study"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Institutional discovery batch; located PROSCAL programme documents, gender-diagnostic lead and technology assessments. Primary programme sources were followed for inclusion.",
+    "inspected_results": [
+      "COOK07",
+      "COOK14",
+      "COOK15"
+    ],
+    "access_notes": "The Somaliland government gender PDF returned HTTP 521. Programme announcements were used for discovery only unless explicitly labeled official_summary."
+  },
+  {
+    "id": "CQ07",
+    "queries": [
+      "\"Smoke exposure risk among Somali households\" authors doi",
+      "\"Somalia\" \"clean cooking\" \"assessment\" report LPG",
+      "\"Somalia\" \"biogas\" study cooking"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Verified smoke-risk article identity and inspected methods and outcome definition. Located biodigester and development-project leads; screened Ethiopia's Somali Region results out of Somalia country evidence.",
+    "inspected_results": [
+      "COOK04",
+      "COOK13"
+    ],
+    "access_notes": "AfDB HAREACT assessment lead did not yield an inspected full report; no findings extracted."
+  },
+  {
+    "id": "CQ08",
+    "queries": [
+      "\"Mapping charcoal driven forest degradation\" Rembold 2013 doi"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Verified title, authors and DOI at JRC; inspected author-institution-hosted accepted PDF. Preserved journal year 2013 versus repository deposit 2014.",
+    "inspected_results": [
+      "COOK09"
+    ],
+    "access_notes": "The FAO SWALIM PDF was readable through web extraction."
+  },
+  {
+    "id": "CQ09",
+    "queries": [
+      "\"Analysing rural and urban differences\" \"Somalia\" cooking",
+      "\"Somalia\" \"cookstoves\" \"study\" journal"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Inspected Fairlie paper methods, fuel classification and regression/decomposition tables; flagged estimate/interval inconsistency.",
+    "inspected_results": [
+      "COOK05"
+    ],
+    "access_notes": "Publisher HTML accessible; no coefficient correction was guessed."
+  },
+  {
+    "id": "CQ10",
+    "queries": [
+      "\"Somalia\" \"Biodigester Market\" assessment"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Followed original African Biodigester Component resources catalogue to hosted report, then inspected technology/company profiles and market estimates.",
+    "inspected_results": [
+      "COOK13"
+    ],
+    "access_notes": "Catalogue posting date 2025-02-19 does not establish the report's publication or survey date; year remains null."
+  },
+  {
+    "id": "CQ11",
+    "queries": [
+      "\"Somalia\" \"charcoal\" \"Oduori\" 2011"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Verified foundational northeastern charcoal paper through publisher metadata and author-institution abstract.",
+    "inspected_results": [
+      "COOK08"
+    ],
+    "access_notes": "Publisher full text blocked; official-summary inspection only."
+  },
+  {
+    "id": "CQ12",
+    "queries": [],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Citation/related-paper tracing from the inspected smoke-risk publisher page identified the spatial/multilevel paper. Publisher HTML and downloaded typeset PDF were compared.",
+    "inspected_results": [
+      "COOK06"
+    ],
+    "access_notes": "This was navigation/citation tracing, not an additional keyword query. Full-text p.7 clarified the abstract's reversed wealth-comparison wording."
+  },
+  {
+    "id": "CQ13",
+    "queries": [
+      "\"Automatic detection of charcoal kilns\" \"JRC\""
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Verified 2023 computer-vision paper using originating JRC repository metadata and abstract.",
+    "inspected_results": [
+      "COOK11"
+    ],
+    "access_notes": "Publisher full-text request failed; no detailed training/validation audit claimed."
+  },
+  {
+    "id": "CQ14",
+    "queries": [
+      "\"Assessment of charcoal driven deforestation rates\""
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Additional exact-title tracing for the 2011 paper and its subsequent remote-sensing literature; institutional versions and bibliographic details checked.",
+    "inspected_results": [
+      "COOK08",
+      "COOK10"
+    ],
+    "access_notes": "The 2011 full text remained unavailable. The 2015 University of Twente repository PDF was inspected."
+  },
+  {
+    "id": "CQ15",
+    "queries": [
+      "Somalia IDP energy cooking assessment report displaced households firewood solar cooking UNHCR NRC"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Dedicated displacement and fuel-collection search; screened humanitarian reports for actual Somalia content rather than country navigation labels.",
+    "inspected_results": [],
+    "access_notes": "NRC's global clean-cooking page contained Somalia in navigation but was not sufficient for a Somalia-specific finding."
+  },
+  {
+    "id": "CQ16",
+    "queries": [
+      "Somalia clean cooking study \"displaced\" fuel"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Located and read Women's Refugee Commission's two-page Horn of Africa brief. Kept regional guidance distinct from Kenya camp observations.",
+    "inspected_results": [
+      "COOK17"
+    ],
+    "access_notes": "No Somali intervention-effect estimate inferred from the brief."
+  },
+  {
+    "id": "CQ17",
+    "queries": [
+      "Somalia electric cooking study MECS"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Located MECS official Somali eCookbook publication entry; verified title, author and 2026 date, and attempted the linked download.",
+    "inspected_results": [
+      "COOK16"
+    ],
+    "access_notes": "Download navigation failed; direct page acquisition returned HTTP 403. No appliance-performance statistics extracted."
+  },
+  {
+    "id": "CQ18",
+    "queries": [
+      "\"National Gender Diagnostic Assessment\" Somaliland pdf"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Cross-checked existence of Somaliland energy gender assessment through commissioner/consultancy information; attempted primary government PDF.",
+    "inspected_results": [],
+    "access_notes": "Primary PDF inaccessible; excluded from included register pending inspection. A consultancy project description cannot verify assessment findings."
+  },
+  {
+    "id": "CQ19",
+    "queries": [
+      "\"Somali eCookbook\" 2026"
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Checked publication identity and looked for a retrievable original report and geographic information.",
+    "inspected_results": [
+      "COOK16"
+    ],
+    "access_notes": "First-party programme announcement surfaced through search, but direct access failed; Sheder/Ethiopia remains a follow-up geographic caution, not verified full-study metadata."
+  },
+  {
+    "id": "CQ20",
+    "queries": [
+      "site:mecs.org.uk \"Somali\" \"pdf\" \"Cooking with Power\"",
+      "site:mecs.org.uk \"Somali eCookbook\" \"kWh\"",
+      "site:mecs.org.uk \"Sheder\" \"Traditional\"",
+      "site:mecs.org.uk \"Somali\" \"Cookbook\" \"wp-content\""
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Additional targeted eCookbook retrieval searches found no accessible methods/results document for this review.",
+    "inspected_results": [
+      "COOK16"
+    ],
+    "access_notes": "The first two targeted searches returned no results. Search failure does not establish that a report or dataset is unavailable elsewhere."
+  },
+  {
+    "id": "CQ21",
+    "queries": [
+      "\"A Machine Learning Approach to Predicting Household Smoke Exposure Risk\" Somalia doi",
+      "site:publications.jrc.ec.europa.eu \"Assessment of charcoal driven deforestation\""
+    ],
+    "platform": "Public web search followed to publisher, author-institution repository or original institutional source; primary HTML/PDF inspection where accessible",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Verified the 2026 machine-learning article and inspected outcome construction, training/evaluation and discussion. Additional JRC exact-title attempt did not retrieve the older northeastern full text.",
+    "inspected_results": [
+      "COOK18",
+      "COOK08"
+    ],
+    "access_notes": "SHDS-derived risk classification is not direct pollutant measurement; JRC lookup failure did not change COOK08's official-summary status."
+  },
+  {
+    "id": "CA01",
+    "queries": [],
+    "platform": "Primary-source access and PDF acquisition audit",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Local PDF extraction used pypdf; selected pages were rendered with pypdfium2 and visually checked. Cached full texts and images are temporary working materials and are not included in the publication deliverables.",
+    "inspected_results": [
+      {
+        "record_id": "COOK01",
+        "url": "https://econjournals.com/index.php/ijeep/article/download/19826/9622",
+        "pages": 8,
+        "sha256": "2df2a3a7c1c1a3280a5b16c8afaf9a031fe369ffe13f8264d6e106c1b87bff6f",
+        "visual_check": "PDF p.5 / journal p.503: Table 3"
+      },
+      {
+        "record_id": "COOK03",
+        "url": "https://mdpi-res.com/d_attachment/sustainability/sustainability-13-02084/article_deploy/sustainability-13-02084.pdf",
+        "pages": 13,
+        "sha256": "c5d0b1e0b53e011ab64c3bd425933df2d27ee1ab03f60cdd313f4be9e059d556",
+        "visual_check": "PDF p.5: demographic and main-fuel results"
+      },
+      {
+        "record_id": "COOK06",
+        "url": "https://link.springer.com/content/pdf/10.1007/s43621-026-03713-9.pdf",
+        "pages": 17,
+        "sha256": "67bc33d98dc8e92d944c37dd4bcba72d124a739c6f71f86017c0709d07c32ba9",
+        "visual_check": "PDF p.7: rich versus poor wording"
+      },
+      {
+        "record_id": "COOK13",
+        "url": "https://ik.imagekit.io/x3ayae9ejg/files/Biodigester_Market_Assesment_in_Somalia-_Publication_With_profiles_CtGLoP4P1.pdf",
+        "pages": 41,
+        "sha256": "81b5c599d3ec0bd7943f21daab62020d3c2d7ef577dd897a5581f55c6ca14a1a",
+        "visual_check": "PDF p.7: installations versus estimated potential"
+      },
+      {
+        "record_id": "COOK14",
+        "url": "https://undpngddlsprod01.blob.core.windows.net/pdc/00085377-PPMFINAL%20PROSCAL%20TE%20REPORT-CLEAN-05112023.pdf",
+        "pages": 110,
+        "sha256": "6f5596b638d555ea63b21b453804db9d01ad03de74509800a446e9d3ebc06d13",
+        "visual_check": "PDF p.66 / printed p.52: subsidy-withdrawal sustainability discussion"
+      }
+    ],
+    "access_notes": "Other included full texts were inspected in web-extracted publisher HTML or institutional PDF text. This does not imply every page of every report was read. No systematic corrections/retractions audit or replication of source analyses was performed."
+  },
+  {
+    "id": "CX01",
+    "queries": [],
+    "platform": "Screened leads and exclusion/access record",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Retained as follow-up or excluded leads, not substantiated Somalia results.",
+    "inspected_results": [
+      {
+        "url": "https://aber.apacsci.com/index.php/SSD/article/view/2369",
+        "decision": "Excluded geographic false positive",
+        "reason": "Biogas study concerns Ethiopia's Somali Region, not Somalia country."
+      },
+      {
+        "url": "https://www.unhcr.org/africa/media/case-study-solar-electric-cooking",
+        "decision": "Not included",
+        "reason": "Country-specific methods/results not verified in this review."
+      },
+      {
+        "url": "https://www.govsomaliland.org/uploads/files/2025/06/2025-06-22-06-12-59-9024-1750572779.pdf",
+        "decision": "Pending access",
+        "reason": "Government gender diagnostic PDF returned HTTP 521 in web and direct acquisition."
+      },
+      {
+        "url": "https://hacof.com/consultancy-services-to-conduct-a-national-gender-diagnostic-assessment-for-the-energy-sector-of-somaliland/",
+        "decision": "Identity/context lead only",
+        "reason": "Consultancy project page does not substitute for assessment findings."
+      },
+      {
+        "url": "https://bmjopen.bmj.com/content/15/11/e098505",
+        "decision": "Pending access/scope assessment",
+        "reason": "Pneumonia study lead located; full text not inspected, so no health-effect claim included."
+      },
+      {
+        "url": "https://www.nrc.no/resources/reports/clean-cooking-in-displacement-settings-an-imperative-to-act",
+        "decision": "Not included",
+        "reason": "Global material; Somalia's appearance in navigation does not verify a country case."
+      },
+      {
+        "url": "https://www.linkedin.com/posts/mecs-programme-121116186_refugee-camp-renewable-activity-7491121208575418368-cY9h",
+        "decision": "First-party discovery lead only",
+        "reason": "Search-indexed programme announcement suggests Sheder/Ethiopia; direct page failed, and cookbook methods remain unreviewed."
+      }
+    ],
+    "access_notes": "ResearchGate and general search summaries were discovery aids only when encountered. Included findings were checked against publishers or originating institutions. SciSpace was not used in this contribution; no SciSpace, Scopus, Web of Science or Google Scholar database coverage is claimed. Result totals were not consistently captured and no PRISMA count is inferred."
+  },
+  {
+    "id": "CQ22",
+    "queries": [],
+    "platform": "Coordinating-review citation referral followed to primary publisher PDF",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Parent supplied DOI 10.3390/su151914531 during final coverage review. Inspected primary PDF methods, sample distribution, measured waste results, model equation and data-availability statement; added COOK19. No additional keyword search performed.",
+    "inspected_results": [
+      {
+        "record_id": "COOK19",
+        "url": "https://mdpi-res.com/d_attachment/sustainability/sustainability-15-14531/article_deploy/sustainability-15-14531.pdf",
+        "pages": 21,
+        "sha256": "c436db16f00daad7a6e2313e1d9834e7050bf1647655d37c3eef738d4b3ff055",
+        "visual_check": "PDF pp.6 and 10: sampling timeline and methane coefficient equation/Table 3"
+      }
+    ],
+    "access_notes": "Publisher landing page returned HTTP 429 through web; web PDF access failed. Public publisher CDN retrieval succeeded through urllib. Measured waste characteristics remain separate from calculated methane kinetics; no operating plant performance inferred."
+  },
+  {
+    "id": "CA02",
+    "queries": [],
+    "platform": "Coordinating-review bibliographic cross-check",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "COOK12 publisher date 15 October 2021 is retained; coordinating review independently verified conflicting Crossref 2022 metadata. Added explicit bibliographic discrepancy note without changing the chosen year.",
+    "inspected_results": ["COOK12"],
+    "access_notes": "Crossref discrepancy supplied by the coordinating reviewer; no additional lookup represented as performed in this contribution."
+  }
+]

@@ -1,0 +1,159 @@
+{
+  "requested_doi": "10.1007/s43621-026-03673-0",
+  "source_url": "https://api.crossref.org/works/10.1007%2Fs43621-026-03673-0",
+  "retrieved_at_utc": "2026-09-28T18:10:17.988042+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1007/s43621-026-03673-0",
+    "title": [
+      "Analysing rural and urban differences in modern cooking energy use in Somalia using the Fairlie decomposition method"
+    ],
+    "author": [
+      {
+        "given": "Hassan Abdi",
+        "family": "Ahmed",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nelson Jerry",
+        "family": "Ndifwa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dahir Abdi",
+        "family": "Ali",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Springer Science and Business Media LLC",
+    "container-title": [
+      "Discover Sustainability"
+    ],
+    "volume": "7",
+    "issue": "1",
+    "article-number": "1493",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          7
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          7
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          7
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          7
+        ]
+      ],
+      "date-time": "2026-06-07T05:43:10Z",
+      "timestamp": 1780810990000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              7
+            ]
+          ],
+          "date-time": "2026-06-07T00:00:00Z",
+          "timestamp": 1780790400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              9
+            ]
+          ],
+          "date-time": "2026-09-09T00:00:00Z",
+          "timestamp": 1788912000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 94,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://link.springer.com/article/10.1007/s43621-026-03673-0",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s43621-026-03673-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s43621-026-03673-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s43621-026-03673-0"
+      }
+    },
+    "URL": "https://doi.org/10.1007/s43621-026-03673-0",
+    "relation": {},
+    "is-referenced-by-count": 0
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

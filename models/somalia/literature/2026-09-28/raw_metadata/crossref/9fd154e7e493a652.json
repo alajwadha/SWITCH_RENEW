@@ -1,0 +1,232 @@
+{
+  "requested_doi": "10.1016/j.pce.2022.103307",
+  "source_url": "https://api.crossref.org/works/10.1016%2Fj.pce.2022.103307",
+  "retrieved_at_utc": "2026-09-28T18:10:25.104916+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1016/j.pce.2022.103307",
+    "title": [
+      "Challenges of post-conflict urban transportation reconstruction in Mogadishu, Somalia"
+    ],
+    "author": [
+      {
+        "given": "Abdullahi",
+        "family": "Ali Mohamed",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lawal",
+        "family": "Billa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5255-9856",
+        "authenticated-orcid": false,
+        "given": "Ramadhansyah",
+        "family": "Putra Jaya",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "container-title": [
+      "Physics and Chemistry of the Earth, Parts A/B/C"
+    ],
+    "volume": "129",
+    "page": "103307",
+    "article-number": "103307",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          2
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          2
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          2
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          14
+        ]
+      ],
+      "date-time": "2022-11-14T20:53:48Z",
+      "timestamp": 1668459228000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2023-02-01T00:00:00Z",
+          "timestamp": 1675209600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2023-02-01T00:00:00Z",
+          "timestamp": 1675209600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2023-02-01T00:00:00Z",
+          "timestamp": 1675209600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-017"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2023-02-01T00:00:00Z",
+          "timestamp": 1675209600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-037"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2023-02-01T00:00:00Z",
+          "timestamp": 1675209600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-012"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2023-02-01T00:00:00Z",
+          "timestamp": 1675209600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-029"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              1
+            ]
+          ],
+          "date-time": "2023-02-01T00:00:00Z",
+          "timestamp": 1675209600000
+        },
+        "content-version": "stm-asf",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.15223/policy-004"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1474706522002005?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1474706522002005?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1474706522002005"
+      }
+    },
+    "URL": "https://doi.org/10.1016/j.pce.2022.103307",
+    "relation": {},
+    "is-referenced-by-count": 2
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

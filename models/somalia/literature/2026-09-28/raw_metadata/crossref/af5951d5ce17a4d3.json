@@ -1,0 +1,242 @@
+{
+  "requested_doi": "10.1016/j.dib.2024.110984",
+  "source_url": "https://api.crossref.org/works/10.1016%2Fj.dib.2024.110984",
+  "retrieved_at_utc": "2026-09-28T18:10:20.204706+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1016/j.dib.2024.110984",
+    "title": [
+      "Transport starter data kit: Historical passenger and freight transport data for selected countries in Africa, Asia, and South America"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7957-8451",
+        "authenticated-orcid": false,
+        "given": "Naomi",
+        "family": "Tan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Robert",
+        "family": "Ambunda",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2935-7495",
+        "authenticated-orcid": false,
+        "given": "Nikola",
+        "family": "Medimorec",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Angel",
+        "family": "Cortez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Agustina",
+        "family": "Krapp",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0004-4936-4080",
+        "authenticated-orcid": false,
+        "given": "Erin",
+        "family": "Maxwell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6434-5142",
+        "authenticated-orcid": false,
+        "given": "John",
+        "family": "Harrison",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark",
+        "family": "Howells",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "container-title": [
+      "Data in Brief"
+    ],
+    "volume": "57",
+    "page": "110984",
+    "article-number": "110984",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          9
+        ]
+      ],
+      "date-time": "2024-10-09T19:18:09Z",
+      "timestamp": 1728501489000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2024-12-01T00:00:00Z",
+          "timestamp": 1733011200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2024-12-01T00:00:00Z",
+          "timestamp": 1733011200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              25
+            ]
+          ],
+          "date-time": "2024-09-25T00:00:00Z",
+          "timestamp": 1727222400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2352340924009466?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2352340924009466?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2352340924009466"
+      }
+    },
+    "URL": "https://doi.org/10.1016/j.dib.2024.110984",
+    "relation": {
+      "is-supplemented-by": [
+        {
+          "id-type": "uri",
+          "id": "https://zenodo.org/records/8060153",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "is-referenced-by-count": 4
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

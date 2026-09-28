@@ -1,0 +1,491 @@
+{
+  "review_date": "2026-09-28",
+  "reviewer_scope": "Somalia productive uses, water, agriculture, fisheries/dairy cold chains, enterprises, health and education",
+  "method": "Structured critical scoping search, not exhaustive systematic-review coverage. No language/date exclusion was imposed initially; retained materials accessible in English. Search results were followed to primary publications.",
+  "search_log": [
+    {
+      "id": "P01",
+      "date": "2026-09-28",
+      "platform": "web search followed by publisher/institutional repository inspection",
+      "queries": [
+        "Somalia solar irrigation productive use energy study water agriculture solar pumping journal",
+        "Somalia energy fisheries cold chain solar report",
+        "Somaliland solar water pumping study irrigation paper",
+        "Somalia electricity firms productivity World Bank enterprise energy study"
+      ],
+      "reviewed_included_records": [
+        "PU03",
+        "PU04",
+        "PU10"
+      ],
+      "reviewed_primary_urls": [
+        "https://link.springer.com/chapter/10.1007/978-3-031-62881-8_1",
+        "https://baaris.org/blog/the-consultants-guide-to-crafting-a-winning",
+        "https://microdata.worldbank.org/catalog/8119"
+      ],
+      "access": "Depth and access restrictions are recorded per included item; additional screened leads are listed below."
+    },
+    {
+      "id": "P02",
+      "date": "2026-09-28",
+      "platform": "web search followed by publisher/institutional repository inspection",
+      "queries": [
+        "Somalia solar powered desalination techno economic study journal",
+        "Somalia renewable energy hospitals health facilities energy assessment publication",
+        "Somalia solar irrigation pumping study DOI Hargeisa Somaliland",
+        "Somalia solar energy milk cooling dairy productive report"
+      ],
+      "reviewed_included_records": [
+        "PU01",
+        "PU02",
+        "PU08"
+      ],
+      "reviewed_primary_urls": [
+        "https://www.jree.ir/article_130748.html",
+        "https://link.springer.com/article/10.1007/s10098-024-02741-1",
+        "https://www.humanitarianenergy.org/assets/resources/HHE-brief-2025.pdf"
+      ],
+      "access": "Depth and access restrictions are recorded per included item; additional screened leads are listed below."
+    },
+    {
+      "id": "P03",
+      "date": "2026-09-28",
+      "platform": "web search followed by publisher/institutional repository inspection",
+      "queries": [
+        "\"Sizing and Design of Standalone PV Water Pumping System\" Hargeisa",
+        "Somalia irrigation energy solar pumping FAO report groundwater World Bank water 2021",
+        "Somalia solar energy schools publication assessment",
+        "Somalia fisheries cold chain assessment report electricity energy 2024 2025"
+      ],
+      "reviewed_included_records": [
+        "PU05",
+        "PU06",
+        "PU07",
+        "PU09",
+        "PU14"
+      ],
+      "reviewed_primary_urls": [
+        "https://documents1.worldbank.org/curated/en/099615012012129914/pdf/P1749940c70d5d09008a3203ad9eeb97d1a.pdf",
+        "https://www.giz.de/en/downloads/giz2024-en-studie-somalia.pdf",
+        "https://www.mfbe.gov.so/assets/documents/Fish%20Price%20Assessment%20Study%20%28Baseline%29%20Report.pdf",
+        "https://moewr.gov.so/wp-content/uploads/ESMP-REPORT-Education-Facilities-Northeastern-State-of-Somalia.pdf",
+        "https://www.unicef.org/somalia/media/1241/file/Somalia-sustainable-water-supply-options-2019.pdf"
+      ],
+      "access": "Depth and access restrictions are recorded per included item; additional screened leads are listed below."
+    },
+    {
+      "id": "P04",
+      "date": "2026-09-28",
+      "platform": "web search followed by publisher/institutional repository inspection",
+      "queries": [
+        "\"Sizing and Design\" \"Hargeisa\" DOI",
+        "\"Assessment of Optimum Renewable Energy\" Dursun 2021 DOI",
+        "\"Somalia\" \"solar\" \"irrigation\" site:sciencedirect.com",
+        "\"Somalia\" \"solar\" \"pumping\" site:springer.com"
+      ],
+      "reviewed_included_records": [
+        "PU01",
+        "PU03"
+      ],
+      "reviewed_primary_urls": [
+        "https://www.jree.ir/article_130748.html",
+        "https://link.springer.com/chapter/10.1007/978-3-031-62881-8_1"
+      ],
+      "access": "Depth and access restrictions are recorded per included item; additional screened leads are listed below."
+    },
+    {
+      "id": "P05",
+      "date": "2026-09-28",
+      "platform": "web search followed by publisher/institutional repository inspection",
+      "queries": [
+        "\"Sizing and design of photovoltaic water pumping systems in Somaliland\"",
+        "\"Fragile foundations\" \"renewable energy\" Somalia",
+        "\"Aquaculture for food security and climate resilience in Somalia\""
+      ],
+      "reviewed_included_records": [],
+      "reviewed_primary_urls": [],
+      "access": "Depth and access restrictions are recorded per included item; additional screened leads are listed below."
+    },
+    {
+      "id": "P06",
+      "date": "2026-09-28",
+      "platform": "web search followed by publisher/institutional repository inspection",
+      "queries": [
+        "Somalia \"solar irrigation\" \"evaluation\" report",
+        "Somalia \"milk\" \"solar\" \"report\" VSF",
+        "\"Sizing and design\" photovoltaic Somaliland Ege thesis",
+        "Somalia solar pumping \"field\" \"study\" irrigation journal"
+      ],
+      "reviewed_included_records": [
+        "PU04",
+        "PU12",
+        "PU15"
+      ],
+      "reviewed_primary_urls": [
+        "https://baaris.org/blog/the-consultants-guide-to-crafting-a-winning",
+        "https://journals.sagepub.com/doi/10.1177/00307270251364907",
+        "https://www.researchgate.net/publication/308954662_VSF-Germany_2012_EDF-9_Somali_Pastoral_Dairy_Development_Project_SPDDP_Phase-II_Implemented_by_VSF-Germany_Technical_Support_to_Village_Milk_Collection_Centres_in_North_Somalia_Consultant_Report_M_You"
+      ],
+      "access": "Depth and access restrictions are recorded per included item; additional screened leads are listed below."
+    },
+    {
+      "id": "P07",
+      "date": "2026-09-28",
+      "platform": "web search followed by publisher/institutional repository inspection",
+      "queries": [
+        "\"Solar\" \"Somalia\" \"2016\" \"WASH\" \"Evaluation\"",
+        "\"PA00WKKQ\" -site:pdf.usaid.gov",
+        "\"Somalia\" \"Solar Powered water supply systems\" UNICEF",
+        "\"Technical Support to Village Milk Collection Centres\" Younan"
+      ],
+      "reviewed_included_records": [
+        "PU15"
+      ],
+      "reviewed_primary_urls": [
+        "https://www.researchgate.net/publication/308954662_VSF-Germany_2012_EDF-9_Somali_Pastoral_Dairy_Development_Project_SPDDP_Phase-II_Implemented_by_VSF-Germany_Technical_Support_to_Village_Milk_Collection_Centres_in_North_Somalia_Consultant_Report_M_You"
+      ],
+      "access": "Depth and access restrictions are recorded per included item; additional screened leads are listed below."
+    },
+    {
+      "id": "P08",
+      "date": "2026-09-28",
+      "platform": "web search followed by publisher/institutional repository inspection",
+      "queries": [
+        "\"Evaluation of the Performance of Solar Powered Water Systems in Somalia\" UNICEF",
+        "\"WASH Evaluation Solar Powered\" Somalia UNICEF pdf"
+      ],
+      "reviewed_included_records": [],
+      "reviewed_primary_urls": [],
+      "access": "Depth and access restrictions are recorded per included item; additional screened leads are listed below."
+    },
+    {
+      "id": "P09",
+      "date": "2026-09-28",
+      "platform": "web search followed by publisher/institutional repository inspection",
+      "queries": [
+        "site:unicef.org \"Evaluation\" \"Solar Powered\" \"Somalia\"",
+        "site:evaluationreports.unicef.org \"Somalia\" \"solar\" \"2016\"",
+        "\"Solar versus Diesel Powered Water Pumps in Meeting Sustainability Goals in Somalia\"",
+        "\"USAID SOMALIA GROWTH\" \"2019\" \"Annual Report\" energy"
+      ],
+      "reviewed_included_records": [
+        "PU13",
+        "PU16"
+      ],
+      "reviewed_primary_urls": [
+        "https://evaluationreports.unicef.org/GetDocument?documentID=8933&fileID=35944",
+        "https://eartharxiv.org/repository/view/14054/"
+      ],
+      "access": "Depth and access restrictions are recorded per included item; additional screened leads are listed below."
+    },
+    {
+      "id": "P10",
+      "date": "2026-09-28",
+      "platform": "web search followed by publisher/institutional repository inspection",
+      "queries": [
+        "\"Somalia\" \"Evaluation of solar powered water supply\" -site:scribd.com",
+        "\"WASH_Evaluation_Solar_Powered\" UNICEF",
+        "\"WASH-Evaluation-Solar-Powered\" UNICEF",
+        "\"Solar Powered Water Systems\" \"2016\" \"unicef.org/evaluation\""
+      ],
+      "reviewed_included_records": [
+        "PU13",
+        "PU14"
+      ],
+      "reviewed_primary_urls": [
+        "https://evaluationreports.unicef.org/GetDocument?documentID=8933&fileID=35944",
+        "https://www.unicef.org/somalia/media/1241/file/Somalia-sustainable-water-supply-options-2019.pdf"
+      ],
+      "access": "Depth and access restrictions are recorded per included item; additional screened leads are listed below."
+    },
+    {
+      "id": "P11",
+      "date": "2026-09-28",
+      "platform": "web search followed by publisher/institutional repository inspection",
+      "queries": [
+        "site:sciencedirect.com/science/article/pii/S2949824426000558 \"Abstract\" \"Authors\"",
+        "\"Fragile foundations\" \"10.1016\"",
+        "\"Aquaculture for food security and climate resilience\" \"Author\"",
+        "\"Development and implementation of a cost-effective automated irrigation\" Mogadishu abstract"
+      ],
+      "reviewed_included_records": [
+        "PU17"
+      ],
+      "reviewed_primary_urls": [
+        "https://www.tandfonline.com/doi/full/10.1080/23311932.2026.2696549"
+      ],
+      "access": "Depth and access restrictions are recorded per included item; additional screened leads are listed below."
+    },
+    {
+      "id": "P12",
+      "date": "2026-09-28",
+      "platform": "web search followed by publisher/institutional repository inspection",
+      "queries": [
+        "\"Nexus between renewable energy and agricultural productivity in Somalia\" \"ResearchGate\"",
+        "\"Fragile foundations: Why renewable energy\" \"Abstract\" \"1990\""
+      ],
+      "reviewed_included_records": [
+        "PU11"
+      ],
+      "reviewed_primary_urls": [
+        "https://www.tandfonline.com/doi/full/10.1080/23311932.2026.2616845"
+      ],
+      "access": "Depth and access restrictions are recorded per included item; additional screened leads are listed below."
+    },
+    {
+      "id": "P13",
+      "date": "2026-09-28",
+      "platform": "Direct publisher HTML inspection of a lead supplied by the coordinating reviewer",
+      "queries": [],
+      "discovery": "Final thematic coverage check identified DOI 10.1038/s41598-025-96401-z; no additional keyword search or citation chasing undertaken.",
+      "reviewed_included_records": [
+        "PU18"
+      ],
+      "reviewed_primary_urls": [
+        "https://www.nature.com/articles/s41598-025-96401-z"
+      ],
+      "access": "Full primary article HTML accessible; selected methods/results/data statements inspected. Table 2 linked view returned the article rather than a separate table. No PDF cached."
+    }
+  ],
+  "citation_tracing": [
+    {
+      "id": "TRACE01",
+      "from_record": "PU07",
+      "direction": "backward",
+      "result": "Fish-price baseline references led to the original GIZ women’s fisheries report, included as PU06.",
+      "url": "https://www.giz.de/en/downloads/giz2024-en-studie-somalia.pdf"
+    },
+    {
+      "id": "TRACE02",
+      "from_record": "PU02",
+      "direction": "linked correction",
+      "result": "Publisher links a March 2024 correction; identity verified, correction body unavailable. Do not infer its scope.",
+      "url": "https://link.springer.com/article/10.1007/s10098-024-02797-z"
+    },
+    {
+      "id": "TRACE03",
+      "from_record": "PU12",
+      "direction": "backward and forward",
+      "result": "Muse (2025) final evaluation is a retrieval lead; publisher forward-citation list includes the 2026 aquaculture review. Neither was treated as independent confirmation of program effects.",
+      "url": "https://journals.sagepub.com/doi/10.1177/00307270251364907"
+    },
+    {
+      "id": "TRACE04",
+      "from_record": "PU05",
+      "direction": "backward",
+      "result": "Appendix 7 traces cost illustrations to UNICEF/World Bank solar-water references; these are not newly measured Somali pump prices.",
+      "url": "https://documents1.worldbank.org/curated/en/099615012012129914/pdf/P1749940c70d5d09008a3203ad9eeb97d1a.pdf"
+    },
+    {
+      "id": "TRACE05",
+      "from_record": "PU03",
+      "direction": "backward",
+      "result": "Publisher reference list includes World Bank/FAO agriculture and AQUASTAT material; these are contextual leads, not proof of the modeled farm duty.",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-62881-8_1"
+    }
+  ],
+  "excluded_or_deferred": [
+    {
+      "title": "USAID Somalia GEEL FY2019 Annual Progress Report",
+      "url": "https://pdf.usaid.gov/pdf_docs/PA00WKKQ.pdf",
+      "status": "retrieval lead; not included",
+      "reason": "Official PDF endpoint failed DNS resolution. Search-index snippets were not accepted as verification of installations or results.",
+      "queries": [
+        "P07",
+        "P09"
+      ]
+    },
+    {
+      "title": "Evaluation of the Performance of Solar Powered Water Systems in Somalia (2016)",
+      "url": "",
+      "status": "retrieval lead; not included",
+      "reason": "Mirror and later citations found, but an original institutional publication was not recovered. No numerical findings reused.",
+      "queries": [
+        "P07",
+        "P08",
+        "P09",
+        "P10"
+      ]
+    },
+    {
+      "title": "Sizing and Design of Standalone PV Water Pumping System in Hargeisa/Somaliland: Case Study (2018)",
+      "url": "",
+      "status": "deferred bibliographic verification",
+      "reason": "Author-uploaded conference material inspected, but original proceedings/peer-review status not established; related 2019 thesis has different duty assumptions and was not merged.",
+      "queries": [
+        "P03",
+        "P04",
+        "P05",
+        "P06"
+      ]
+    },
+    {
+      "title": "Sizing and design of photovoltaic water pumping systems in Somaliland (2019 thesis)",
+      "url": "https://tez.yok.gov.tr/UlusalTezMerkezi/getTezPdf.jsp?kayitNo=FuPEPTkTGyN0A9WBffTt2g&tezNo=RHRa8k9ypua-L84s1KDpVQ",
+      "status": "unopened primary thesis lead",
+      "reason": "Catalog identity discovered, full thesis not inspected; no findings adopted.",
+      "queries": [
+        "P05",
+        "P06"
+      ]
+    },
+    {
+      "title": "Solar-powered milk cooling fridge procurement (2025)",
+      "url": "https://molfr.gov.so/2025/04/12/request-for-bids-goods-supply-and-delivery-of-solar-powered-milk-cooling-fridge-and-milk-storage-containers-to-women-milk-retailers-vendors/",
+      "status": "excluded from analytical evidence",
+      "reason": "Procurement notice establishes intent, not delivery, utilization or measured impact.",
+      "queries": [
+        "P06"
+      ]
+    },
+    {
+      "title": "Powered to Teach (2026)",
+      "url": "https://www.unicef.org/somalia/stories/powered-teach",
+      "status": "excluded from analytical evidence",
+      "reason": "Illustrative program story, not a systematic education-energy evaluation.",
+      "queries": [
+        "P03"
+      ]
+    },
+    {
+      "title": "Fragile foundations: Why renewable energy (Not GDP) drives Somalia’s food security",
+      "doi": "10.1016/j.foohum.2026.101047",
+      "url": "https://irep.iium.edu.my/130032/",
+      "status": "deferred full-text review",
+      "reason": "Author-repository abstract and Crossref metadata verified; PDF inaccessible. A closely related agricultural time-series paper is included as PU11; this distinct paper is not silently merged.",
+      "queries": [
+        "P05",
+        "P11",
+        "P12"
+      ]
+    },
+    {
+      "title": "Aquaculture for food security and climate resilience in Somalia: Opportunities, challenges, adaptive pathways and policy recommendations",
+      "doi": "10.1016/j.biteb.2025.102480",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2589014X25004633",
+      "status": "screened contextual review; not included in core 18",
+      "reason": "2026 publication metadata, publisher abstract and indexed sections inspected; solar recirculating-aquaculture proposals provide no original Somali energy-operation data. Retained as a forward-citation and topic lead.",
+      "queries": [
+        "P05",
+        "P11"
+      ]
+    },
+    {
+      "title": "Somali Region of Ethiopia and non-Somali irrigation studies",
+      "url": "",
+      "status": "excluded",
+      "reason": "Geographic mismatch; no substitution for Somalia field evidence.",
+      "queries": [
+        "P01",
+        "P02",
+        "P06"
+      ]
+    },
+    {
+      "title": "IRENA 2025 Somalia assessment and CPSD 2025",
+      "url": "",
+      "status": "handled in another review contribution",
+      "reason": "Avoided duplicate full records; productive-use findings may be cross-referenced during synthesis.",
+      "queries": [
+        "P01"
+      ]
+    }
+  ],
+  "included_record_count": 18,
+  "inspection_counts": {
+    "full_text": 1,
+    "selected_full_text_sections": 14,
+    "publisher_abstract": 2,
+    "official_summary": 1
+  },
+  "access_notes": [
+    "Publisher-abstract-only items PU02 and PU03 retain that label; no paywall circumvention was used.",
+    "PU11 and PU17 publisher pages returned access errors; ResearchGate explicitly labeled the accessible article text as publisher full text provided by Taylor & Francis. Findings were checked in those original article sections, not ResearchGate summaries.",
+    "PU15 is the original report uploaded by its named author; a repository DOI does not establish journal peer review.",
+    "PU16 is explicitly a non-peer-reviewed preprint; posting year must not be substituted for undisclosed fieldwork dates.",
+    "Direct public PDFs were cached only for inspection. No PDFs, extracted text or copied abstracts are proposed for GitHub redistribution.",
+    "No claim is made that every publication has been audited for all subsequent corrections/retractions. The PU02 correction and PU12 version history were specifically checked."
+  ],
+  "verified_cached_documents": [
+    {
+      "record_id": "PU01",
+      "source_url": "https://acikerisim.gelisim.edu.tr/server/api/core/bitstreams/87c19563-85cd-4b1d-a3d9-ba18eb9ec33e/content",
+      "retrieved_date": "2026-09-28",
+      "bytes": 778321,
+      "sha256": "b00aec507b6bda5204a64a21177f4022107f8b78d835312df4188f8ce247295c",
+      "verification": "Text sections inspected; selected inconsistent tables additionally rendered for visual verification where specified in the record. Cache is not part of the publication."
+    },
+    {
+      "record_id": "PU04",
+      "source_url": "https://baaris.org/storage/media/CiwFfAlLZMRFzbwHlHhgYkzaLpaf1We19QvlhwwV.pdf",
+      "retrieved_date": "2026-09-28",
+      "bytes": 1656398,
+      "sha256": "c7cd395cda271459cfb0a77a261218dc57f92eb4f2ba2a63594b2d62b3bbf69f",
+      "verification": "Text sections inspected; selected inconsistent tables additionally rendered for visual verification where specified in the record. Cache is not part of the publication."
+    },
+    {
+      "record_id": "PU05",
+      "source_url": "https://documents1.worldbank.org/curated/en/099615012012129914/pdf/P1749940c70d5d09008a3203ad9eeb97d1a.pdf",
+      "retrieved_date": "2026-09-28",
+      "bytes": 4529203,
+      "sha256": "3c0bdd1be31fa2f19e8e90c47f51fc198b555ec9d199f4307b64cdf9bb38b56d",
+      "verification": "Text sections inspected; selected inconsistent tables additionally rendered for visual verification where specified in the record. Cache is not part of the publication."
+    },
+    {
+      "record_id": "PU06",
+      "source_url": "https://www.giz.de/en/downloads/giz2024-en-studie-somalia.pdf",
+      "retrieved_date": "2026-09-28",
+      "bytes": 4951740,
+      "sha256": "de3f7773faf36f5700859acd3e57fa1fe912dca7bcde743ccf5e07d92d7db943",
+      "verification": "Text sections inspected; selected inconsistent tables additionally rendered for visual verification where specified in the record. Cache is not part of the publication."
+    },
+    {
+      "record_id": "PU07",
+      "source_url": "https://www.mfbe.gov.so/assets/documents/Fish%20Price%20Assessment%20Study%20%28Baseline%29%20Report.pdf",
+      "retrieved_date": "2026-09-28",
+      "bytes": 1827245,
+      "sha256": "954c5d9b976bb897c1a32b71cb828d1e2ad71aaecb1c2ed2def103bbc98ee651",
+      "verification": "Text sections inspected; selected inconsistent tables additionally rendered for visual verification where specified in the record. Cache is not part of the publication."
+    },
+    {
+      "record_id": "PU08",
+      "source_url": "https://www.humanitarianenergy.org/assets/resources/HHE-brief-2025.pdf",
+      "retrieved_date": "2026-09-28",
+      "bytes": 616204,
+      "sha256": "0c4b8bfec22999c3b1d4136b999ccb17769a3f560651a0374fb3f6fd77e76d24",
+      "verification": "Text sections inspected; selected inconsistent tables additionally rendered for visual verification where specified in the record. Cache is not part of the publication."
+    },
+    {
+      "record_id": "PU09",
+      "source_url": "https://moewr.gov.so/wp-content/uploads/ESMP-REPORT-Education-Facilities-Northeastern-State-of-Somalia.pdf",
+      "retrieved_date": "2026-09-28",
+      "bytes": 1795655,
+      "sha256": "4e76b1590f05fd106d9a2273fd233f358cde771b8e550c7e46281da254bfa783",
+      "verification": "Text sections inspected; selected inconsistent tables additionally rendered for visual verification where specified in the record. Cache is not part of the publication."
+    },
+    {
+      "record_id": "PU13",
+      "source_url": "https://evaluationreports.unicef.org/GetDocument?documentID=8933&fileID=35944",
+      "retrieved_date": "2026-09-28",
+      "bytes": 8575763,
+      "sha256": "a1bf31ac7ae94314d634a0d20d1bf33fc8645b3b9b8906188a00dbefd9b54cad",
+      "verification": "Text sections inspected; selected inconsistent tables additionally rendered for visual verification where specified in the record. Cache is not part of the publication."
+    },
+    {
+      "record_id": "PU14",
+      "source_url": "https://www.unicef.org/somalia/media/1241/file/Somalia-sustainable-water-supply-options-2019.pdf",
+      "retrieved_date": "2026-09-28",
+      "bytes": 1189265,
+      "sha256": "6fdc0b62fc868dd7b40ba765f3f3cdde819256731a01c4e4ea79be1b1157ff5e",
+      "verification": "Text sections inspected; selected inconsistent tables additionally rendered for visual verification where specified in the record. Cache is not part of the publication."
+    },
+    {
+      "record_id": "PU16",
+      "source_url": "https://eartharxiv.org/repository/object/14054/download/24632/",
+      "retrieved_date": "2026-09-28",
+      "bytes": 915376,
+      "sha256": "9c8f8a4e2a629ba692eb69d8a37406a9d0af1103a3898187c9de38be7174fc69",
+      "verification": "Text sections inspected; selected inconsistent tables additionally rendered for visual verification where specified in the record. Cache is not part of the publication."
+    }
+  ]
+}

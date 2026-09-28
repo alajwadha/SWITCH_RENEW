@@ -1,0 +1,226 @@
+[
+  {
+    "id": "TQ01",
+    "queries": [
+      "Somalia transport energy fuel consumption transport sector study petroleum imports",
+      "Somaliland electric vehicles transport energy study",
+      "Somalia energy governance political economy electricity regulation study"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Broad discovery; IRENA, CPSD, electricity act and historical reports located."
+  },
+  {
+    "id": "TQ02",
+    "queries": [
+      "Somalia transport energy emissions vehicle fuel study electric mobility",
+      "Somaliland electric vehicle feasibility study transportation energy"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Dedicated transport/EV search; policy proposals located, no independently verified Somali EV fleet trial included."
+  },
+  {
+    "id": "TQ03",
+    "queries": [
+      "Somalia petroleum supply fuel transport World Bank energy assessment 1985"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Historical petroleum/transport assessment traced to official World Bank report."
+  },
+  {
+    "id": "TQ04",
+    "queries": [
+      "Somalia Mogadishu \"transport\" \"fuel\" emissions study journal",
+      "Somaliland \"transport\" energy \"study\" vehicles fuel"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Dedicated fuel/emissions search; CEA and Initial National Communication located."
+  },
+  {
+    "id": "TQ05",
+    "queries": [
+      "Somalia \"electric vehicles\" study journal",
+      "Somalia \"petroleum\" \"political\" journal oil governance"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Excluded papers merely mentioning EVs in unrelated references; included exact Somalia transport and petroleum papers."
+  },
+  {
+    "id": "TQ06",
+    "queries": [
+      "\"Challenges of post-conflict urban transportation reconstruction\" authors DOI",
+      "Somaliland booming informal transport sector pitfalls potentials study"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Transport article metadata and institutional abstract PDF inspected; RVI mobility synthesis traced."
+  },
+  {
+    "id": "TQ07",
+    "queries": [
+      "\"Oil Resource Governance in Somalia\" \"Jama\"",
+      "\"Oil Resource Governance in Somalia: Are they Susceptible\" econjournals",
+      "\"Somalia\" \"Country Environmental Analysis\" 2020 World Bank"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Resolved title/author confusion: Ahali/Ackah2015, not Jama; original journal paper obtained."
+  },
+  {
+    "id": "TQ09",
+    "queries": [
+      "\"Somalia Transport Sector Needs Assessment and Investment Programme\" pdf -site:afdb.org -site:scribd.com"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "AfDB full report access failed; government SOMINVEST synopsis inspected instead."
+  },
+  {
+    "id": "TQ10",
+    "queries": [
+      "\"Somalia\" \"Issues and Options in the Energy Sector\" 1985",
+      "\"Somalia\" \"NDC 3.0\" UNFCCC"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "World Bank1985 cover/methods inspected; NDC version dates traced via UNFCCC registry."
+  },
+  {
+    "id": "TQ11",
+    "queries": [
+      "\"Are They Predisposed to the Resources Curse? Oil in Somalia\" econjournals",
+      "\"Peace, politics and petroleum in Somalia\" authors",
+      "\"Oil and gas in the political marketplace in Somalia\" LSE PDF",
+      "Somalia \"Energy supply\" \"Fuel\" dlca logcluster",
+      "\"Commodified cities\" \"Rift Valley\" 2022",
+      "Somalia logistics capacity assessment fuel supply diesel petrol transport 2025"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Backward/forward contextual tracing; original LSE, RVI, operational Logistics Cluster documents inspected. Reitano/Shaw2013 retained as access-limited lead only."
+  },
+  {
+    "id": "TQ12",
+    "queries": [
+      "\"National Communication\" Somalia 2018 UNFCCC pdf"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Located later First BUR; verified2022 cover versus2023 submission. First communication downloaded from ministry."
+  },
+  {
+    "id": "TQ16",
+    "queries": [
+      "site:afdb.org \"Somalia\" \"Transport Sector Needs Assessment\" pdf",
+      "site:afdb.org \"Somalia - Energy Sector Needs\" 2015",
+      "\"Somalia\" \"Energy Sector Needs Assessment\" \"moewr\""
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Government transport synopsis inspected. Citation trail from transport studies led to Somali Public Agenda forum commentary."
+  },
+  {
+    "id": "TQ17",
+    "queries": [
+      "Within-document search: \"LEAP\", \"top-down\", \"historic demand\" in Somalia First BUR2022"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Primary full-text search identified LEAP use, explicit lack of bottom-up fleet data, and policy savings assumptions."
+  },
+  {
+    "id": "TQ18",
+    "queries": [
+      "\"Somalia NDC 3.0_Official_2025.pdf\"",
+      "\"Somalia\" \"NDC 3.0\" \"pdf\" -site:github.com -site:unfccc.int",
+      "\"Somalia\" \"NDC 3.0\" \"0.7\" transport"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "June and September NDC versions distinguished; current record restricted to official-summary findings due download limitation."
+  },
+  {
+    "id": "TQ19",
+    "queries": [
+      "\"Final_Somalia_Energy_Sector_Needs\" -site:afdb.org -site:scribd.com",
+      "\"Somalia\" \"Energy Sector Needs Assessment\" pdf -site:scribd.com -site:afdb.org -site:sciencedirect.com"
+    ],
+    "platform": "Web search engine followed to publisher, author-institution repository or original institutional source; local PDF extraction where available",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "AfDB original access403/402; mirrors406/cache miss. Do not count search snippets as full-text verification."
+  },
+  {
+    "id": "ACCESS",
+    "search_date": "2026-09-28",
+    "details": [
+      "Adobe PDF tools were unavailable after tool inventory search; used official web PDF extraction and local pypdf/Poppler. No article PDF is part of the public contribution.",
+      "Main ScienceDirect Mogadishu article could not be opened. Institutional two-page abstract PDF was inspected; full article restricted to repository staff. inspection_depth publisher_abstract means abstract-level inspection, with institutional source disclosed.",
+      "AfDB2015 energy assessment is a discovery lead only until a full source becomes accessible. Its apparent allocation contrast with IRENA2025 is a lead to verify, not an adjudicated factual contradiction.",
+      "NDC updated September2025 PDF open exceeded18MB/failed; direct download returned HTML. Current-run included findings use official registry and NDC Partnership synopsis only.",
+      "Econjournals.net.tr download had TLS hostname mismatch. No insecure TLS override used; canonical www.econjournals.com returned original journal PDF.",
+      "PDF cover Initial National Communication visually inspected: visible title is Somalia and year2018. Extracted hidden cover text also contains Kenya template residue; that is not used to claim the visible report is a Kenya report.",
+      "CEA2020 printed p95 and Logistics Cluster2026 p4 rendered and inspected for figure/table assumptions and the fuel arithmetic error.",
+      "No retraction/correction audit across all sources, citation database exhaustiveness, or paid full-text access is claimed."
+    ]
+  },
+  {
+    "id": "EXCLUSIONS_AND_LEADS",
+    "search_date": "2026-09-28",
+    "items": [
+      {
+        "title": "Briefing: Peace, politics and petroleum in Somalia",
+        "url": "https://doi.org/10.1093/afraf/adt064",
+        "authors": [
+          "Tuesday Reitano",
+          "Mark Shaw"
+        ],
+        "year": 2013,
+        "reason": "Identity verified at publisher; full-text access failed and insufficient substantive abstract. Keep as backward-citation lead, not included findings."
+      },
+      {
+        "title": "Somalia Energy Sector Needs Assessment and Investment Programme",
+        "url": "https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/Final_Somalia_Energy_Sector_Needs_Assessment_FGS__AfDB_November_2015.pdf",
+        "year": 2015,
+        "reason": "Search discovery substantial, but primary PDF and mirrors inaccessible in initial attempts. No snippet-based inclusion."
+      },
+      {
+        "title": "Global transportation/climate bibliometric paper by Somalia-affiliated authors",
+        "url": "https://www.iieta.org/download/file/fid/150978",
+        "reason": "Global literature scope; Somali affiliation does not establish Somalia transport evidence."
+      },
+      {
+        "title": "E-Bajaaj sustainability and impact webpage",
+        "url": "https://ebajaaj.com/sustainability-and-impact/",
+        "reason": "Vendor claims are not an independent field evaluation; retained as potential operator lead only."
+      },
+      {
+        "title": "Fuel (UNSOA archived page)",
+        "url": "https://unsoa.unmissions.org/en/fuel",
+        "reason": "Page updated2025 but refers to agency ending2015 and2015 mobilization. Excluded from current fuel statistics."
+      },
+      {
+        "title": "Solomon Islands electric-mobility project",
+        "reason": "Wrong country search hit, excluded."
+      },
+      {
+        "title": "Burao auto-rickshaw impact report and Somaliland logistics thesis",
+        "reason": "Potential relevant local studies discovered, but original full text/authorship not sufficiently verified within this bounded review."
+      }
+    ]
+  },
+  {
+    "id": "TQ20",
+    "queries": [
+      "\"Transport starter data kit\" \"Somalia\"",
+      "\"Transport starter data kit: Historical passenger\" Tan 2024",
+      "site:zenodo.org/records/ \"Transport Starter Data Kit\" \"Somalia\""
+    ],
+    "platform": "Web search; primary full-text article in PMC; official Zenodo repository",
+    "search_date": "2026-09-28",
+    "inspection_and_outcome": "Somalia inclusion confirmed in primary article Table 5, which links DOI 10.5281/zenodo.7998431. Master dataset v1.4 record 10406893 also explicitly lists Somalia. Country DOI/record open failed via web tool. Article methods and limitations inspected; no country spreadsheet contents, completeness, or exact numerical observations claimed."
+  }
+]

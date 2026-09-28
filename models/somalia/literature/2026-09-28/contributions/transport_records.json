@@ -1,0 +1,679 @@
+[
+  {
+    "id": "TF001",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "transport",
+      "petroleum",
+      "cooking",
+      "electricity",
+      "historical"
+    ],
+    "title": "Somalia: Issues and Options in the Energy Sector",
+    "authors": [
+      "World Bank",
+      "United Nations Development Programme"
+    ],
+    "year": 1985,
+    "publication_type": "institutional assessment report",
+    "venue_or_publisher": "Joint UNDP/World Bank Energy Sector Assessment Program, Report 5796-SO",
+    "doi": "",
+    "primary_url": "https://documents1.worldbank.org/curated/en/480841468760532581/pdf/multi-page.pdf",
+    "full_text_url": "https://documents1.worldbank.org/curated/en/480841468760532581/pdf/multi-page.pdf",
+    "geographic_scope": "Somalia, pre-1991 national institutions",
+    "data_period": "November–December 1984 mission; historical series and scenarios to 1995",
+    "method": "Multidisciplinary assessment mission, energy balances, engineering/economic appraisal and policy recommendations.",
+    "data_sources": "Mission observations, utility/petroleum agency records and earlier studies.",
+    "key_findings": "Identifies vehicle maintenance, driving practice and mass transport as fuel-saving routes; integrates petroleum procurement with electricity, household fuels and industry.",
+    "limitations": "Historical institutions, prices and infrastructure are not a current baseline; savings are recommendations or estimates, not evaluated interventions.",
+    "project_relevance": "Historical whole-energy-system framing and fuel-balance provenance.",
+    "evidence_type": "policy/planning",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Cover; mission note PDF p6; printed pp29–30 (paras2.24–2.26); chapterIV contents.",
+    "quality_appraisal": "Useful contemporaneous baseline; no transfer of 1980 s coefficients into present scenarios.",
+    "data_code_availability": "Tables in report; machine-readable model/code not inspected.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ03",
+      "TQ10"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF002",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "petroleum",
+      "governance",
+      "resource_curse"
+    ],
+    "title": "Are They Predisposed to the Resources Curse? Oil in Somalia",
+    "authors": [
+      "Aaron Yao Efui Ahali",
+      "Ishmael Ackah"
+    ],
+    "year": 2015,
+    "publication_type": "peer-reviewed journal article",
+    "venue_or_publisher": "International Journal of Energy Economics and Policy 5(1), 231–245",
+    "doi": "",
+    "primary_url": "https://www.econjournals.com/index.php/ijeep/article/download/702/586",
+    "full_text_url": "https://www.econjournals.com/index.php/ijeep/article/download/702/586",
+    "geographic_scope": "Somalia, with comparative resource-governance literature",
+    "data_period": "Historical discussion through approximately 2014; exact search cutoff not reported",
+    "method": "Documentary case study explicitly excluding new primary data collection.",
+    "data_sources": "Archival records, academic articles, institutional and NGO reports.",
+    "key_findings": "Argues that weak institutions and contested resource rights create petroleum-governance risks; proposes stronger institutions and local participation.",
+    "limitations": "No original interviews or causal estimate; quoted resource potential is not proof of commercially recoverable reserves.",
+    "project_relevance": "Trace resource-curse arguments to their evidentiary basis.",
+    "evidence_type": "qualitative; review",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Journal title page p231; section8, pp238–239; analysis and concluding discussion.",
+    "quality_appraisal": "Transparent admission of secondary-data limits; useful framing, weak basis for production or revenue calibration.",
+    "data_code_availability": "References provided; no empirical dataset/code identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ07",
+      "TQ11"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF004",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "transport",
+      "infrastructure",
+      "planning"
+    ],
+    "title": "Somalia Transport Sector Needs Assessment and Investment Programme",
+    "authors": [
+      "African Development Bank"
+    ],
+    "year": 2016,
+    "publication_type": "institutional sector assessment",
+    "venue_or_publisher": "African Development Bank",
+    "doi": "",
+    "primary_url": "https://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/Somalia_Transport_Sector_Needs_Assessment_and_Investment_Programme.pdf",
+    "full_text_url": "https://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/Somalia_Transport_Sector_Needs_Assessment_and_Investment_Programme.pdf",
+    "geographic_scope": "Somalia; scope includes ports, aviation and road corridors",
+    "data_period": "Planning baseline circa 2015–2016; ten-year investment horizon",
+    "method": "Demand/network planning using city populations, available traffic counts and trade estimates, according to official government synopsis.",
+    "data_sources": "AfDB assessment summarized by Somalia Investment Promotion Office.",
+    "key_findings": "Provides an earlier transport planning baseline linking transport demand, corridors and investment priorities.",
+    "limitations": "Full AfDB PDF inaccessible in this run. Findings restricted to official synopsis; do not treat its historical network description as current.",
+    "project_relevance": "Retrieve detailed traffic-count and route assumptions before transport-energy modeling.",
+    "evidence_type": "policy/planning",
+    "inspection_depth": "official_summary",
+    "verification_locator": "SOMINVEST Transport & Infrastructure, opening assessment paragraphs: https://sominvest.gov.so/key-sectors/transport-infrastructure/ .",
+    "quality_appraisal": "Government synopsis verifies relevance and methodology; full underlying assessment remains to be inspected.",
+    "data_code_availability": "Report linked; no raw traffic observations/code acquired.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ09",
+      "TQ16"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF005",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "transport",
+      "petroleum",
+      "climate_policy",
+      "inventory"
+    ],
+    "title": "The Initial National Communication for Somalia to the United Nations Framework Convention on Climate Change (UNFCCC)",
+    "authors": [
+      "Office of the Prime Minister, Federal Republic of Somalia"
+    ],
+    "year": 2018,
+    "publication_type": "official national communication",
+    "venue_or_publisher": "Federal Republic of Somalia",
+    "doi": "",
+    "primary_url": "https://moecc.gov.so/wp-content/uploads/2023/07/Naioanla-Communication.pdf",
+    "full_text_url": "https://moecc.gov.so/wp-content/uploads/2023/07/Naioanla-Communication.pdf",
+    "geographic_scope": "Somalia national estimates; petroleum proxies drawn from Somaliland and Puntland",
+    "data_period": "1990–2015 inventory; scenarios to 2040; publication August 2018, registry submission January 2019",
+    "method": "IPCC Tier 1 inventory plus sectoral baseline/mitigation scenarios.",
+    "data_sources": "AFREC, earlier reports and Somaliland/Puntland energy statistics; surrogate data where disaggregation missing.",
+    "key_findings": "Explicitly reports high petroleum-data uncertainty and proxy use; transport options include maintenance, road improvements and mass transit.",
+    "limitations": "National extrapolation from subnational data is an assumption. Imports and fuel-use definitions conflict; numerical totals require reconciliation.",
+    "project_relevance": "Find the assumptions behind inherited fuel and transport emissions baselines.",
+    "evidence_type": "policy/planning; statistical inventory",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Printed pp108–110, sections4.3.2–4.3.2.1; pp116–119 transport; cover visually inspected.",
+    "quality_appraisal": "Valuable provenance disclosure; unsuitable as unqualified observed national fuel consumption.",
+    "data_code_availability": "Tabular estimates supplied; underlying microdata or executable model not identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ04",
+      "TQ12"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF006",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "petroleum",
+      "governance",
+      "finance",
+      "security"
+    ],
+    "title": "Oil and Gas in the Political Marketplace in Somalia",
+    "authors": [
+      "Joakim Gundel"
+    ],
+    "year": 2020,
+    "publication_type": "research memo",
+    "venue_or_publisher": "London School of Economics and Political Science, Conflict Research Programme",
+    "doi": "",
+    "primary_url": "https://eprints.lse.ac.uk/107126/1/CRP_oil_and_gas_in_political_marketplace_somalia.pdf",
+    "full_text_url": "https://eprints.lse.ac.uk/107126/1/CRP_oil_and_gas_in_political_marketplace_somalia.pdf",
+    "geographic_scope": "Somalia federal and regional petroleum politics",
+    "data_period": "39 interviews, March–August 2020; institutional history since 2012",
+    "method": "Qualitative political-economy analysis combining remote and Mogadishu key-informant interviews with documents.",
+    "data_sources": "Somali analysts, aid specialists, present/former officials, businesses and oil experts; legislation and reports.",
+    "key_findings": "Finds anticipated rents and subcontracting opportunities shape institutional bargaining before commercial extraction; transparency and federal coordination matter.",
+    "limitations": "Purposive expert evidence does not quantify economy-wide effects; 2020 assessment cannot establish current contracts or recoverable reserves.",
+    "project_relevance": "Design realistic governance and financing scenarios for energy projects.",
+    "evidence_type": "qualitative",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "PDF p2 para3 (39 interviews); pp11–13 conclusions and outstanding regulatory issues.",
+    "quality_appraisal": "Original interviews provide stronger contextual evidence than purely secondary resource-curse essays; sensitive claims need triangulation.",
+    "data_code_availability": "Interview transcripts not supplied in inspected report.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ07",
+      "TQ11"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF007",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "transport",
+      "emissions",
+      "environment"
+    ],
+    "title": "Somalia Country Environmental Analysis: Diagnostic Study on Trends and Threats for Environmental and Natural Resources Challenges",
+    "authors": [
+      "World Bank"
+    ],
+    "year": 2020,
+    "publication_type": "institutional diagnostic report",
+    "venue_or_publisher": "World Bank",
+    "doi": "",
+    "primary_url": "https://documents1.worldbank.org/curated/en/742491594100313982/pdf/Somalia-Country-Environmental-Analysis-Diagnostic-Study-on-Trends-and-Threats-for-Environmental-and-Natural-Resources-Challenges.pdf",
+    "full_text_url": "https://documents1.worldbank.org/curated/en/742491594100313982/pdf/Somalia-Country-Environmental-Analysis-Diagnostic-Study-on-Trends-and-Threats-for-Environmental-and-Natural-Resources-Challenges.pdf",
+    "geographic_scope": "Somalia national environmental assessment",
+    "data_period": "Transport baseline 2016; projections 2016–2025; published June 2020",
+    "method": "Environmental diagnostic with projected fleet growth and vehicle-emission coefficients.",
+    "data_sources": "Earlier transport assessment; continental growth assumption; US EPA passenger-vehicle factors and author assumptions for trucks/buses.",
+    "key_findings": "Estimates rising road-transport emissions, using assumed fleet growth, fuel economy and mileage. These are projections, not a Somali vehicle-emissions survey.",
+    "limitations": "Assumes 6.5% annual fleet growth and borrowed vehicle factors; national fleet composition/activity need validation.",
+    "project_relevance": "Identify inherited transport-emission assumptions and replace them with local measurements.",
+    "evidence_type": "policy/planning; modeled estimation",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Printed pp94–95; Figures29–30 and footnotes102–103; p95 visually inspected.",
+    "quality_appraisal": "Assumptions are recoverable and reviewable; local external validity is limited.",
+    "data_code_availability": "Figures and assumptions available; raw fleet survey/code not identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ04",
+      "TQ10"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF008",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "transport",
+      "electricity",
+      "cooking",
+      "productive_uses",
+      "LEAP",
+      "climate_policy"
+    ],
+    "title": "Somalia’s First Biennial Update Report to the United Nations Framework Convention on Climate Change",
+    "authors": [
+      "Ministry of Environment and Climate Change, Federal Republic of Somalia"
+    ],
+    "year": 2022,
+    "publication_type": "official national inventory and mitigation report",
+    "venue_or_publisher": "Federal Republic of Somalia / UNFCCC",
+    "doi": "",
+    "primary_url": "https://unfccc.int/sites/default/files/resource/Somalia%20First%20BUR%20report%202022.pdf",
+    "full_text_url": "https://unfccc.int/sites/default/files/resource/Somalia%20First%20BUR%20report%202022.pdf",
+    "geographic_scope": "Somalia national sector estimates",
+    "data_period": "Inventory 2000–2020; mitigation scenarios to 2030; September 2022 report, UNFCCC submission April 2023",
+    "method": "IPCC inventory and LEAP baseline/mitigation modeling; consultations and expert interviews.",
+    "data_sources": "UN statistics for transport fuels; historical sector data and policy assumptions.",
+    "key_findings": "Already uses LEAP across energy sectors. Transport analysis is top-down because fleet mileage and fuel-economy data are inadequate.",
+    "limitations": "GDP-led fuel projections and assumed policy savings are scenarios; model files not located. Inventory/mitigation vintage differences need care.",
+    "project_relevance": "Essential prior work before claiming a first Somalia energy model; explicit lead to missing transport inputs.",
+    "evidence_type": "policy/planning; techno-economic simulation",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Printed p105 section3.2.3; pp134–135 section3.3.3.2; pp162–163 data constraints.",
+    "quality_appraisal": "Clear method and data-gap disclosure; policy scenarios are not measured outcomes.",
+    "data_code_availability": "Charts, assumptions and references present; LEAP project/code not linked in inspected sections.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ12",
+      "TQ17"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF009",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "mobility",
+      "equity",
+      "gender",
+      "displacement",
+      "water"
+    ],
+    "title": "Commodified Cities: Urbanization and Public Goods in Somalia",
+    "authors": [
+      "Tobias Hagmann",
+      "Abdi N. Mohamed",
+      "Abdirahman E. Ali",
+      "Jamal Mohamed",
+      "Mahad Wasuge",
+      "Mohamed H. Ibrahim",
+      "Sahra Koshin",
+      "Yassmin Mohamed",
+      "Hannah Stogdon"
+    ],
+    "year": 2022,
+    "publication_type": "research report",
+    "venue_or_publisher": "Rift Valley Institute",
+    "doi": "",
+    "primary_url": "https://riftvalley.net/wp-content/uploads/2022/06/rvi-commodified-cities-report-2022-en.pdf",
+    "full_text_url": "https://riftvalley.net/wp-content/uploads/2022/06/rvi-commodified-cities-report-2022-en.pdf",
+    "geographic_scope": "Mogadishu, Kismayo, Beledweyne, Baidoa, Galkayo, Bosaso and Borama; source preserves Somaliland/Puntland distinctions",
+    "data_period": "Underlying studies prepared for 2020 Somalia Urbanization Review; exact fieldwork dates not established",
+    "method": "Synthesis of literature, seven city studies and a political-economy synthesis on public goods.",
+    "data_sources": "Nine commissioned studies, including unpublished empirical city material.",
+    "key_findings": "Mobility costs and spatial access differ by wealth, displacement and gender; private transport provision does not assure inclusive access.",
+    "limitations": "Not a representative national travel or energy-use survey; some gender/mode observations are explicitly anecdotal.",
+    "project_relevance": "Include affordability, service geography and livelihoods in transport transition assessment.",
+    "evidence_type": "qualitative",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Methods pp12–13; mobility pp53–61; conclusion pp62–64.",
+    "quality_appraisal": "Useful multi-city contextual evidence; no direct vehicle energy intensities or measured modal shift.",
+    "data_code_availability": "Source references available; underlying nine studies not all publicly attached.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ06",
+      "TQ11"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF010",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "transport",
+      "urban_planning"
+    ],
+    "title": "Challenges of post-conflict urban transportation reconstruction in Mogadishu, Somalia",
+    "authors": [
+      "Abdullahi Ali Mohamed",
+      "Lawal Billa",
+      "Ramadhansyah Putra Jaya"
+    ],
+    "year": 2023,
+    "publication_type": "peer-reviewed journal article",
+    "venue_or_publisher": "Physics and Chemistry of the Earth, Parts A/B/C 129,103307",
+    "doi": "10.1016/j.pce.2022.103307",
+    "primary_url": "https://doi.org/10.1016/j.pce.2022.103307",
+    "full_text_url": "https://www.sciencedirect.com/science/article/abs/pii/S1474706522002005",
+    "geographic_scope": "Mogadishu",
+    "data_period": "Publication 2023; underlying data dates not established from abstract",
+    "method": "Assessment of challenges/opportunities for Mogadishu City Transport Planning Approach; detailed methods inaccessible.",
+    "data_sources": "Not specified in inspected abstract.",
+    "key_findings": "Identifies insufficient transport planning statistics and examines post-conflict reconstruction challenges.",
+    "limitations": "Only institutional-repository abstract inspected; sample, validation and numerical findings not assessed.",
+    "project_relevance": "Transport-planning citation lead, not a verified transport-energy parameter source.",
+    "evidence_type": "review; policy/planning",
+    "inspection_depth": "publisher_abstract",
+    "verification_locator": "Author-institution abstract PDF pp1–2: https://umpir.ump.edu.my/id/eprint/35781/7/Challenges%20of%20post-conflict%20urban%20transportation%20reconstruction%20in%20Mogadishu.pdf ; journal metadata in repository35781.",
+    "quality_appraisal": "Bibliography verified; methodological confidence cannot be rated from abstract alone.",
+    "data_code_availability": "Full article restricted at institution; public two-page PDF contains abstract/acknowledgements only.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ05",
+      "TQ06"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF011",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "mobility",
+      "security",
+      "livelihoods"
+    ],
+    "title": "Urban Mobility Complexities in Mogadishu",
+    "authors": [
+      "Mohamed Adam"
+    ],
+    "year": 2023,
+    "publication_type": "research-organization commentary based on public forum",
+    "venue_or_publisher": "Somali Public Agenda",
+    "doi": "",
+    "primary_url": "https://somalipublicagenda.org/urban-mobility-complexities-in-mogadishu/",
+    "full_text_url": "https://somalipublicagenda.org/urban-mobility-complexities-in-mogadishu/",
+    "geographic_scope": "Mogadishu",
+    "data_period": "Forum 17 November 2022; commentary 26 February 2023",
+    "method": "Stakeholder forum synthesis and referenced contextual analysis.",
+    "data_sources": "Urban practitioners, businesspeople, students, teachers, car owners, lawyers and security analysts; sample size not stated.",
+    "key_findings": "Security closures, weak traffic management and limited bus services constrain mobility; recommends accessible collective transport and coordination.",
+    "limitations": "Forum is not representative; no fuel-economy, traffic-count or causal policy evaluation supplied.",
+    "project_relevance": "Account for route restrictions, occupancy and livelihood implications when studying electric three-wheelers.",
+    "evidence_type": "qualitative",
+    "inspection_depth": "full_text",
+    "verification_locator": "Main article: forum description; causes; contributing factors; recommendations.",
+    "quality_appraisal": "Local stakeholder perspective adds context; counts attributed to other sources need independent checking.",
+    "data_code_availability": "References linked; forum transcripts/data not supplied.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ16"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF012",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "governance",
+      "electricity",
+      "transport",
+      "finance"
+    ],
+    "title": "Creating Markets in Somalia: Unlocking Private Sector-Led Growth at a Critical Juncture of Somalia’s Development",
+    "authors": [
+      "International Finance Corporation",
+      "World Bank"
+    ],
+    "year": 2024,
+    "publication_type": "country private sector diagnostic",
+    "venue_or_publisher": "World Bank Group / IFC",
+    "doi": "",
+    "primary_url": "https://documents1.worldbank.org/curated/en/099720301202532976/pdf/IDU-a882335a-7fcf-4024-a3ee-c0bd1c806169.pdf",
+    "full_text_url": "https://documents1.worldbank.org/curated/en/099720301202532976/pdf/IDU-a882335a-7fcf-4024-a3ee-c0bd1c806169.pdf",
+    "geographic_scope": "Somalia; regional market/institution variation discussed",
+    "data_period": "Evidence assembled before June 2024; mixed source years",
+    "method": "Expert/key-informant interviews, secondary review and qualitative sector diagnostics.",
+    "data_sources": "Private-sector stakeholders, official statistics, surveys and institutional reports.",
+    "key_findings": "Identifies transport/logistics, regulation, finance and electricity as linked investment constraints; enactment of electricity law had not ensured effective implementation.",
+    "limitations": "Directional diagnosis in a data-poor setting, not a causal impact evaluation; not a statement of 2026 legal status.",
+    "project_relevance": "Sequence infrastructure investment with enforceable rules, finance and service competition.",
+    "evidence_type": "qualitative; policy/planning",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Cover June2024 and copyright; executive summary pIV; transport pp48–51; electricity pp72–81; finance pp82–98.",
+    "quality_appraisal": "Strong source mapping and explicit data limits; avoid treating all borrowed statistics as contemporaneous.",
+    "data_code_availability": "References present; interview microdata not attached.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ01",
+      "TQ07"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF013",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "transport",
+      "electric_vehicles",
+      "governance",
+      "finance",
+      "cooking"
+    ],
+    "title": "Energy Transition Assessment: Somalia",
+    "authors": [
+      "International Renewable Energy Agency"
+    ],
+    "year": 2025,
+    "publication_type": "institutional energy transition assessment",
+    "venue_or_publisher": "IRENA",
+    "doi": "",
+    "primary_url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Jun/IRENA_COU_Energy_transition_assessment_Somalia_2025.pdf",
+    "full_text_url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Jun/IRENA_COU_Energy_transition_assessment_Somalia_2025.pdf",
+    "geographic_scope": "Somalia national policy; local project illustrations",
+    "data_period": "Published June 2025; mixed historical evidence and 2030 proposals",
+    "method": "Stakeholder-informed transition diagnosis and policy action plan.",
+    "data_sources": "Government engagement, validation workshop and cited institutional energy sources.",
+    "key_findings": "Recommends operational regulation, finance and skills; suggests renewable-charged captive EV pilots given high upfront costs and diesel electricity constraints.",
+    "limitations": "EV, biofuel and hydrogen proposals are not field-tested performance results. Fossil-fuel allocation statement needs reconciliation with older assessments.",
+    "project_relevance": "Integrate transport and productive demand into policy scenarios, with pilot evidence before scaling.",
+    "evidence_type": "policy/planning",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Executive summary pp9–11; transport p22; finance pp23–24; action plan pp37–44.",
+    "quality_appraisal": "Useful current policy synthesis; no transparent bottom-up national transport fleet model.",
+    "data_code_availability": "Report references; no replicable transport model or pilot dataset identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ01",
+      "TQ02"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF014",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "climate_policy",
+      "transport",
+      "electricity",
+      "cooling"
+    ],
+    "title": "Updated Somalia’s Third Generation Nationally Determined Contribution (NDC 3.0)",
+    "authors": [
+      "Ministry of Environment and Climate Change, Federal Republic of Somalia"
+    ],
+    "year": 2025,
+    "publication_type": "official climate-policy commitment",
+    "venue_or_publisher": "Federal Republic of Somalia / UNFCCC",
+    "doi": "",
+    "primary_url": "https://www.unfccc.int/sites/default/files/2025-09/Somalia%20NDC%203.0_Official_2025.pdf",
+    "full_text_url": "https://www.unfccc.int/sites/default/files/2025-09/Somalia%20NDC%203.0_Official_2025.pdf",
+    "geographic_scope": "Somalia national targets",
+    "data_period": "Updated submission 8 September 2025; target 2035",
+    "method": "National policy targets and sector priorities; underlying modeling not inspected in current run.",
+    "data_sources": "UNFCCC registry and NDC Partnership official country synopsis.",
+    "key_findings": "Commits to 34% below business-as-usual GHG emissions by 2035, including energy, transport and cooling priorities.",
+    "limitations": "Official summary only: full updated PDF could not be retrieved in this run; no sector-specific arithmetic or assumptions audited here.",
+    "project_relevance": "Policy scenario reference; targets must remain separate from measured outcomes.",
+    "evidence_type": "policy/planning",
+    "inspection_depth": "official_summary",
+    "verification_locator": "UNFCCC Somalia registry lists8September2025; NDC Partnership country overview: https://ndcpartnership.org/country/som .",
+    "quality_appraisal": "Reliable for declared commitment and scope; insufficient for calibration or allocation of national cap to electricity.",
+    "data_code_availability": "Full PDF public URL supplied; current-run access limitation recorded.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ10",
+      "TQ18"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF015",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "petroleum",
+      "governance",
+      "security"
+    ],
+    "title": "Oil and peace: assessing the impact of Somalia–Türkiye hydrocarbon cooperation on post-conflict stability and national sovereignty",
+    "authors": [
+      "Mohamed Yusuf Adan"
+    ],
+    "year": 2026,
+    "publication_type": "peer-reviewed journal article",
+    "venue_or_publisher": "Frontiers in Political Science 8,1684383",
+    "doi": "10.3389/fpos.2026.1684383",
+    "primary_url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1684383/full",
+    "full_text_url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1684383/full",
+    "geographic_scope": "Somalia; contextual comparison with South Sudan, Libya and Angola",
+    "data_period": "2024 agreement; article 1 April 2026; documentary cutoff not clearly specified",
+    "method": "Interpretive documentary case study and thematic analysis.",
+    "data_sources": "Legal/policy instruments, official/institutional reports, academic literature and some media.",
+    "key_findings": "Frames hydrocarbon cooperation as conditional opportunity with risks of centralization, elite capture and external dependency.",
+    "limitations": "No original outcome measurement or counterfactual; public-document and reported-contract claims require legal-source verification.",
+    "project_relevance": "Contrast recent governance narratives with older interview evidence.",
+    "evidence_type": "qualitative",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Abstract; section3 methodology; sections4–5; data-availability statement.",
+    "quality_appraisal": "Analytical risk framing, not proof that specified effects occurred or that commercial resources exist.",
+    "data_code_availability": "Article says original contributions included in article/supplement; no coded source corpus verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ05",
+      "TQ07"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF016",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "transport",
+      "fuel_prices",
+      "humanitarian",
+      "water_trucking"
+    ],
+    "title": "Mogadishu – National Coordination Meeting Minutes, 17 March 2026",
+    "authors": [
+      "Somalia Logistics Cluster",
+      "World Food Programme"
+    ],
+    "year": 2026,
+    "publication_type": "operational meeting report",
+    "venue_or_publisher": "Logistics Cluster",
+    "doi": "",
+    "primary_url": "https://logcluster.org/sites/default/files/public/2026-03/logistics-clustersomaliamogadishumeeting-minutes-18-03-2026.pdf",
+    "full_text_url": "https://logcluster.org/sites/default/files/public/2026-03/logistics-clustersomaliamogadishumeeting-minutes-18-03-2026.pdf",
+    "geographic_scope": "Somalia operational network; Mogadishu, Puntland and Somaliland differences noted",
+    "data_period": "March 2026; meeting 17 March, file name 18 March",
+    "method": "Operational coordination report citing a 46-respondent retailer/transport survey and partner updates.",
+    "data_sources": "WFP/Logistics Cluster survey and humanitarian operational partners.",
+    "key_findings": "Reports fuel-price and supply disruptions affecting transport, generators and water trucking, with geographic differences.",
+    "limitations": "Sampling/units incomplete; jet-fuel percentage contradicts its printed prices. Do not import the displayed rates as verified national price statistics.",
+    "project_relevance": "Lead for supplier surveys and fuel-shock scenarios; retain the original date and unresolved errors.",
+    "evidence_type": "observed/survey; project/report evidence",
+    "inspection_depth": "full_text",
+    "verification_locator": "PDF pp1–5; section4 p4 visually inspected.",
+    "quality_appraisal": "Timely operational signal but small unspecified sample and internal arithmetic error limit calibration.",
+    "data_code_availability": "Survey instrument/raw responses not attached; follow-on market assessment mentioned.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ11"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF017",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "regulation",
+      "electricity",
+      "governance"
+    ],
+    "title": "Somalia National Electricity Act 2023",
+    "authors": [
+      "Ministry of Energy and Water Resources, Federal Republic of Somalia"
+    ],
+    "year": 2023,
+    "publication_type": "official legislative announcement",
+    "venue_or_publisher": "MoEWR",
+    "doi": "",
+    "primary_url": "https://moewr.gov.so/ova_doc/somalia-electricity-act/",
+    "full_text_url": "https://moewr.gov.so/ova_doc/somalia-electricity-act/",
+    "geographic_scope": "Federal Republic of Somalia",
+    "data_period": "Signature 8 March 2023",
+    "method": "Official announcement summarizing statutory institutions and intended functions.",
+    "data_sources": "Ministry publication; linked legal text not analyzed.",
+    "key_findings": "Confirms enactment and proposed regulatory architecture, including National Electricity Authority and licensing/tariff functions.",
+    "limitations": "Announcement is not evidence of enforcement or improved access; full legal text and later amendments not reviewed.",
+    "project_relevance": "Prevent outdated blanket claims that Somalia has no electricity legislation.",
+    "evidence_type": "policy/planning",
+    "inspection_depth": "official_summary",
+    "verification_locator": "Page title and announcement dated 8 March 2023; measures and National Electricity Authority paragraphs. Legal PDF not analyzed.",
+    "quality_appraisal": "Primary source for enactment, limited for implementation assessment.",
+    "data_code_availability": "Linked Somali Electricity Act PDF; no implementation dataset.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ01"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "TF018",
+    "primary_theme": "transport_fuels_governance",
+    "themes": [
+      "transport",
+      "demand",
+      "open_data",
+      "energy_intensity"
+    ],
+    "title": "Transport starter data kit: Historical passenger and freight transport data for selected countries in Africa, Asia, and South America",
+    "authors": [
+      "Naomi Tan",
+      "Robert Ambunda",
+      "Nikola Medimorec",
+      "Angel Cortez",
+      "Agustina Krapp",
+      "Erin Maxwell",
+      "John Harrison",
+      "Mark Howells"
+    ],
+    "year": 2024,
+    "publication_type": "peer-reviewed data article with linked dataset",
+    "venue_or_publisher": "Data in Brief 57, 110984",
+    "doi": "10.1016/j.dib.2024.110984",
+    "primary_url": "https://doi.org/10.1016/j.dib.2024.110984",
+    "full_text_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11533014/",
+    "geographic_scope": "60 countries; Somalia explicitly confirmed in Table 5 and master Zenodo record",
+    "data_period": "1990–2021 where available; dataset v1.4 December 2023; article online October 2024",
+    "method": "Secondary compilation with observation-status codes, assumptions and country links.",
+    "data_sources": "World Bank, UN DESA, IRF and other sources; African energy intensities/load factors borrowed from South Africa.",
+    "key_findings": "Provides a Somalia-specific transport data starting point; country inclusion is confirmed, but the Somalia workbook contents were not inspected.",
+    "limitations": "Missing, deprecated and discrepant observations acknowledged. Regional proxy intensities are not Somali measurements; unit definitions require checking.",
+    "project_relevance": "Audit the Somalia workbook before designing new demand data collection.",
+    "evidence_type": "secondary data compilation",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Article sections 2–3, Limitations and Table 5; Table 5 Somalia DOI 10.5281/zenodo.7998431. Master dataset v1.4: https://zenodo.org/records/10406893 .",
+    "quality_appraisal": "Transparent assumptions and reusable structure; country-specific completeness remains unaudited.",
+    "data_code_availability": "Master TSDK_ALL.xlsx listed at Zenodo 10.5281/zenodo.10406893; Somalia DOI 10.5281/zenodo.7998431. Workbook not downloaded in this review. Current concept DOI resolves to version10.5281/zenodo.10409827; two-file listing verified, workbook contents not inspected.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "TQ20"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  }
+]

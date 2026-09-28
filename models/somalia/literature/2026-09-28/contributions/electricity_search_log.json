@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-28",
+  "scope": "Electricity, resources, planning, demand, adoption; includes root-reviewed Tawakal productive-use paper",
+  "search_batches": [
+    {
+      "date": "2026-09-28",
+      "platform": "web search",
+      "queries": [
+        "Somalia electricity renewable energy techno economic hybrid microgrid research journal review",
+        "Somalia Somaliland Puntland energy electricity access political economy journal",
+        "Somalia power system optimization HOMER renewable energy 2025 2026 journal",
+        "Somalia solar wind energy potential assessment peer reviewed"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "platform": "SciSpace",
+      "queries": [
+        "What original studies assess solar irradiation, wind resources, energy demand or techno-economic electricity systems specifically in Somalia, Hargeisa, Mogadishu, Cadaado, Mudug and Somaliland?"
+      ],
+      "records_returned": 10,
+      "screening_note": "Discovery only; primary sources must be opened before inclusion"
+    },
+    {
+      "date": "2026-09-28",
+      "platform": "web search",
+      "queries": [
+        "\"Energy Modelling and Analysis for Sustainable Energy System of Somalia\"",
+        "\"Assessment of wind energy resource in the western region of Somaliland\"",
+        "\"Feasibility study of renewable energy-based microgrid system in Somaliland\" Elsevier",
+        "\"Somalia\" \"electricity\" \"demand\" \"survey\" journal"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "platform": "web search",
+      "queries": [
+        "\"Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines\"",
+        "\"Somalia\" \"electricity\" \"OnSSET\" data",
+        "\"Somalia\" \"wind\" \"solar\" \"renewable\" review 2021 2019",
+        "\"Somalia\" \"energy\" \"SWITCH\" \"model\""
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "platform": "web search",
+      "queries": [
+        "\"Rural Electrification of Somalia Using WT-PV-DG-Battery Hybrid System\"",
+        "\"Optimal design of a hybrid energy system considering techno-economic factors for off-grid electrification in remote areas\" Somalia",
+        "\"Wind energy potential and large-scale turbine performance analysis for Mogadishu\" DOI",
+        "\"Comparison of Least-Cost Pathways\" Somalia github data"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "platform": "web search",
+      "queries": [
+        "\"Comparison of Least-Cost Pathways\" site:kth.diva-portal.org",
+        "\"Feasibility study of renewable energy-based microgrid system\" site:utm.my",
+        "\"10.3390/en16186489\" github data",
+        "\"10.3390/pr10040667\" data load grid"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "platform": "web search",
+      "queries": [
+        "\"Somalia\" \"OnSSET\" site:github.com",
+        "\"Somalia\" \"electrification\" \"Sahlberg\" \"data\"",
+        "\"Somalia\" \"energy model\" \"OSeMOSYS\"",
+        "\"Somalia\" \"PyPSA\" energy study"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "platform": "web search",
+      "queries": [
+        "\"Selected\" \"Starter Kit\" \"Somalia\" \"doi\"",
+        "\"Somalia\" \"OnSSET\" \"github.com\" Sahlberg",
+        "\"Selected\" \"Starter kit\" \"Africa, East Asia, and South America\""
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "platform": "web search",
+      "queries": [
+        "\"Comparison of Least-Cost Pathways\" filetype:pdf",
+        "\"utilization and potential of solar\" \"Bacadweyene\"",
+        "\"The utilization and potential of solar energy in Somalia\" pdf",
+        "\"Evaluating the technical and economic feasibility\" \"Hobyo\"",
+        "\"Comparison of Least-Cost Pathways\" \"diva2\""
+      ]
+    }
+  ],
+  "citation_tracing": [
+    "OnSSET2023 reference26 -> official SEAP report2021; Data Availability Statement -> Somalia-1.0 repository.",
+    "Allington2022 Appendix B -> Somalia2021 preprint and Zenodo country dataset.",
+    "Publisher references and subsequent-study searches for HOMER, SAM, OnSSET, LEAP and OSeMOSYS."
+  ],
+  "discovery_limits": [
+    "First broad SciSpace query was used for discovery but exact query text was not preserved; no exhaustive database search is claimed.",
+    "Web rankings and indexes are mutable; result totals are not reported as a systematic-review screening denominator.",
+    "Search engines/SciSpace are discovery aids; publisher, author-institution originals or DOI metadata were checked."
+  ],
+  "exclusions_and_followup": [
+    {
+      "title": "Techno-Economic Analysis of Off-Grid Connected Hybrid Renewable Energy System",
+      "doi": "10.1109/icdi3c61568.2023.00048",
+      "reason": "Discovery hit did not establish a Somalia case; excluded from core."
+    },
+    {
+      "title": "Techno-economic and environmental analysis of a fully renewable hybrid energy system for sustainable power infrastructure advancement",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11982195/",
+      "reason": "Initially a follow-up; subsequently appraised and included as PU18 during the coverage extension."
+    },
+    {
+      "title": "Generic PyPSA/continental energy-model papers",
+      "reason": "Country-name hits without a verified Somali analysis not added to core."
+    },
+    {
+      "title": "Reposted summaries and search-optimized solar/storage pages",
+      "reason": "Not primary studies; excluded."
+    }
+  ],
+  "access_notes": [
+    "MDPI landing pages blocked; OnSSET paper retrieved from publisher CDN and Cadaado original from a mirror; title/DOI checked.",
+    "ScienceDirect solar review original retrieved from corrected Sun-Connect mirror path and matched DOI.",
+    "KTH DiVA HTML retrieval was a browser challenge, not paper access; not used as full-text evidence.",
+    "Full text blocked or not obtained for E04/E08/E09/E10/E15; inspection depths remain limited.",
+    "Full copyrighted PDFs/XML/text are local review caches only and are not included in the GitHub publication."
+  ],
+  "last_update": "2026-09-28"
+}

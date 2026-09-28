@@ -1,0 +1,149 @@
+{
+  "requested_doi": "10.1177/00307270251364907",
+  "source_url": "https://api.crossref.org/works/10.1177%2F00307270251364907",
+  "retrieved_at_utc": "2026-09-28T18:10:28.921452+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1177/00307270251364907",
+    "title": [
+      "Building resilient food systems in Somalia: Integrated approaches for conflict and climate challenges"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-4070-2843",
+        "authenticated-orcid": false,
+        "given": "Dipankar",
+        "family": "Datta",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Norwegian Church Aid"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "SAGE Publications",
+    "container-title": [
+      "Outlook on Agriculture"
+    ],
+    "volume": "54",
+    "issue": "4",
+    "page": "346-357",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          4
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          4
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          4
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          4
+        ]
+      ],
+      "date-time": "2025-08-04T07:55:26Z",
+      "timestamp": 1754294126000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              4
+            ]
+          ],
+          "date-time": "2025-08-04T00:00:00Z",
+          "timestamp": 1754265600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              8,
+              4
+            ]
+          ],
+          "date-time": "2025-08-04T00:00:00Z",
+          "timestamp": 1754265600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00307270251364907",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/00307270251364907",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/00307270251364907",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/00307270251364907"
+      }
+    },
+    "URL": "https://doi.org/10.1177/00307270251364907",
+    "relation": {},
+    "is-referenced-by-count": 3
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

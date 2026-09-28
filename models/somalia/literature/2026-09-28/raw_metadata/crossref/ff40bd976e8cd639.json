@@ -1,0 +1,155 @@
+{
+  "requested_doi": "10.1038/s41598-026-56231-z",
+  "source_url": "https://api.crossref.org/works/10.1038%2Fs41598-026-56231-z",
+  "retrieved_at_utc": "2026-09-28T17:52:08.796675+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1038/s41598-026-56231-z",
+    "title": [
+      "Factors influencing Somalia household’s willingness to pay renewable energy: employing structural equation modeling"
+    ],
+    "author": [
+      {
+        "given": "Galad Mohamed",
+        "family": "Barre",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ahmed Hassan",
+        "family": "Mohamud",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Springer Science and Business Media LLC",
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "volume": "16",
+    "issue": "1",
+    "article-number": "25837",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          6
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          6
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          6
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          6
+        ]
+      ],
+      "date-time": "2026-06-06T14:06:21Z",
+      "timestamp": 1780754781000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              6
+            ]
+          ],
+          "date-time": "2026-06-06T00:00:00Z",
+          "timestamp": 1780704000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              18
+            ]
+          ],
+          "date-time": "2026-08-18T00:00:00Z",
+          "timestamp": 1787011200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 73,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41598-026-56231-z",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-026-56231-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-026-56231-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41598-026-56231-z"
+      }
+    },
+    "URL": "https://doi.org/10.1038/s41598-026-56231-z",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.21203/rs.3.rs-8567172/v1",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "is-referenced-by-count": 0
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

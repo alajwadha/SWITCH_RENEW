@@ -1,0 +1,16 @@
+{
+  "requested_doi": "10.13140/rg.2.2.22986.77762",
+  "source_url": "https://api.crossref.org/works/10.13140%2Frg.2.2.22986.77762",
+  "retrieved_at_utc": "2026-09-28T18:25:49.732742+00:00",
+  "status": "error",
+  "error": "HTTP Error 404: Not Found",
+  "previous_attempts": [
+    {
+      "requested_doi": "10.13140/rg.2.2.22986.77762",
+      "source_url": "https://api.crossref.org/works/10.13140%2Frg.2.2.22986.77762",
+      "retrieved_at_utc": "2026-09-28T18:10:31.754994+00:00",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

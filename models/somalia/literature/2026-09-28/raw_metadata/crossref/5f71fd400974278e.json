@@ -1,0 +1,152 @@
+{
+  "requested_doi": "10.3390/su13042084",
+  "source_url": "https://api.crossref.org/works/10.3390%2Fsu13042084",
+  "retrieved_at_utc": "2026-09-28T18:10:37.694866+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.3390/su13042084",
+    "title": [
+      "Knowledge, Attitude, and Practice Regarding Charcoal Consumption among Households in Sanaag Province, North-Eastern Somalia"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7695-9187",
+        "authenticated-orcid": false,
+        "given": "Faiza Ali",
+        "family": "Yusuf",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Faculty of Social Sciences, University of Bosaso, Garowe Campus, Garowe, Somalia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6078-6063",
+        "authenticated-orcid": false,
+        "given": "Faradiella Mohd",
+        "family": "Kusin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Forestry and Environment, Universiti Putra Malaysia UPM Serdang, Selangor 43400, Malaysia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6780-4105",
+        "authenticated-orcid": false,
+        "given": "Sunday Yusuf",
+        "family": "Kpalo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Forestry and Environment, Universiti Putra Malaysia UPM Serdang, Selangor 43400, Malaysia"
+          },
+          {
+            "name": "Faculty of Environmental Sciences, Nasarawa State University, Keffi 961101, Nigeria"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "MDPI AG",
+    "container-title": [
+      "Sustainability"
+    ],
+    "volume": "13",
+    "issue": "4",
+    "page": "2084",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          15
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          15
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          15
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          2,
+          15
+        ]
+      ],
+      "date-time": "2021-02-15T22:58:01Z",
+      "timestamp": 1613429881000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              2,
+              15
+            ]
+          ],
+          "date-time": "2021-02-15T00:00:00Z",
+          "timestamp": 1613347200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2071-1050/13/4/2084/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2071-1050/13/4/2084"
+      }
+    },
+    "URL": "https://doi.org/10.3390/su13042084",
+    "relation": {},
+    "is-referenced-by-count": 2
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

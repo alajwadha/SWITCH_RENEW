@@ -1,0 +1,99 @@
+{
+  "requested_doi": "10.30574/wjarr.2024.22.2.1577",
+  "source_url": "https://api.crossref.org/works/10.30574%2Fwjarr.2024.22.2.1577",
+  "retrieved_at_utc": "2026-09-28T17:52:08.862831+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.30574/wjarr.2024.22.2.1577",
+    "title": [
+      "Designing a 10 MW peak solar power plant using a system advisor model (SAM software). Case study: Somalia, Mogadishu Region"
+    ],
+    "author": [
+      {
+        "family": "Abdirizak Yasin Yusuf",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "family": "Mohamed Abdirahman Sid Ahmed",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "GSC Online Press",
+    "container-title": [
+      "World Journal of Advanced Research and Reviews"
+    ],
+    "volume": "22",
+    "issue": "2",
+    "page": "1812-1824",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          30
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          30
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          30
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2024-05-30T02:30:51Z",
+      "timestamp": 1717036251000
+    },
+    "link": [
+      {
+        "URL": "https://wjarr.com/node/12592",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://wjarr.com/node/5307"
+      }
+    },
+    "URL": "https://doi.org/10.30574/wjarr.2024.22.2.1577",
+    "relation": {},
+    "is-referenced-by-count": 3
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

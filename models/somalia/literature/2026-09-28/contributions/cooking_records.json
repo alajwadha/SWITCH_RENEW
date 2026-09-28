@@ -1,0 +1,768 @@
+[
+  {
+    "id": "COOK01",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "household_energy",
+      "affordability",
+      "electricity",
+      "fuel_choice"
+    ],
+    "title": "Determinants of Household Energy Choices in Somalia: Applied Multinomial Logistic Regression Model",
+    "authors": [
+      "Dahir Abdi Ali",
+      "Mohamed Ali Mohamud",
+      "Richard Tuyiragize"
+    ],
+    "year": 2026,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "International Journal of Energy Economics and Policy 16(1), 499–506",
+    "doi": "10.32479/ijeep.19826",
+    "primary_url": "https://econjournals.com/index.php/ijeep/article/view/19826",
+    "full_text_url": "https://econjournals.com/index.php/ijeep/article/download/19826/9622",
+    "geographic_scope": "Somalia; urban, rural and nomadic households in SIHBS coverage",
+    "data_period": "2022",
+    "method": "Multinomial logit; 7,212 households; main lighting and cooking fuels",
+    "data_sources": "Somali Integrated Household Budget Survey (SIHBS) 2022",
+    "key_findings": "Table 3 reports charcoal 47.9%, firewood 41.3% and gas 5.7%; residence and socioeconomic characteristics are associated with fuel choice.",
+    "limitations": "Main-fuel responses miss fuel stacking and quantities; cross-sectional associations are not adoption effects. Narrative and Table 4 contain discrepancies.",
+    "project_relevance": "Starting specification for survey reanalysis; preserve three residence categories.",
+    "evidence_type": "statistical/econometric analysis",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "PDF pp.3–6 / journal pp.501–504, sections 3–4, Tables 3–5; Table 3 visually checked. Issue year 2026; landing page publication 2025-12-26.",
+    "quality_appraisal": "Useful survey-based evidence; rerun weighting and coefficients before calibration.",
+    "data_code_availability": "Underlying SIHBS through SNBS; no analysis code verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ01"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK02",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "household_energy",
+      "gender",
+      "inequality",
+      "Somaliland"
+    ],
+    "title": "Household Solid Fuel Use and Associated Factors in Somaliland: A Multilevel Analysis of Data From 2020 Somaliland Demographic and Health Survey",
+    "authors": [
+      "Mustafe Abdillahi Ali",
+      "Abdirizak Hassan Abokor",
+      "Omer Adam Farih",
+      "Hodo Abdikarim",
+      "Abdirashid M Yousuf",
+      "Abdisalam Hassan Muse"
+    ],
+    "year": 2025,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "Environmental Health Insights 19",
+    "doi": "10.1177/11786302251315893",
+    "primary_url": "https://journals.sagepub.com/doi/10.1177/11786302251315893",
+    "full_text_url": "https://journals.sagepub.com/doi/10.1177/11786302251315893",
+    "geographic_scope": "Somaliland survey; five regions in analysis table; urban, rural, nomadic",
+    "data_period": "2020 survey edition; fieldwork dates not independently verified",
+    "method": "Multilevel logistic regression; 5,283 retained households",
+    "data_sources": "Somaliland Health and Demographic Survey",
+    "key_findings": "Reports 97.2% in its polluting/solid-fuel category and 2.8% clean; education, wealth and cooking location associated with choices.",
+    "limitations": "Classifies kerosene as 'solid'. Its prevalence differs from original-survey figures it cites; exclusions, coding and weighting need reconciliation.",
+    "project_relevance": "Subnational inequality and category-harmonization evidence.",
+    "evidence_type": "statistical/econometric analysis",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Methods: Study participants, Outcome variable; Table 1; Background paragraphs citing SLDHS; Tables 2–5.",
+    "quality_appraisal": "Relevant large survey reanalysis; not a national Somalia benchmark or physical solid-fuel share.",
+    "data_code_availability": "Underlying survey referenced; public analysis code not verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ01"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK03",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "charcoal",
+      "fuel_stacking",
+      "behavior",
+      "Sanaag"
+    ],
+    "title": "Knowledge, Attitude, and Practice Regarding Charcoal Consumption among Households in Sanaag Province, North-Eastern Somalia",
+    "authors": [
+      "Faiza Ali Yusuf",
+      "Faradiella Mohd Kusin",
+      "Sunday Yusuf Kpalo"
+    ],
+    "year": 2021,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "Sustainability 13(4), 2084",
+    "doi": "10.3390/su13042084",
+    "primary_url": "https://www.mdpi.com/2071-1050/13/4/2084",
+    "full_text_url": "https://mdpi-res.com/d_attachment/sustainability/sustainability-13-02084/article_deploy/sustainability-13-02084.pdf",
+    "geographic_scope": "Badhan town, five wards, Sanaag; not province-wide probability coverage",
+    "data_period": "Summer survey; calendar year not established from inspected methods",
+    "method": "Face-to-face KAP questionnaire; purposive town selection, systematic household sampling; n=343",
+    "data_sources": "Primary household interviews; questionnaire pretest and pilot",
+    "key_findings": "Charcoal and firewood dominated; LPG 21.3% as primary fuel. Knowledge correlated with reported practice, but attitude did not.",
+    "limitations": "Self-reported practice; purposive location; low pilot practice reliability and demographic-table inconsistencies. Not a tested behavioral intervention.",
+    "project_relevance": "Design locally appropriate surveys of fuel stacking and affordability.",
+    "evidence_type": "observed/survey",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Sections 2.1–2.5, 3.2 and 3.6; PDF pp.3–5,11; p.5 visually checked.",
+    "quality_appraisal": "Valuable local primary evidence with limited geographic transfer.",
+    "data_code_availability": "No respondent-level dataset or analysis code verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ01"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK04",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "health",
+      "indoor_air_pollution",
+      "inequality"
+    ],
+    "title": "Smoke exposure risk among Somali households: prevalence, determinants, and regional disparities",
+    "authors": [
+      "Yahye Sheikh Abdulle Hassan",
+      "Mohamed Abdirahim Omar",
+      "Abdirasak Sharif Ali",
+      "Mohamed Mustaf Ahmed"
+    ],
+    "year": 2025,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "BMC Public Health 25, 3229",
+    "doi": "10.1186/s12889-025-24183-0",
+    "primary_url": "https://link.springer.com/article/10.1186/s12889-025-24183-0",
+    "full_text_url": "https://link.springer.com/article/10.1186/s12889-025-24183-0",
+    "geographic_scope": "Somalia SHDS sampled areas; urban, rural and nomadic",
+    "data_period": "2020 SHDS edition",
+    "method": "Survey-weighted ordinal logistic regression; n=15,823",
+    "data_sources": "SHDS household fuel and cooking-location responses",
+    "key_findings": "Classifies 60.34% high and 36.32% medium smoke-exposure risk; higher wealth and urban residence can coincide with higher risk.",
+    "limitations": "Risk is constructed from fuel/location, not measured PM2.5, personal exposure or clinical outcomes; cross-sectional and coding-dependent.",
+    "project_relevance": "Add ventilation and cooking location to energy surveys.",
+    "evidence_type": "statistical/econometric analysis",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Methods: Study variables, Data analysis; Results: Prevalence; Figures 1–2; Discussion/limitations.",
+    "quality_appraisal": "Useful risk-screening framework; cannot establish disease effects or sensor-measured pollution.",
+    "data_code_availability": "Survey access referenced; no reproducible analysis code verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ01",
+      "CQ07"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK05",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "clean_cooking",
+      "inequality",
+      "classification_conflict"
+    ],
+    "title": "Analysing rural and urban differences in modern cooking energy use in Somalia using the Fairlie decomposition method",
+    "authors": [
+      "Hassan Abdi Ahmed",
+      "Nelson Jerry Ndifwa",
+      "Dahir Abdi Ali"
+    ],
+    "year": 2026,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "Discover Sustainability 7, 1493",
+    "doi": "10.1007/s43621-026-03673-0",
+    "primary_url": "https://link.springer.com/article/10.1007/s43621-026-03673-0",
+    "full_text_url": "https://link.springer.com/article/10.1007/s43621-026-03673-0",
+    "geographic_scope": "SIHBS 17 regions excluding Middle Jubba; nomadic merged into rural",
+    "data_period": "May–July 2022",
+    "method": "Logistic regression and Fairlie decomposition; n=7,212",
+    "data_sources": "SIHBS 2022",
+    "key_findings": "Reports 10.4% 'modern' cooking and a 12.553 percentage-point rural–urban gap under its definitions.",
+    "limitations": "Paraffin is 'modern'; not SDG clean cooking. Section 3.3/Table 3 gives urban OR 5.211 with CI 1.410–1.891; intervals and estimates are incompatible on a common scale.",
+    "project_relevance": "Important prior inequality analysis; quarantine effect-size benchmarks pending correction.",
+    "evidence_type": "statistical/econometric analysis",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Sections 2.1–2.2, 3.3–3.4, Tables 3–4; publisher HTML.",
+    "quality_appraisal": "Definitions and numerical reporting prevent direct calibration; descriptive reanalysis remains useful.",
+    "data_code_availability": "SIHBS cited; code not verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ09"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK06",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "clean_cooking",
+      "spatial_analysis",
+      "inequality"
+    ],
+    "title": "Spatial and multilevel analysis of household solid fuel use and its determinants in Somalia using the 2020 demographic and health survey",
+    "authors": [
+      "Abdirashid M. Yousuf",
+      "Hodo Abdikarim",
+      "Mohamed A. Hussein",
+      "Harun I. Warsame",
+      "Abdikadir N. Abdi",
+      "Hamze G. Dahir",
+      "Abdisalam Hassan Muse"
+    ],
+    "year": 2026,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "Discover Sustainability 7, 1220",
+    "doi": "10.1007/s43621-026-03713-9",
+    "primary_url": "https://link.springer.com/article/10.1007/s43621-026-03713-9",
+    "full_text_url": "https://link.springer.com/content/pdf/10.1007/s43621-026-03713-9.pdf",
+    "geographic_scope": "Somalia SHDS coverage; Table 1 lists 16 regions",
+    "data_period": "Fieldwork 2018–2019; survey edition 2020",
+    "method": "Multilevel logit; Moran's I and Getis-Ord Gi*; Table 1 totals 13,321 households",
+    "data_sources": "SHDS household recodes",
+    "key_findings": "Reports 95.05% solid-fuel use and regional clustering; education, services and wealth associated with choices.",
+    "limitations": "Abstract labels poor-versus-rich OR 0.11 in a misleading direction; full-text p.7 correctly associates it with rich versus poor. Missingness, weights and geographic coverage need replication.",
+    "project_relevance": "Existing spatial cooking-fuel study; avoid claiming novelty for another hotspot map alone.",
+    "evidence_type": "statistical/econometric analysis",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "PDF pp.3–8,13; outcome definition section 2.4; Table 1; p.7 visually checked against abstract.",
+    "quality_appraisal": "Useful method, but prefer full-text model definitions over abstract prose.",
+    "data_code_availability": "SNBS survey access referenced; code not verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ12"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK07",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "clean_cooking",
+      "remittances",
+      "environment"
+    ],
+    "title": "Environmental sustainability in Somalia: the role of clean cooking energy and remittances on ecological footprints",
+    "authors": [
+      "Hassan Abdikadir Hussein",
+      "Abdimalik Ali Warsame"
+    ],
+    "year": 2026,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "Scientific Reports 16, 25489",
+    "doi": "10.1038/s41598-026-57469-3",
+    "primary_url": "https://www.nature.com/articles/s41598-026-57469-3",
+    "full_text_url": "https://www.nature.com/articles/s41598-026-57469-3",
+    "geographic_scope": "Somalia national annual series",
+    "data_period": "1990–2022; unbalanced series",
+    "method": "SADF tests, time-varying Granger analysis, kernel regularized least squares",
+    "data_sources": "Global Footprint Network; CEIC cooking access; Federal Reserve remittances; WDI; SESRIC; KOF",
+    "key_findings": "Finds negative statistical associations between clean-cooking access/remittances and ecological footprint.",
+    "limitations": "Short macro series, secondary/model-derived indicators and omitted conflict/institutional variables limit causal inference. Granger causality is predictive ordering, not intervention identification.",
+    "project_relevance": "Prior macroeconomic literature; supports hypotheses, not household adoption coefficients.",
+    "evidence_type": "statistical/econometric analysis",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Data and methods; Discussion; Conclusion/limitations; Data availability.",
+    "quality_appraisal": "Interpret cautiously; microdata and policy evaluation needed for causal claims.",
+    "data_code_availability": "Data available on request; no downloadable code verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ01",
+      "CQ05"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK08",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "charcoal",
+      "forests",
+      "remote_sensing"
+    ],
+    "title": "Assessment of charcoal driven deforestation rates in a fragile rangeland environment in North Eastern Somalia using very high resolution imagery",
+    "authors": [
+      "S. M. Oduori",
+      "F. Rembold",
+      "O. H. Abdulle",
+      "R. Vargas"
+    ],
+    "year": 2011,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "Journal of Arid Environments 75(11), 1173–1181",
+    "doi": "10.1016/j.jaridenv.2011.05.003",
+    "primary_url": "https://www.sciencedirect.com/science/article/abs/pii/S0140196311001558",
+    "full_text_url": "",
+    "geographic_scope": "Northeastern Somalia tiger-bush study area",
+    "data_period": "2001–2006",
+    "method": "Very-high-resolution imagery, fieldwork, visual sampling and semi-automatic tree detection",
+    "data_sources": "Satellite images and field observations described in author-institution abstract",
+    "key_findings": "Reports approximately 2.8% annual tree loss and no regrowth during the sampled interval.",
+    "limitations": "Local historical study, not national annual deforestation; full methods unavailable for this review.",
+    "project_relevance": "Foundational method and historical benchmark for local charcoal-ecology monitoring.",
+    "evidence_type": "remote sensing",
+    "inspection_depth": "official_summary",
+    "verification_locator": "FAO SWALIM author-institution abstract: https://faoswalim.org/content/assessment-charcoal-driven-deforestation-rates-fragile-rangeland-environment-north-eastern ; publisher full text blocked.",
+    "quality_appraisal": "Important historical evidence; appraisal limited to institutional abstract and bibliographic checks.",
+    "data_code_availability": "No data/code files inspected.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ11",
+      "CQ14"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK09",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "charcoal",
+      "forests",
+      "conflict"
+    ],
+    "title": "Mapping charcoal driven forest degradation during the main period of Al Shabaab control in Southern Somalia",
+    "authors": [
+      "Felix Rembold",
+      "S. M. Oduori",
+      "Hussein Gadain",
+      "Paolo Toselli"
+    ],
+    "year": 2013,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "Energy for Sustainable Development 17, 510–514",
+    "doi": "10.1016/j.esd.2013.07.001",
+    "primary_url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC84159",
+    "full_text_url": "https://faoswalim.org/resources/site_files/01_Mapping%20charcoal%20driven%20forest%20degradation%20during%20the%20main%20period%20of%20Al%20Shabaab_2013.pdf",
+    "geographic_scope": "Two Lower Juba sample areas, 32 and 39 km²",
+    "data_period": "Imagery 2006, 2011 and 2012; historical context 2006–2012",
+    "method": "Visual kiln-site counts and conversion assumptions to infer tree loss",
+    "data_sources": "Very-high-resolution satellite imagery; kiln/tree conversion parameters",
+    "key_findings": "Finds expanding kiln activity and estimated tree loss above 7% over five years in sampled areas.",
+    "limitations": "Kilns proxy tree removal; small selected areas and assumed conversion parameters prevent national extrapolation.",
+    "project_relevance": "Trace charcoal supply-chain ecology and uncertainty in kiln-to-wood conversion.",
+    "evidence_type": "remote sensing",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "FAO-hosted accepted PDF pp.1–5, Table 1; JRC DOI and authors verified. JRC deposit 2014 differs from journal year 2013.",
+    "quality_appraisal": "Transparent historical proxy approach; no causal attribution from kiln imagery alone.",
+    "data_code_availability": "Source imagery and underlying GIS not downloaded.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ08"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK10",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "charcoal",
+      "forests",
+      "remote_sensing"
+    ],
+    "title": "Rapid mapping and impact estimation of illegal charcoal production in southern Somalia based on WorldView-1 imagery",
+    "authors": [
+      "Michele Bolognesi",
+      "Anton Vrieling",
+      "Felix Rembold",
+      "Hussein Gadain"
+    ],
+    "year": 2015,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "Energy for Sustainable Development 25, 40–49",
+    "doi": "10.1016/j.esd.2014.12.008",
+    "primary_url": "https://www.sciencedirect.com/science/article/pii/S0973082614001318",
+    "full_text_url": "https://ris.utwente.nl/ws/portalfiles/portal/276943019/1_s2.0_S0973082614001318_main.pdf",
+    "geographic_scope": "4,700 km² along the Juba River, southern Somalia",
+    "data_period": "2011 and 2013 imagery",
+    "method": "Object-based kiln detection; visual-reference validation in 419 sampled 1 km² clusters; parameter ranges",
+    "data_sources": "0.5 m WorldView-1 images; literature and local knowledge",
+    "key_findings": "Estimates 24,000 tonnes charcoal and 2.7% tree loss over two years for the study area.",
+    "limitations": "Security prevented field validation. Kiln geometry, wood density, moisture and conversion efficiency drive inferred tonnage.",
+    "project_relevance": "Strong candidate method for remotely monitoring supply; independently calibrate conversion factors.",
+    "evidence_type": "remote sensing",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "University-hosted publisher PDF pp.3–7; validation and wood-volume methods; Tables 2–3.",
+    "quality_appraisal": "Explicit validation and assumptions improve traceability; inferred production remains model-dependent.",
+    "data_code_availability": "Publisher PDF available through University of Twente; raw imagery not acquired.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ02",
+      "CQ14"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK11",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "charcoal",
+      "machine_learning",
+      "remote_sensing"
+    ],
+    "title": "Automatic detection of charcoal kilns on Very High Resolution images with a computer vision approach in Somalia",
+    "authors": [
+      "Astrid Verhegghen",
+      "Laura Martinez-Sanchez",
+      "Michele Bolognesi",
+      "Michele Meroni",
+      "Felix Rembold",
+      "Petar Vojnović",
+      "Marijn van der Velde"
+    ],
+    "year": 2023,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "International Journal of Applied Earth Observation and Geoinformation 125, 103524",
+    "doi": "10.1016/j.jag.2023.103524",
+    "primary_url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC134273",
+    "full_text_url": "",
+    "geographic_scope": "Southern Somalia",
+    "data_period": "2018–2019 imagery",
+    "method": "Faster R-CNN trained on curated expert-labeled kiln images",
+    "data_sources": "FAO expert delineations; panchromatic and RGB very-high-resolution imagery",
+    "key_findings": "JRC abstract reports precision 90% for panchromatic and 80% for RGB imagery.",
+    "limitations": "Precision is not overall accuracy, recall or unbiased total production. Full text/data splits not inspected.",
+    "project_relevance": "Existing machine-vision method; novelty should concern transfer, uncertainty or new monitoring application.",
+    "evidence_type": "remote sensing",
+    "inspection_depth": "official_summary",
+    "verification_locator": "JRC author-institution abstract and metadata; DOI verified; publisher full-text request failed.",
+    "quality_appraisal": "Promising scalable detection, with evaluation limited to repository abstract.",
+    "data_code_availability": "JRC page displayed no downloadable dataset/code.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ13"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK12",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "forests",
+      "remote_sensing",
+      "numerical_conflict"
+    ],
+    "title": "Remote Sensing Based Quantification of Forest Cover Change in Somalia for the Period 2000 to 2019",
+    "authors": [
+      "Sylus Kipngeno Musei",
+      "Justine Muhoro Nyaga",
+      "Abdi Zeila Dubow"
+    ],
+    "year": 2021,
+    "publication_type": "peer_reviewed_book_chapter",
+    "venue_or_publisher": "IntechOpen",
+    "doi": "10.5772/intechopen.99365",
+    "primary_url": "https://www.intechopen.com/chapters/77788",
+    "full_text_url": "https://www.intechopen.com/chapters/77788",
+    "geographic_scope": "Somalia national boundary",
+    "data_period": "2000–2019",
+    "method": "Google Earth Engine analysis of Landsat-based forest-cover products; 30% canopy threshold",
+    "data_sources": "Hansen/global forest-change products as described",
+    "key_findings": "Maps forest-cover change and supplies an Earth Engine script link.",
+    "limitations": "Abstract 2000 forest area 87,294 ha conflicts with section 3.1's 8,729,400 ha: factor 100. Forest loss is not uniquely charcoal-caused.",
+    "project_relevance": "Reproduce and audit definitions/area units before using forest-stock estimates.",
+    "evidence_type": "remote sensing",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Abstract; sections 2.2–3.2; section 3.1 script link. Publisher date 15 October 2021 retained; Crossref reports 2022 (bibliographic discrepancy independently verified by coordinating review).",
+    "quality_appraisal": "Numerical national-area benchmark quarantined pending unit reconciliation.",
+    "data_code_availability": "Script linked at https://code.earthengine.google.com/6d67bcdf27fd3139f89c0a1af94a3c9d ; not executed.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ02"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK13",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "biogas",
+      "productive_uses",
+      "livestock",
+      "water"
+    ],
+    "title": "Biodigester Market Assessment in Somalia",
+    "authors": [
+      "Ahmed Giumale",
+      "African Biodigester Component"
+    ],
+    "year": null,
+    "publication_type": "institutional_technical_report",
+    "venue_or_publisher": "African Biodigester Component / GIZ-SNV-ABPL",
+    "doi": "",
+    "primary_url": "https://abc.kenyabiogas.com/resources/",
+    "full_text_url": "https://ik.imagekit.io/x3ayae9ejg/files/Biodigester_Market_Assesment_in_Somalia-_Publication_With_profiles_CtGLoP4P1.pdf",
+    "geographic_scope": "Somalia; includes Mogadishu, livestock ports, Somaliland and Puntland",
+    "data_period": "Mixed 2020–2022 contextual data and site consultations; publication date unresolved; catalogue posted February 2025",
+    "method": "Market reconnaissance, stakeholder/company profiles and feedstock-based potential calculations",
+    "data_sources": "Interviews, site visits, livestock statistics and company information",
+    "key_findings": "Confirms six identified digesters: four active, two inactive; separately estimates 62,000 potential units.",
+    "limitations": "Small identified inventory is not a census. Feedstock access, water, competing uses and financing constrain modeled potential.",
+    "project_relevance": "Useful supplier/site leads; inspect operating units before adopting performance or potential.",
+    "evidence_type": "project/report evidence",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "PDF pp.2,6–8,14–27; p.7 visually checked; ABC programme links original report.",
+    "quality_appraisal": "Useful reconnaissance; technical potential must remain distinct from practical uptake.",
+    "data_code_availability": "Company profiles in report; no raw survey dataset/code verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ10"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK14",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "LPG",
+      "subsidies",
+      "gender",
+      "program_evaluation"
+    ],
+    "title": "Terminal Evaluation: Federal Government of Somalia and United Nations Joint Programme for Sustainable Charcoal Reduction and Alternative Livelihoods (PROSCAL) — Final Evaluation Report",
+    "authors": [
+      "Kevin Enongene",
+      "Ismail Elmi"
+    ],
+    "year": 2023,
+    "publication_type": "institutional_evaluation_report",
+    "venue_or_publisher": "UNDP / FAO / UNEP",
+    "doi": "",
+    "primary_url": "https://www.undp.org/somalia/projects/joint-programme-sustainable-charcoal-reduction-and-alternative-livelihoods",
+    "full_text_url": "https://undpngddlsprod01.blob.core.windows.net/pdc/00085377-PPMFINAL%20PROSCAL%20TE%20REPORT-CLEAN-05112023.pdf",
+    "geographic_scope": "Somalia; consultations concentrated in Hargeisa and Mogadishu",
+    "data_period": "Project 2016–2022; evaluation March–June 2023; report August 2023",
+    "method": "Document review, field visits, nonrandom stakeholder interviews and online questionnaires",
+    "data_sources": "Programme reports, beneficiaries, companies and institutions",
+    "key_findings": "LPG companies reported purchases declined after subsidy withdrawal; evaluation rates sustainability moderately likely.",
+    "limitations": "Small uneven nonrandom consultations and implementer statistics; no counterfactual or measured exposure trial.",
+    "project_relevance": "Prioritize refill affordability and sustained use over distribution counts.",
+    "evidence_type": "project/report evidence",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Sections 1.3–1.4, 3.3.7, 3.3.10; printed pp.3–5,50–52 (PDF pp.17–19,64–66); p.52 visually checked.",
+    "quality_appraisal": "Strong for implementation mechanisms, weaker for causal impact or prevalence.",
+    "data_code_availability": "No interview microdata published/verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ05"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK15",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "LPG",
+      "efficient_stoves",
+      "solar_heat",
+      "livelihoods"
+    ],
+    "title": "UN Somalia Joint Fund Final Progress Report: Sustainable Charcoal Reduction and Alternative Livelihoods (PROSCAL)",
+    "authors": [
+      "UNDP",
+      "FAO",
+      "UNEP"
+    ],
+    "year": null,
+    "publication_type": "institutional_progress_report",
+    "venue_or_publisher": "UN Somalia Joint Fund / MPTF",
+    "doi": "",
+    "primary_url": "https://mptf.undp.org/sites/default/files/documents/2024-04/annex_ix_proscal_2023.pdf",
+    "full_text_url": "https://mptf.undp.org/sites/default/files/documents/2024-04/annex_ix_proscal_2023.pdf",
+    "geographic_scope": "Somalia; Benadir, federal member states and Somaliland",
+    "data_period": "1 April 2016–31 March 2023; publication date not established, hosted in 2024 directory",
+    "method": "Programme monitoring and narrative reporting",
+    "data_sources": "Implementer monitoring, activities and terminal evaluation",
+    "key_findings": "Reports support for 34,863 efficient-stove households and 14,211 subsidized-LPG households; also solar water heating and alternative livelihoods.",
+    "limitations": "Beneficiary totals are reported outputs, not verified exclusive fuel switching, emission savings or durable adoption; overlaps need checking.",
+    "project_relevance": "Locate implementers and follow-up samples; compare with terminal evaluation.",
+    "evidence_type": "project/report evidence",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Cover; executive summary; PDF pp.6–9 and results narrative.",
+    "quality_appraisal": "Useful original programme record; not independent impact evaluation.",
+    "data_code_availability": "Report public; underlying beneficiary/monitoring data not verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ05"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK16",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "electric_cooking",
+      "Somali_diets",
+      "adjacent_geography",
+      "displacement"
+    ],
+    "title": "Cooking with Power, The Somali eCookbook: Traditional Somali Recipes Tested with Modern Electric Cooking",
+    "authors": [
+      "Mercy Corps"
+    ],
+    "year": 2026,
+    "publication_type": "institutional_technical_report",
+    "venue_or_publisher": "Modern Energy Cooking Services (MECS), Loughborough University",
+    "doi": "",
+    "primary_url": "https://mecs.org.uk/publications/cooking-with-power-the-somali-ecookbook-traditional-somali-recipes-tested-with-modern-electric-cooking/",
+    "full_text_url": "",
+    "geographic_scope": "Somali recipes; full-text test geography unverified. Programme announcement identifies Sheder camp, Ethiopia; do not adopt as Somalia field data.",
+    "data_period": "Published 6 August 2026; test dates not verified",
+    "method": "Publisher describes recipe tests using modern electric cooking; detailed protocol inaccessible",
+    "data_sources": "MECS publisher landing page and first-party programme discovery announcement",
+    "key_findings": "A dedicated Somali eCooking recipe-test publication exists; numerical energy and cost results were not inspected.",
+    "limitations": "Download inaccessible; no verified sample size, tariff, appliance settings or performance values.",
+    "project_relevance": "High-priority acquisition for culturally relevant controlled cooking tests; requires local transfer checks.",
+    "evidence_type": "project/report evidence",
+    "inspection_depth": "official_summary",
+    "verification_locator": "MECS official publication page, title, author and date; linked download failed; first-party announcement discovery only.",
+    "quality_appraisal": "Verified publication identity; insufficient access for quantitative appraisal.",
+    "data_code_availability": "Download linked but not obtained; no data/code verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ17",
+      "CQ20"
+    ],
+    "review_status": "identity_only",
+    "scope_role": "followup_lead"
+  },
+  {
+    "id": "COOK17",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "displacement",
+      "gender",
+      "protection",
+      "regional_context"
+    ],
+    "title": "Cooking Fuel and the Humanitarian Response in the Horn of Africa: Key Messages and Guidance for Action",
+    "authors": [
+      "Women's Refugee Commission"
+    ],
+    "year": 2011,
+    "publication_type": "institutional_policy_brief",
+    "venue_or_publisher": "Women's Refugee Commission",
+    "doi": "",
+    "primary_url": "https://www.womensrefugeecommission.org/wp-content/uploads/2020/04/ffi-somalia_response_2011.pdf",
+    "full_text_url": "https://www.womensrefugeecommission.org/wp-content/uploads/2020/04/ffi-somalia_response_2011.pdf",
+    "geographic_scope": "Regional humanitarian response including Somalia; concrete assessment examples are Dadaab/Kakuma, Kenya",
+    "data_period": "August 2011; cites 2010 Kenyan camp assessment",
+    "method": "Operational guidance drawing on SAFE assessment and humanitarian practice",
+    "data_sources": "Women's Refugee Commission / WFP SAFE experience",
+    "key_findings": "Argues food assistance must include cooking-fuel access, protection, livelihood and environmental considerations.",
+    "limitations": "Guidance, not Somalia intervention evaluation; historical regional context and Kenyan examples must remain labeled.",
+    "project_relevance": "Integrate fuel expenditure, collection safety and food preparation into displacement research.",
+    "evidence_type": "policy/planning",
+    "inspection_depth": "full_text",
+    "verification_locator": "Both PDF pages; Emergency response, Food and Nutrition, Protection and Longer-term response.",
+    "quality_appraisal": "Useful conceptual framework; no direct transfer of fuel-saving percentages.",
+    "data_code_availability": "Two-page brief public; no Somali microdata.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ16"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "regional_context"
+  },
+  {
+    "id": "COOK18",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "health",
+      "machine_learning",
+      "survey_reanalysis"
+    ],
+    "title": "A Machine Learning Approach to Predicting Household Smoke Exposure Risk in Somalia: An Analysis With SHAP Explanations",
+    "authors": [
+      "Mohamed Abdirahim Omar",
+      "Yahye Sheikh Abdulle Hassan",
+      "Abdirasak Sharif Ali",
+      "Mohamed Mustaf Ahmed"
+    ],
+    "year": 2026,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "Environmental Health Insights 20",
+    "doi": "10.1177/11786302261427897",
+    "primary_url": "https://journals.sagepub.com/doi/full/10.1177/11786302261427897",
+    "full_text_url": "https://journals.sagepub.com/doi/full/10.1177/11786302261427897",
+    "geographic_scope": "Somalia SHDS sampled areas; 16 regions",
+    "data_period": "2020 SHDS edition",
+    "method": "Six classifiers; 80/20 split, cross-validation and SHAP; weighted n=15,838",
+    "data_sources": "SHDS fuel/location-derived binary risk, household covariates",
+    "key_findings": "Gradient boosting reports AUC 0.81; weighted binary risk prevalence 70%.",
+    "limitations": "Reuses SHDS, not independent exposure measurements; binary risk differs from earlier ordinal categories. Random holdout does not establish spatial/temporal transfer.",
+    "project_relevance": "Existing ML risk study; prioritize measured validation rather than novelty by algorithm substitution.",
+    "evidence_type": "statistical/econometric analysis",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Methods: outcome, preprocessing, training/evaluation; Table 2; Discussion and data availability.",
+    "quality_appraisal": "Useful predictive comparison; no evidence of external pollution/health validation in inspected sections.",
+    "data_code_availability": "Survey source referenced; no directly downloadable analysis code verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ21"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "COOK19",
+    "primary_theme": "cooking_biomass",
+    "themes": [
+      "biomass",
+      "municipal_waste",
+      "methane",
+      "feedstock",
+      "Mogadishu"
+    ],
+    "title": "Evaluation of the Methane (CH4) Generation Rate Constant (k Value) of Municipal Solid Waste (MSW) in Mogadishu City, Somalia",
+    "authors": [
+      "Abdulkadir A. Araye",
+      "Mohd Suffian Yusoff",
+      "Nik Azimatolakma Awang",
+      "Teh Sabariah Binti Abd Manan"
+    ],
+    "year": 2023,
+    "publication_type": "journal_article",
+    "venue_or_publisher": "Sustainability 15(19), 14531",
+    "doi": "10.3390/su151914531",
+    "primary_url": "https://www.mdpi.com/2071-1050/15/19/14531",
+    "full_text_url": "https://mdpi-res.com/d_attachment/sustainability/sustainability-15-14531/article_deploy/sustainability-15-14531.pdf",
+    "geographic_scope": "Mogadishu; 204 households across 17 districts grouped into three zones",
+    "data_period": "September 2022–March 2023 stated; seven continuous collection days also stated, leaving seasonal timing unclear",
+    "method": "Household waste weighing/sorting, density and oven-dried moisture; composition-based first-order methane-decay coefficients",
+    "data_sources": "Primary household waste samples; external decay coefficients described as IPCC-based",
+    "key_findings": "Reports mean waste generation of 0.2 kg/person/day and food waste as the largest component; methane kinetics are calculated.",
+    "limitations": "Ambiguous sampling timeline; coefficient choices need reconciliation with Table 3; no measured gas capture, energy yield or operating biogas plant.",
+    "project_relevance": "Local feedstock-characterization lead; requires seasonal verification and conversion/recovery testing before energy-potential use.",
+    "evidence_type": "observed/survey; model-derived methane kinetics",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Publisher PDF pp.1,6–11,17–18; sections 2.1–2.4, 3.1 and 4; Tables 2–3; equation 9. Pages 6 and 10 visually checked. Published 6 October 2023.",
+    "quality_appraisal": "Measured feedstock evidence is useful; numerical gas estimates require a separate parameter audit.",
+    "data_code_availability": "Authors state all data are in the manuscript; no machine-readable household file or analysis code verified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "CQ22"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  }
+]

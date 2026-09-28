@@ -1,0 +1,223 @@
+{
+  "requested_doi": "10.30880/ijie.2024.16.01.014",
+  "source_url": "https://api.crossref.org/works/10.30880%2Fijie.2024.16.01.014",
+  "retrieved_at_utc": "2026-09-28T18:04:18.022427+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.30880/ijie.2024.16.01.014",
+    "title": [
+      "Techno-Economic Analysis of Off-Grid PV Solar System for Residential Building Load: A Case Study in Baidoa, Somalia"
+    ],
+    "author": [
+      {
+        "name": "Department Solargen Kenya",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abdullahi",
+        "family": "Abdulkadir Ahmed",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Djamal",
+        "family": "Hissein Didane",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Universiti Tun Hussein Onn Malaysia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bashir",
+        "family": "Ali Hussein",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Target Group Limited Somalia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sami",
+        "family": "Al-Alimi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Universiti Tun Hussein Onn Malaysia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yazid",
+        "family": "Saif",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Universiti Tun Hussein Onn Malaysia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bukhari",
+        "family": "Manshoor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "name": "Universiti Tun Hussein Onn Malaysia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Penerbit UTHM",
+    "container-title": [
+      "International Journal of Integrated Engineering"
+    ],
+    "volume": "16",
+    "issue": "1",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          25
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          25
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          25
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          23
+        ]
+      ],
+      "date-time": "2024-07-23T21:08:07Z",
+      "timestamp": 1721768887000
+    },
+    "link": [
+      {
+        "URL": "https://publisher.uthm.edu.my/ojs/index.php/ijie/article/view/14217/6428",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://publisher.uthm.edu.my/ojs/index.php/ijie/article/view/14217/6428"
+      }
+    },
+    "URL": "https://doi.org/10.30880/ijie.2024.16.01.014",
+    "relation": {},
+    "is-referenced-by-count": 0
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score.",
+  "previous_attempts": [
+    {
+      "requested_doi": "10.30880/ijie.2024.16.01.014",
+      "source_url": "https://api.crossref.org/works/10.30880%2Fijie.2024.16.01.014",
+      "retrieved_at_utc": "2026-09-28T17:52:08.846891+00:00",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "requested_doi": "10.21203/rs.3.rs-480695/v1",
+  "source_url": "https://api.crossref.org/works/10.21203%2Frs.3.rs-480695%2Fv1",
+  "retrieved_at_utc": "2026-09-28T18:10:32.804861+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.21203/rs.3.rs-480695/v1",
+    "title": [
+      "Selected ‘Starter Kit’ energy system modelling data for Somalia (#CCG)"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1214-8913",
+        "authenticated-orcid": false,
+        "given": "Carla",
+        "family": "Cannone",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "STEER Centre, Department of Geography, Loughborough University"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1801-899X",
+        "authenticated-orcid": false,
+        "given": "Lucy",
+        "family": "Allington",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "STEER Centre, Department of Geography, Loughborough University"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7537-5470",
+        "authenticated-orcid": false,
+        "given": "Ioannis",
+        "family": "Pappis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "KTH Royal Institute of Technology"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9185-3022",
+        "authenticated-orcid": false,
+        "given": "Karla Cervantes",
+        "family": "Barron",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Cambridge"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9367-1791",
+        "authenticated-orcid": false,
+        "given": "Will",
+        "family": "Usher",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "KTH Royal Institute of Technology"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1793-2552",
+        "authenticated-orcid": false,
+        "given": "Steve",
+        "family": "Pye",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University College London"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0722-9348",
+        "authenticated-orcid": false,
+        "given": "Edward",
+        "family": "Brown",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "STEER Centre, Department of Geography, Loughborough University"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6419-4957",
+        "authenticated-orcid": false,
+        "given": "Mark",
+        "family": "Howells",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "STEER Centre, Department of Geography, Loughborough University; Imperial College London"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4757-3688",
+        "authenticated-orcid": false,
+        "given": "Miriam Zachau",
+        "family": "Walker",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Oxford"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6027-4818",
+        "authenticated-orcid": false,
+        "given": "Aniq",
+        "family": "Ahsan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Oxford"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3174-0362",
+        "authenticated-orcid": false,
+        "given": "Flora",
+        "family": "Charbonnier",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Oxford"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0308-5623",
+        "authenticated-orcid": false,
+        "given": "Claire",
+        "family": "Halloran",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Oxford"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7628-9259",
+        "authenticated-orcid": false,
+        "given": "Stephanie",
+        "family": "Hirmer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Oxford"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4022-5506",
+        "authenticated-orcid": false,
+        "given": "Constantinos",
+        "family": "Taliotis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "KTH Royal Institute of Technology; The Cyprus Institute"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Caroline",
+        "family": "Sundin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "KTH Royal Institute of Technology"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0764-2615",
+        "authenticated-orcid": false,
+        "given": "Vignesh",
+        "family": "Sridha",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "KTH Royal Institute of Technology"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9061-8485",
+        "authenticated-orcid": false,
+        "given": "Eunice",
+        "family": "Ramos",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "KTH Royal Institute of Technology"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8980-9062",
+        "authenticated-orcid": false,
+        "given": "Maarten",
+        "family": "Brinkerink",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University College Cork"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4681-7791",
+        "authenticated-orcid": false,
+        "given": "Paul",
+        "family": "Deane",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University College Cork"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrii",
+        "family": "Gritsevskyi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "International Atomic Energy Agency"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Gustavo",
+        "family": "Moura",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Federal University of Ouro Preto"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Arnaud",
+        "family": "Rouget",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "International Energy Agency"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Wogan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Asia Pacific Energy Research Centre"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Edito",
+        "family": "Barcelona",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Asia Pacific Energy Research Centre"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1045-9830",
+        "authenticated-orcid": false,
+        "given": "Holger",
+        "family": "Rogner",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "KTH Royal Institute of Technology"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2888-400X",
+        "authenticated-orcid": false,
+        "given": "Jen",
+        "family": "Cronin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University College London"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "publisher": "Springer Science and Business Media LLC",
+    "container-title": [],
+    "type": "posted-content",
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          3
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          3
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          3
+        ]
+      ],
+      "date-time": "2021-05-03T18:53:11Z",
+      "timestamp": 1620067991000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              5,
+              3
+            ]
+          ],
+          "date-time": "2021-05-03T00:00:00Z",
+          "timestamp": 1620000000000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.researchsquare.com/article/rs-480695/v1",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.researchsquare.com/article/rs-480695/v1.html",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.researchsquare.com/article/rs-480695/v1"
+      }
+    },
+    "URL": "https://doi.org/10.21203/rs.3.rs-480695/v1",
+    "relation": {},
+    "is-referenced-by-count": 0
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

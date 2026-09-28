@@ -1,0 +1,156 @@
+{
+  "requested_doi": "10.3390/pr10040667",
+  "source_url": "https://api.crossref.org/works/10.3390%2Fpr10040667",
+  "retrieved_at_utc": "2026-09-28T18:04:19.093934+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.3390/pr10040667",
+    "title": [
+      "Technical and Economical Investigation of a Centralized and Decentralized Hybrid Renewable Energy System in Cadaado, Somalia"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5284-0568",
+        "authenticated-orcid": false,
+        "given": "Hasan Huseyin",
+        "family": "Coban",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Electrical Engineering, Ardahan University, Ardahan 75002, Turkey"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9757-3205",
+        "authenticated-orcid": false,
+        "given": "Aysha",
+        "family": "Rehman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Mathematics, University of Gujrat, Gujrat 50700, Pakistan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abdullah",
+        "family": "Mohamed",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Research Centre, Future University in Egypt, New Cairo 11745, Egypt"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "MDPI AG",
+    "container-title": [
+      "Processes"
+    ],
+    "volume": "10",
+    "issue": "4",
+    "page": "667",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          29
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          29
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          29
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2022,
+          3,
+          29
+        ]
+      ],
+      "date-time": "2022-03-29T21:45:51Z",
+      "timestamp": 1648590351000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              29
+            ]
+          ],
+          "date-time": "2022-03-29T00:00:00Z",
+          "timestamp": 1648512000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2227-9717/10/4/667/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/2227-9717/10/4/667"
+      }
+    },
+    "URL": "https://doi.org/10.3390/pr10040667",
+    "relation": {},
+    "is-referenced-by-count": 29
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score.",
+  "previous_attempts": [
+    {
+      "requested_doi": "10.3390/pr10040667",
+      "source_url": "https://api.crossref.org/works/10.3390%2Fpr10040667",
+      "retrieved_at_utc": "2026-09-28T17:52:08.894955+00:00",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ]
+}

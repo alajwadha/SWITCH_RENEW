@@ -1,0 +1,185 @@
+{
+  "requested_doi": "10.1016/j.rser.2014.07.150",
+  "source_url": "https://api.crossref.org/works/10.1016%2Fj.rser.2014.07.150",
+  "retrieved_at_utc": "2026-09-28T17:52:08.724798+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1016/j.rser.2014.07.150",
+    "title": [
+      "Feasibility study of renewable energy-based microgrid system in Somaliland׳s urban centers"
+    ],
+    "author": [
+      {
+        "given": "Abdirahman Mohamed",
+        "family": "Abdilahi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abdul Halim",
+        "family": "Mohd Yatim",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mohd Wazir",
+        "family": "Mustafa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Omar Tahseen",
+        "family": "Khalaf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alshammari Fahad",
+        "family": "Shumran",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Faizah",
+        "family": "Mohamed Nor",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "container-title": [
+      "Renewable and Sustainable Energy Reviews"
+    ],
+    "volume": "40",
+    "page": "1048-1059",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2014,
+          12
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2014,
+          12
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          12
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2014-08-28T12:00:56Z",
+      "timestamp": 1409227256000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2014-12-01T00:00:00Z",
+          "timestamp": 1417392000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2014,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2014-12-01T00:00:00Z",
+          "timestamp": 1417392000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1364032114006029?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1364032114006029?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1364032114006029"
+      }
+    },
+    "URL": "https://doi.org/10.1016/j.rser.2014.07.150",
+    "relation": {},
+    "is-referenced-by-count": 80
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

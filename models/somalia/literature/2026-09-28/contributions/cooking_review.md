@@ -1,0 +1,55 @@
+# Somalia cooking, biomass and charcoal: critical literature review
+
+Review date: 28 September 2026. See `cooking_records.json` for bibliographic metadata, methods, source locators and individual appraisals, and `cooking_search_log.json` for the search and access record.
+
+Somalia cooking research already includes household fuel-choice models, spatial analysis, machine learning, charcoal monitoring and programme evaluations. The stronger research opportunity is to measure sustained use, affordability, fuel quantities and exposure, while reconciling existing survey definitions. Another analysis of the same survey is not automatically an independent observation or a new contribution.
+
+## Evidence base and boundaries
+
+This contribution contains 19 records: 15 inspected through selected full-text sections, one two-page brief read in full, and three assessed through official summaries. The last group includes an eCookbook whose identity is verified but whose methods and results remain unreviewed. The regional humanitarian brief is contextual evidence, with Kenyan camp examples; it is not a Somali intervention evaluation. Searches used the public web, followed by publisher and originating-institution inspection and citation tracing. They did not establish exhaustive coverage of bibliographic databases. Access barriers and potentially relevant excluded leads are recorded.
+
+Several recent papers reuse SIHBS 2022 or SHDS 2020. Their publication dates therefore do not establish a time series of energy transitions. Somaliland results, Badhan findings, sampled southern charcoal landscapes and national survey coverage retain separate geographic labels.
+
+## Fuel choice: substantial evidence, incompatible indicators
+
+The SIHBS multinomial analysis supplies a useful description of main cooking fuels and retains urban, rural and nomadic residence categories. Its cross-sectional models cannot establish why a household would adopt or retain a new technology. The Fairlie study instead groups nomadic households with rural households and defines “modern” fuels to include paraffin. Its urban odds ratio of 5.211 has a reported interval of 1.410–1.891 in section 3.3/Table 3; those cannot be the estimate and confidence interval on the same scale. Reproduce the coding and estimates before using the coefficients. [COOK01](https://econjournals.com/index.php/ijeep/article/view/19826), [COOK05](https://link.springer.com/article/10.1007/s43621-026-03673-0).
+
+The Somaliland multilevel paper includes kerosene under its “solid” category and reports a prevalence different from the original-survey percentages it cites. This may reflect definitions, missingness, exclusions or weighting; the article alone does not reconcile them. The national spatial paper offers useful geographic methods, but its abstract reverses the wording of the wealth comparison relative to the full-text result. These issues warrant a transparent survey reanalysis, not averaging published percentages. [COOK02](https://journals.sagepub.com/doi/10.1177/11786302251315893), [COOK06](https://link.springer.com/article/10.1007/s43621-026-03713-9).
+
+The Sanaag knowledge-attitudes-practices study is actually a 343-household Badhan study: town selection and within-town sampling must remain explicit. It suggests that knowledge alone does not assure changed cooking practice. Modest practice-scale reliability and demographic reporting inconsistencies weaken precise extrapolation; it contains no measured air-pollution outcome. [COOK03](https://www.mdpi.com/2071-1050/13/4/2084).
+
+## Health, gender and displacement: proxies need validation
+
+Both the ordinal smoke-risk paper and the subsequent machine-learning paper construct risk from cooking fuel and location. Their different prevalence estimates are not evidence of a change in measured exposure. The latter's random holdout and reported predictive performance assess reproduction of this proxy; they do not validate personal particulate exposure, health outcomes or transfer across places and years. A future study should measure the environmental outcome rather than rename the proxy as observed smoke exposure. [COOK04](https://link.springer.com/article/10.1186/s12889-025-24183-0), [COOK18](https://journals.sagepub.com/doi/full/10.1177/11786302261427897).
+
+The humanitarian guidance connects cooking fuel with food assistance, collection safety, gender and livelihoods. Its concrete assessment examples come from Dadaab and Kakuma, Kenya. That provides a research framework for displacement settings, not a transferable Somali effect size. The Somaliland gender diagnostic was located but its government PDF failed to open; this review therefore cannot substitute a consultancy description for the report's findings. [COOK17](https://www.womensrefugeecommission.org/wp-content/uploads/2020/04/ffi-somalia_response_2011.pdf).
+
+## Adoption and sustained operation
+
+PROSCAL's final progress report documents programme delivery. Beneficiary totals do not establish exclusive or continuing fuel use and may overlap across interventions. The terminal evaluation is particularly valuable because it records companies reporting lower LPG purchases after subsidies ended (printed p.52/PDF p.66). However, its stakeholder coverage was uneven and non-random; implementer and beneficiary reports are not a controlled impact evaluation. Treat adoption, refill persistence, fuel displacement and emissions as separate outcomes. [COOK15](https://mptf.undp.org/sites/default/files/documents/2024-04/annex_ix_proscal_2023.pdf), [COOK14](https://undpngddlsprod01.blob.core.windows.net/pdc/00085377-PPMFINAL%20PROSCAL%20TE%20REPORT-CLEAN-05112023.pdf).
+
+The biodigester assessment distinguishes six identified digesters, four active, from an estimated market potential of 62,000 (PDF p.7). These are different evidence classes. Neither the catalogue posting date nor a theoretical market calculation establishes a current operational fleet. The promising research task is to verify operating performance, accessible manure, seasonal water demand, maintenance and user economics. [COOK13](https://abc.kenyabiogas.com/resources/).
+
+The Mogadishu waste study adds direct weighing, sorting, density and moisture observations from 204 households. Its methane rate constants instead apply literature coefficients to waste composition. This is feedstock evidence, not measured energy output. The sampling timeline and coefficient references require clarification before extrapolation to seasonal citywide recoverable fuel supply. [COOK19](https://www.mdpi.com/2071-1050/15/19/14531).
+
+MECS verifies the existence of the 2026 Somali eCookbook, but its download was inaccessible. A programme announcement points toward Sheder, Ethiopia; the full study geography has not been checked. This is a follow-up lead for culturally appropriate electric cooking, not evidence of deployment or measured performance in Somalia. [COOK16](https://mecs.org.uk/publications/cooking-with-power-the-somali-ecookbook-traditional-somali-recipes-tested-with-modern-electric-cooking/).
+
+## Charcoal and environmental evidence
+
+The 2011 northeastern study and the 2013 southern study establish an important history of very-high-resolution charcoal monitoring. The first was inspected only through its author institution's abstract. The southern work samples small landscapes; it does not estimate all Somalia forest change. Comparisons between studies must preserve imagery dates, sampled area and ecological setting. [COOK08](https://faoswalim.org/content/assessment-charcoal-driven-deforestation-rates-fragile-rangeland-environment-north-eastern), [COOK09](https://publications.jrc.ec.europa.eu/repository/handle/JRC84159).
+
+The WorldView-1 study extends kiln mapping to a larger southern area and documents visual validation. Its charcoal tonnage and tree-loss estimates still depend on kiln geometry, wood properties and conversion assumptions. The later computer-vision paper reports kiln-detection precision, which must not be relabeled overall accuracy or a direct mass-of-fuel measure. Only its JRC abstract was inspected. [COOK10](https://www.sciencedirect.com/science/article/pii/S0973082614001318), [COOK11](https://publications.jrc.ec.europa.eu/repository/handle/JRC134273).
+
+The national forest-cover chapter provides a reproducible-method lead through a Google Earth Engine link, but its abstract and section 3.1 differ by a factor of 100 in baseline area. Quarantine those area benchmarks pending correction or independent recomputation. Its canopy threshold also does not capture every sparse rangeland tree; mapped forest loss is not, by itself, proof of charcoal causation. The register retains the publisher's 15 October 2021 date and notes Crossref's conflicting 2022 year. [COOK12](https://www.intechopen.com/chapters/77788).
+
+The ecological-footprint paper adds national time-series analysis, but its short, unbalanced series and secondary indicators do not identify a household cooking intervention's causal effect. Granger predictability and flexible regression are useful hypothesis-generating tools here, not substitutes for measured fuel or woodland balances. [COOK07](https://www.nature.com/articles/s41598-026-57469-3).
+
+## Priorities for the Somalia research programme
+
+1. **Reconcile household baselines.** Publish a codebook mapping each fuel to physical fuel type, clean-cooking classification and technology; retain fuel stacking and residence distinctions. Audit weights, missingness, denominator and sampling coverage before selecting baseline percentages.
+2. **Follow households through adoption.** Collect repeated fuel quantities, prices, LPG refills, stove use, reliability, household expenditure, cooking time and seasonal conditions. Include nomadic, displaced and low-income households with explicit sampling coverage. Evaluate subsidy withdrawal and payment options rather than assume first purchase is durable adoption.
+3. **Validate exposure and service quality.** Pair kitchen or personal measurements with cooking location and appliance-use records. For electricity, record actual cooking demand, timing, service interruptions and tariff expenditure. This would support electricity-demand research without inferring cooking loads from ownership.
+4. **Connect biomass demand to supply.** Combine kiln observations with field-verified conversions, domestic and export flows, regrowth and alternative land-use pressures. Publish uncertainty bounds and avoid national extrapolation from isolated landscapes.
+5. **Test technology operation.** Monitor electric cooking and biodigester pilots through seasons, including maintenance, water, fuel availability and continued use. Treat adjacent-country Somali-cuisine evidence as transfer evidence requiring local validation.
+
+These are reviewer recommendations arising from the inspected literature, not claims that no relevant unpublished or inaccessible study exists. The record preserves existing spatial, machine-learning, decomposition and market-assessment studies so that later proposals can make a defensible novelty claim.

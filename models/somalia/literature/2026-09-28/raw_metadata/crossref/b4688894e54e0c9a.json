@@ -1,0 +1,146 @@
+{
+  "requested_doi": "10.1016/j.esd.2013.07.001",
+  "source_url": "https://api.crossref.org/works/10.1016%2Fj.esd.2013.07.001",
+  "retrieved_at_utc": "2026-09-28T18:10:21.288017+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1016/j.esd.2013.07.001",
+    "title": [
+      "Mapping charcoal driven forest degradation during the main period of Al Shabaab control in Southern Somalia"
+    ],
+    "author": [
+      {
+        "given": "F.",
+        "family": "Rembold",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "S.M.",
+        "family": "Oduori",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "H.",
+        "family": "Gadain",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Toselli",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "container-title": [
+      "Energy for Sustainable Development"
+    ],
+    "volume": "17",
+    "issue": "5",
+    "page": "510-514",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2013,
+          10
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2013,
+          10
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          10
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2013,
+          8,
+          15
+        ]
+      ],
+      "date-time": "2013-08-15T15:31:41Z",
+      "timestamp": 1376580701000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2013,
+              10,
+              1
+            ]
+          ],
+          "date-time": "2013-10-01T00:00:00Z",
+          "timestamp": 1380585600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0973082613000628?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0973082613000628?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0973082613000628"
+      }
+    },
+    "URL": "https://doi.org/10.1016/j.esd.2013.07.001",
+    "relation": {},
+    "is-referenced-by-count": 36
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

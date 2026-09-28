@@ -1,0 +1,3916 @@
+{
+  "review_date": "2026-09-28",
+  "scope": "Structural, bibliography and selected arithmetic checks. Passing is not validation of every source finding.",
+  "records": 73,
+  "checks_passed": 740,
+  "checks_failed": 0,
+  "doi_metadata_retrieved": 42,
+  "doi_metadata_exceptions": [
+    {
+      "id": "PU01",
+      "doi": "10.30501/jree.2021.245232.1140",
+      "status": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "PU15",
+      "doi": "10.13140/RG.2.2.22986.77762",
+      "status": "HTTP Error 404: Not Found"
+    }
+  ],
+  "arithmetic_checks": {
+    "E11_CAGR_percent": {
+      "formula": "100*((1814.2/133.2)**(1/30)-1)",
+      "derived": 9.095297580578832,
+      "source_reported": 1.88
+    },
+    "E11_diesel_sum_MW": {
+      "terms": [
+        "124.9",
+        "84",
+        "52.75",
+        "17.8",
+        "9.6",
+        "8.4",
+        "48.8"
+      ],
+      "derived": "346.25",
+      "source_total": "302.35"
+    },
+    "COOK12_forest_area_ratio": {
+      "formula": "8729400/87294",
+      "derived": 100.0
+    }
+  },
+  "maximum_substantive_words_per_record": 108,
+  "checks": [
+    {
+      "check": "unique_record_ids",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "unique_primary_dois",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E12:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E12:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E12:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E12:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E12:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E12:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E12:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E12:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E12:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E12:compact_original_summary",
+      "passed": true,
+      "details": 62
+    },
+    {
+      "check": "E15:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E15:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E15:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E15:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E15:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E15:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E15:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E15:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E15:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E15:compact_original_summary",
+      "passed": true,
+      "details": 56
+    },
+    {
+      "check": "E10:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E10:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E10:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E10:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E10:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E10:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E10:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E10:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E10:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E10:compact_original_summary",
+      "passed": true,
+      "details": 63
+    },
+    {
+      "check": "E11:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E11:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E11:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E11:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E11:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E11:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E11:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E11:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E11:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E11:compact_original_summary",
+      "passed": true,
+      "details": 65
+    },
+    {
+      "check": "E06:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E06:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E06:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E06:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E06:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E06:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E06:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E06:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E06:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E06:compact_original_summary",
+      "passed": true,
+      "details": 80
+    },
+    {
+      "check": "E07:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E07:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E07:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E07:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E07:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E07:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E07:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E07:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E07:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E07:compact_original_summary",
+      "passed": true,
+      "details": 74
+    },
+    {
+      "check": "E08:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E08:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E08:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E08:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E08:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E08:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E08:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E08:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E08:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E08:compact_original_summary",
+      "passed": true,
+      "details": 71
+    },
+    {
+      "check": "E09:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E09:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E09:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E09:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E09:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E09:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E09:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E09:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E09:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E09:compact_original_summary",
+      "passed": true,
+      "details": 66
+    },
+    {
+      "check": "E13:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E13:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E13:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E13:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E13:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E13:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E13:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E13:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E13:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E13:compact_original_summary",
+      "passed": true,
+      "details": 65
+    },
+    {
+      "check": "E16:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E16:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E16:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E16:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E16:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E16:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E16:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E16:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E16:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E16:compact_original_summary",
+      "passed": true,
+      "details": 63
+    },
+    {
+      "check": "E03:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E03:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E03:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E03:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E03:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E03:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E03:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E03:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E03:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E03:compact_original_summary",
+      "passed": true,
+      "details": 77
+    },
+    {
+      "check": "E05:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E05:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E05:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E05:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E05:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E05:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E05:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E05:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E05:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E05:compact_original_summary",
+      "passed": true,
+      "details": 96
+    },
+    {
+      "check": "E02:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E02:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E02:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E02:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E02:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E02:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E02:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E02:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E02:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E02:compact_original_summary",
+      "passed": true,
+      "details": 72
+    },
+    {
+      "check": "E19:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E19:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E19:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E19:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E19:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E19:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E19:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E19:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E19:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E19:compact_original_summary",
+      "passed": true,
+      "details": 75
+    },
+    {
+      "check": "E04:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E04:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E04:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E04:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E04:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E04:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E04:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E04:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E04:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E04:compact_original_summary",
+      "passed": true,
+      "details": 64
+    },
+    {
+      "check": "E17:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E17:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E17:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E17:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E17:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E17:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E17:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E17:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E17:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E17:compact_original_summary",
+      "passed": true,
+      "details": 75
+    },
+    {
+      "check": "E18:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E18:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E18:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E18:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E18:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E18:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E18:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E18:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E18:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E18:compact_original_summary",
+      "passed": true,
+      "details": 76
+    },
+    {
+      "check": "E01:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E01:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E01:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E01:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E01:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E01:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E01:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E01:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E01:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E01:compact_original_summary",
+      "passed": true,
+      "details": 84
+    },
+    {
+      "check": "COOK01:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK01:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK01:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK01:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK01:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK01:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK01:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK01:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK01:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK01:compact_original_summary",
+      "passed": true,
+      "details": 80
+    },
+    {
+      "check": "COOK05:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK05:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK05:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK05:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK05:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK05:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK05:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK05:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK05:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK05:compact_original_summary",
+      "passed": true,
+      "details": 72
+    },
+    {
+      "check": "COOK06:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK06:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK06:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK06:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK06:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK06:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK06:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK06:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK06:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK06:compact_original_summary",
+      "passed": true,
+      "details": 83
+    },
+    {
+      "check": "COOK07:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK07:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK07:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK07:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK07:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK07:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK07:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK07:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK07:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK07:compact_original_summary",
+      "passed": true,
+      "details": 78
+    },
+    {
+      "check": "COOK16:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK16:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK16:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK16:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK16:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK16:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK16:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK16:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK16:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK16:compact_original_summary",
+      "passed": true,
+      "details": 75
+    },
+    {
+      "check": "COOK18:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK18:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK18:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK18:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK18:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK18:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK18:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK18:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK18:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK18:compact_original_summary",
+      "passed": true,
+      "details": 79
+    },
+    {
+      "check": "COOK02:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK02:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK02:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK02:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK02:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK02:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK02:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK02:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK02:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK02:compact_original_summary",
+      "passed": true,
+      "details": 72
+    },
+    {
+      "check": "COOK04:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK04:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK04:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK04:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK04:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK04:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK04:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK04:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK04:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK04:compact_original_summary",
+      "passed": true,
+      "details": 71
+    },
+    {
+      "check": "COOK11:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK11:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK11:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK11:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK11:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK11:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK11:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK11:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK11:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK11:compact_original_summary",
+      "passed": true,
+      "details": 70
+    },
+    {
+      "check": "COOK14:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK14:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK14:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK14:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK14:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK14:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK14:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK14:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK14:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK14:compact_original_summary",
+      "passed": true,
+      "details": 65
+    },
+    {
+      "check": "COOK19:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK19:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK19:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK19:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK19:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK19:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK19:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK19:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK19:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK19:compact_original_summary",
+      "passed": true,
+      "details": 100
+    },
+    {
+      "check": "COOK03:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK03:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK03:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK03:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK03:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK03:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK03:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK03:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK03:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK03:compact_original_summary",
+      "passed": true,
+      "details": 75
+    },
+    {
+      "check": "COOK12:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK12:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK12:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK12:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK12:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK12:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK12:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK12:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK12:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK12:compact_original_summary",
+      "passed": true,
+      "details": 69
+    },
+    {
+      "check": "COOK10:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK10:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK10:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK10:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK10:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK10:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK10:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK10:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK10:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK10:compact_original_summary",
+      "passed": true,
+      "details": 83
+    },
+    {
+      "check": "COOK09:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK09:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK09:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK09:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK09:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK09:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK09:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK09:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK09:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK09:compact_original_summary",
+      "passed": true,
+      "details": 73
+    },
+    {
+      "check": "COOK08:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK08:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK08:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK08:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK08:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK08:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK08:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK08:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK08:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK08:compact_original_summary",
+      "passed": true,
+      "details": 68
+    },
+    {
+      "check": "COOK17:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK17:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK17:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK17:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK17:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK17:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK17:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK17:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK17:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK17:compact_original_summary",
+      "passed": true,
+      "details": 68
+    },
+    {
+      "check": "COOK13:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK13:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK13:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK13:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK13:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK13:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK13:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK13:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK13:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK13:compact_original_summary",
+      "passed": true,
+      "details": 76
+    },
+    {
+      "check": "COOK15:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK15:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK15:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK15:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK15:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK15:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK15:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK15:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK15:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "COOK15:compact_original_summary",
+      "passed": true,
+      "details": 70
+    },
+    {
+      "check": "TF015:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF015:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF015:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF015:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF015:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF015:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF015:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF015:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF015:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF015:compact_original_summary",
+      "passed": true,
+      "details": 78
+    },
+    {
+      "check": "TF016:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF016:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF016:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF016:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF016:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF016:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF016:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF016:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF016:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF016:compact_original_summary",
+      "passed": true,
+      "details": 87
+    },
+    {
+      "check": "TF013:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF013:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF013:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF013:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF013:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF013:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF013:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF013:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF013:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF013:compact_original_summary",
+      "passed": true,
+      "details": 87
+    },
+    {
+      "check": "TF014:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF014:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF014:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF014:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF014:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF014:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF014:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF014:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF014:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF014:compact_original_summary",
+      "passed": true,
+      "details": 91
+    },
+    {
+      "check": "TF012:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF012:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF012:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF012:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF012:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF012:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF012:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF012:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF012:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF012:compact_original_summary",
+      "passed": true,
+      "details": 83
+    },
+    {
+      "check": "TF018:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF018:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF018:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF018:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF018:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF018:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF018:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF018:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF018:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF018:compact_original_summary",
+      "passed": true,
+      "details": 108
+    },
+    {
+      "check": "TF010:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF010:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF010:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF010:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF010:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF010:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF010:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF010:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF010:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF010:compact_original_summary",
+      "passed": true,
+      "details": 68
+    },
+    {
+      "check": "TF011:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF011:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF011:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF011:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF011:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF011:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF011:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF011:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF011:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF011:compact_original_summary",
+      "passed": true,
+      "details": 82
+    },
+    {
+      "check": "TF017:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF017:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF017:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF017:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF017:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF017:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF017:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF017:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF017:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF017:compact_original_summary",
+      "passed": true,
+      "details": 71
+    },
+    {
+      "check": "TF008:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF008:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF008:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF008:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF008:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF008:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF008:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF008:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF008:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF008:compact_original_summary",
+      "passed": true,
+      "details": 96
+    },
+    {
+      "check": "TF009:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF009:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF009:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF009:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF009:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF009:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF009:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF009:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF009:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF009:compact_original_summary",
+      "passed": true,
+      "details": 87
+    },
+    {
+      "check": "TF006:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF006:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF006:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF006:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF006:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF006:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF006:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF006:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF006:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF006:compact_original_summary",
+      "passed": true,
+      "details": 89
+    },
+    {
+      "check": "TF007:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF007:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF007:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF007:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF007:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF007:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF007:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF007:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF007:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF007:compact_original_summary",
+      "passed": true,
+      "details": 87
+    },
+    {
+      "check": "TF005:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF005:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF005:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF005:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF005:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF005:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF005:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF005:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF005:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF005:compact_original_summary",
+      "passed": true,
+      "details": 84
+    },
+    {
+      "check": "TF004:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF004:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF004:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF004:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF004:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF004:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF004:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF004:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF004:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF004:compact_original_summary",
+      "passed": true,
+      "details": 87
+    },
+    {
+      "check": "TF002:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF002:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF002:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF002:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF002:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF002:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF002:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF002:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF002:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF002:compact_original_summary",
+      "passed": true,
+      "details": 77
+    },
+    {
+      "check": "TF001:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF001:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF001:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF001:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF001:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF001:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF001:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF001:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF001:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "TF001:compact_original_summary",
+      "passed": true,
+      "details": 81
+    },
+    {
+      "check": "PU11:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU11:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU11:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU11:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU11:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU11:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU11:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU11:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU11:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU11:compact_original_summary",
+      "passed": true,
+      "details": 83
+    },
+    {
+      "check": "PU16:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU16:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU16:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU16:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU16:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU16:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU16:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU16:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU16:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU16:compact_original_summary",
+      "passed": true,
+      "details": 76
+    },
+    {
+      "check": "PU17:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU17:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU17:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU17:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU17:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU17:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU17:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU17:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU17:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU17:compact_original_summary",
+      "passed": true,
+      "details": 68
+    },
+    {
+      "check": "PU07:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU07:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU07:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU07:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU07:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU07:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU07:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU07:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU07:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU07:compact_original_summary",
+      "passed": true,
+      "details": 81
+    },
+    {
+      "check": "PU08:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU08:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU08:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU08:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU08:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU08:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU08:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU08:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU08:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU08:compact_original_summary",
+      "passed": true,
+      "details": 76
+    },
+    {
+      "check": "PU09:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU09:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU09:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU09:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU09:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU09:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU09:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU09:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU09:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU09:compact_original_summary",
+      "passed": true,
+      "details": 64
+    },
+    {
+      "check": "PU10:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU10:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU10:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU10:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU10:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU10:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU10:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU10:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU10:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU10:compact_original_summary",
+      "passed": true,
+      "details": 68
+    },
+    {
+      "check": "PU12:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU12:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU12:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU12:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU12:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU12:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU12:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU12:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU12:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU12:compact_original_summary",
+      "passed": true,
+      "details": 78
+    },
+    {
+      "check": "PU18:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU18:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU18:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU18:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU18:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU18:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU18:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU18:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU18:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU18:compact_original_summary",
+      "passed": true,
+      "details": 88
+    },
+    {
+      "check": "PU02:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU02:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU02:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU02:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU02:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU02:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU02:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU02:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU02:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU02:compact_original_summary",
+      "passed": true,
+      "details": 74
+    },
+    {
+      "check": "PU03:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU03:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU03:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU03:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU03:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU03:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU03:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU03:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU03:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU03:compact_original_summary",
+      "passed": true,
+      "details": 67
+    },
+    {
+      "check": "PU04:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU04:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU04:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU04:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU04:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU04:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU04:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU04:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU04:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU04:compact_original_summary",
+      "passed": true,
+      "details": 71
+    },
+    {
+      "check": "PU06:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU06:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU06:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU06:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU06:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU06:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU06:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU06:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU06:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU06:compact_original_summary",
+      "passed": true,
+      "details": 67
+    },
+    {
+      "check": "E14:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E14:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E14:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E14:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E14:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E14:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E14:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E14:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E14:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "E14:compact_original_summary",
+      "passed": true,
+      "details": 74
+    },
+    {
+      "check": "PU01:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU01:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU01:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU01:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU01:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU01:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU01:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU01:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU01:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU01:compact_original_summary",
+      "passed": true,
+      "details": 77
+    },
+    {
+      "check": "PU05:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU05:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU05:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU05:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU05:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU05:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU05:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU05:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU05:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU05:compact_original_summary",
+      "passed": true,
+      "details": 69
+    },
+    {
+      "check": "PU13:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU13:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU13:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU13:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU13:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU13:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU13:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU13:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU13:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU13:compact_original_summary",
+      "passed": true,
+      "details": 73
+    },
+    {
+      "check": "PU14:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU14:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU14:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU14:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU14:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU14:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU14:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU14:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU14:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU14:compact_original_summary",
+      "passed": true,
+      "details": 69
+    },
+    {
+      "check": "PU15:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU15:theme",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU15:inspection_depth",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU15:authors_and_tags",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU15:publication_year",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU15:retrieval_date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU15:primary_url",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU15:locator_and_queries",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU15:doi_format",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "PU15:compact_original_summary",
+      "passed": true,
+      "details": 70
+    },
+    {
+      "check": "csv_roundtrip_ids",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "bibtex_one_entry_per_record",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "bibtex_balanced_braces",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "internal_markdown_file_links",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "no_full_documents_or_private_caches",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "no_unicode_replacement_characters",
+      "passed": true,
+      "details": []
+    },
+    {
+      "check": "retrieved_doi_titles_match",
+      "passed": true,
+      "details": [
+        {
+          "id": "E12",
+          "similarity": 1.0
+        },
+        {
+          "id": "E15",
+          "similarity": 1.0
+        },
+        {
+          "id": "E10",
+          "similarity": 1.0
+        },
+        {
+          "id": "E11",
+          "similarity": 1.0
+        },
+        {
+          "id": "E06",
+          "similarity": 1.0
+        },
+        {
+          "id": "E07",
+          "similarity": 1.0
+        },
+        {
+          "id": "E08",
+          "similarity": 1.0
+        },
+        {
+          "id": "E09",
+          "similarity": 1.0
+        },
+        {
+          "id": "E13",
+          "similarity": 1.0
+        },
+        {
+          "id": "E16",
+          "similarity": 1.0
+        },
+        {
+          "id": "E03",
+          "similarity": 1.0
+        },
+        {
+          "id": "E05",
+          "similarity": 1.0
+        },
+        {
+          "id": "E02",
+          "similarity": 1.0
+        },
+        {
+          "id": "E19",
+          "similarity": 1.0
+        },
+        {
+          "id": "E04",
+          "similarity": 1.0
+        },
+        {
+          "id": "E18",
+          "similarity": 1.0
+        },
+        {
+          "id": "E01",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK01",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK05",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK06",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK07",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK18",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK02",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK04",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK11",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK19",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK03",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK12",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK10",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK09",
+          "similarity": 1.0
+        },
+        {
+          "id": "COOK08",
+          "similarity": 1.0
+        },
+        {
+          "id": "TF015",
+          "similarity": 1.0
+        },
+        {
+          "id": "TF018",
+          "similarity": 1.0
+        },
+        {
+          "id": "TF010",
+          "similarity": 1.0
+        },
+        {
+          "id": "PU11",
+          "similarity": 1.0
+        },
+        {
+          "id": "PU16",
+          "similarity": 1.0
+        },
+        {
+          "id": "PU17",
+          "similarity": 1.0
+        },
+        {
+          "id": "PU12",
+          "similarity": 1.0
+        },
+        {
+          "id": "PU18",
+          "similarity": 1.0
+        },
+        {
+          "id": "PU02",
+          "similarity": 1.0
+        },
+        {
+          "id": "PU03",
+          "similarity": 1.0
+        },
+        {
+          "id": "E14",
+          "similarity": 1.0
+        }
+      ]
+    },
+    {
+      "check": "independent_arithmetic_checks",
+      "passed": true,
+      "details": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "requested_doi": "10.30501/jree.2021.245232.1140",
+  "source_url": "https://api.crossref.org/works/10.30501%2Fjree.2021.245232.1140",
+  "retrieved_at_utc": "2026-09-28T18:25:51.300601+00:00",
+  "status": "error",
+  "error": "HTTP Error 404: Not Found",
+  "previous_attempts": [
+    {
+      "requested_doi": "10.30501/jree.2021.245232.1140",
+      "source_url": "https://api.crossref.org/works/10.30501%2Fjree.2021.245232.1140",
+      "retrieved_at_utc": "2026-09-28T18:10:33.371424+00:00",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

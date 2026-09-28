@@ -1,0 +1,46 @@
+# Somalia transport, fuels and energy governance literature
+
+Review date: 28 September 2026. This contribution contains 17 publications and linked evidence records. **The clearest research need is better measured transport activity and fuel allocation, followed by evaluation of practical electrification options. A claim to create Somalia's first national energy model would require substantial qualification.** These are review judgments, not findings of a new model.
+
+## What the literature establishes
+
+National energy modelling already predates recent journal papers. Somalia's September 2022 First Biennial Update Report uses LEAP and includes transport, electricity, cooking and industrial mitigation. Its transport component is explicitly top-down because detailed vehicle mileage and fuel-economy data were inadequate. Publication year must remain separate from its April 2023 UNFCCC submission. This directly requires checking any later claim of first national LEAP application against the earlier report, rather than assuming a journal publication was the first application. [TF008, pp.105, 134–135](https://unfccc.int/sites/default/files/resource/Somalia%20First%20BUR%20report%202022.pdf)
+
+There is also an existing transport starter kit. Tan and colleagues explicitly list Somalia in Table 5, with a [country dataset DOI](https://doi.org/10.5281/zenodo.7998431). However, the article documents gaps and regional proxy assumptions; African energy intensity and load-factor values are transferred from South African work. The Somalia workbook has not been inspected in this review. Its existence is verified; numerical completeness and suitability are not. [TF018, methods, limitations and Table 5](https://pmc.ncbi.nlm.nih.gov/articles/PMC11533014/)
+
+The World Bank's environmental assessment projects transport emissions using assumed fleet growth and borrowed vehicle factors. Its values for 2025 are forecasts, not observations made in 2025. Earlier national reporting is unusually helpful about petroleum uncertainty and subnational proxies. These sources are leads for reconstructing assumptions, rather than independent confirmations of a single national fuel balance. [TF007, pp94–95](https://documents1.worldbank.org/curated/en/742491594100313982/pdf/Somalia-Country-Environmental-Analysis-Diagnostic-Study-on-Trends-and-Threats-for-Environmental-and-Natural-Resources-Challenges.pdf), [TF005, pp108–119](https://moecc.gov.so/wp-content/uploads/2023/07/Naioanla-Communication.pdf)
+
+Electric mobility is present as a policy option. IRENA recommends considering renewable-charged captive fleets and pilots in the context of expensive vehicles and diesel-based electricity. That is a proposed intervention, not evidence of measured fleet savings or an operating national charging network. No independently verified local EV performance evaluation was included in this bounded search; this does not establish that none exists. [TF013, p22](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Jun/IRENA_COU_Energy_transition_assessment_Somalia_2025.pdf)
+
+Mobility studies add distributional issues that fuel balances miss. The multi-city RVI study addresses unequal access, displacement and gender; Somali Public Agenda records Mogadishu stakeholder concerns about security closures, traffic management and bus services. Neither supplies a representative national travel survey. The Mogadishu reconstruction journal article was inspected at abstract level only and is not used for numerical findings. [TF009, pp53–61](https://riftvalley.net/wp-content/uploads/2022/06/rvi-commodified-cities-report-2022-en.pdf), [TF011](https://somalipublicagenda.org/urban-mobility-complexities-in-mogadishu/), [TF010](https://doi.org/10.1016/j.pce.2022.103307)
+
+Governance evidence varies considerably. Gundel draws on 39 interviews in 2020, whereas Ahali and Ackah explicitly rely on secondary material; the recent Somalia–Türkiye analysis is also documentary. They support examining institutional bargaining and anticipated petroleum rents, but do not verify commercially recoverable reserves or demonstrate the effects of future extraction. The CPSD treats electricity, logistics, finance and institutional capacity as connected constraints. Its publication date is June 2024 despite the later repository URL. [TF006](https://eprints.lse.ac.uk/107126/1/CRP_oil_and_gas_in_political_marketplace_somalia.pdf), [TF002](https://www.econjournals.com/index.php/ijeep/article/download/702/586), [TF015](https://doi.org/10.3389/fpos.2026.1684383), [TF012](https://documents1.worldbank.org/curated/en/099720301202532976/pdf/IDU-a882335a-7fcf-4024-a3ee-c0bd1c806169.pdf)
+
+## Evidence quality and checks that change interpretation
+
+| Item | Verification result | Consequence |
+|---|---|---|
+| TF008, First BUR | Report predates newer modelling papers and names LEAP | Review novelty claims against grey literature as well as journals. |
+| TF007, environmental assessment | Vehicle coefficients and growth are assumptions | Do not label projected emissions as measured Somali fleet performance. |
+| TF018, starter kit | Somalia inclusion verified; spreadsheet contents not checked | Inspect observation-status codes and units before using values. |
+| TF016, Logistics Cluster meeting | PDF price table has an arithmetic inconsistency: identical old/new prices yield different printed percentage increases | The jet-fuel percentage is not suitable for quantitative use without correction. |
+| TF014, September 2025 NDC | Registry and official partner synopsis inspected; updated PDF inaccessible | Use only verified declared scope/target; sector calculations remain unaudited. |
+| TF017, Electricity Act | Ministry announcement confirms signing; legal text not inspected | Announcement is not a legal implementation or enforcement audit. |
+
+The fuel-table error was checked visually on page 4 of the [17 March 2026 Logistics Cluster meeting record](https://logcluster.org/sites/default/files/public/2026-03/logistics-clustersomaliamogadishumeeting-minutes-18-03-2026.pdf). The NDC record distinguishes the September update from the earlier June version through the [UNFCCC registry](https://unfccc.int/NDCREG) and [official partner country synopsis](https://ndcpartnership.org/country/som). The Electricity Act entry uses the [ministry announcement](https://moewr.gov.so/ova_doc/somalia-electricity-act/).
+
+An apparent difference between the inaccessible AfDB 2015 assessment and IRENA's later characterization of petroleum use remains a **verification lead**, not a reconciled contradiction. End-use definitions, imported-product coverage, geography and years may differ. Search snippets cannot settle the issue. AfDB's 2016 transport assessment is included only at the level verified in the [Somalia Investment Promotion Office synopsis](https://sominvest.gov.so/key-sectors/transport-infrastructure/) (TF004). The 1985 UNDP/World Bank assessment is useful historical context, not a present-day parameter set. [TF001](https://documents1.worldbank.org/curated/en/480841468760532581/pdf/multi-page.pdf)
+
+## Data leads and research priorities
+
+The following are reviewer recommendations based on the gaps above:
+
+1. Audit the Somalia transport workbook and trace every non-empty observation to its source, year, geography, unit and status. Compare it with the BUR transport inputs before commissioning duplicate collection.
+2. Assemble a reconciled fuel account distinguishing imports, stocks, re-exports, electricity generation, road transport, aviation, shipping, industry and household use. Keep Somaliland, Puntland and national reporting boundaries explicit.
+3. Prioritize measured vehicle stock, annual kilometres, occupancy, freight tonne-kilometres, fuel economy and route restrictions. Include three-wheelers, buses, trucks and rural activity; quantify uncertainty rather than inserting Kenya coefficients as observations.
+4. Evaluate electric three-wheelers or captive fleets using measured charging demand, grid/diesel emissions, reliability, battery replacement, financing and driver income. Compare renewable charging and efficiency or public-transport improvements.
+5. Link fuel shocks to food distribution, water trucking and productive uses, with price dates and sample coverage retained. Separate operational reports from nationally representative statistics.
+
+## Search method and limits
+
+Dedicated searches covered transport fuels/emissions, EVs, Somaliland mobility, petroleum politics, logistics and climate policy, followed by backward and forward citation tracing. The companion search log records actual query strings, primary-source inspection, exclusions and failed access. This is a critical scoping contribution, not a comprehensive systematic review or a completed dataset audit. No absence claim is based solely on unsuccessful searching. Three records use official summaries and one uses an institutional abstract; the remaining records inspect full text or selected full-text sections. Relevant PDFs stayed in the temporary cache and are not redistributed with this contribution.

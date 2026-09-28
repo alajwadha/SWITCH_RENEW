@@ -1,0 +1,196 @@
+{
+  "requested_doi": "10.1007/s10098-024-02741-1",
+  "source_url": "https://api.crossref.org/works/10.1007%2Fs10098-024-02741-1",
+  "retrieved_at_utc": "2026-09-28T18:10:16.921362+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1007/s10098-024-02741-1",
+    "title": [
+      "Economics, environmental foot print and sustainability of community scale solar desalination plant in water scarce Somalia coastal regions"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4039-2219",
+        "authenticated-orcid": false,
+        "given": "Sharon",
+        "family": "Hilarydoss",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kavalla",
+        "family": "Nishant",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Subrat Kumar",
+        "family": "Nahak",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Springer Science and Business Media LLC",
+    "container-title": [
+      "Clean Technologies and Environmental Policy"
+    ],
+    "volume": "26",
+    "issue": "9",
+    "page": "2819-2847",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          20
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          20
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          9
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          20
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2024-02-20T08:02:26Z",
+      "timestamp": 1708416146000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              20
+            ]
+          ],
+          "date-time": "2024-02-20T00:00:00Z",
+          "timestamp": 1708387200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              20
+            ]
+          ],
+          "date-time": "2024-02-20T00:00:00Z",
+          "timestamp": 1708387200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10098-024-02741-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10098-024-02741-1/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10098-024-02741-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s10098-024-02741-1"
+      }
+    },
+    "URL": "https://doi.org/10.1007/s10098-024-02741-1",
+    "relation": {
+      "correction": [
+        {
+          "id-type": "doi",
+          "id": "10.1007/s10098-024-02797-z",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "updated-by": [
+      {
+        "DOI": "10.1007/s10098-024-02797-z",
+        "type": "correction",
+        "label": "Correction",
+        "source": "publisher",
+        "updated": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              23
+            ]
+          ],
+          "date-time": "2024-03-23T00:00:00Z",
+          "timestamp": 1711152000000
+        }
+      }
+    ],
+    "is-referenced-by-count": 5
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

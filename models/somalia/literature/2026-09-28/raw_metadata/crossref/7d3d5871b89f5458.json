@@ -1,0 +1,146 @@
+{
+  "requested_doi": "10.1016/j.jaridenv.2011.05.003",
+  "source_url": "https://api.crossref.org/works/10.1016%2Fj.jaridenv.2011.05.003",
+  "retrieved_at_utc": "2026-09-28T18:10:24.538009+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1016/j.jaridenv.2011.05.003",
+    "title": [
+      "Assessment of charcoal driven deforestation rates in a fragile rangeland environment in North Eastern Somalia using very high resolution imagery"
+    ],
+    "author": [
+      {
+        "given": "S.M.",
+        "family": "Oduori",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Rembold",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "O.H.",
+        "family": "Abdulle",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Vargas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "container-title": [
+      "Journal of Arid Environments"
+    ],
+    "volume": "75",
+    "issue": "11",
+    "page": "1173-1181",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          11
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          11
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          11
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          6,
+          19
+        ]
+      ],
+      "date-time": "2011-06-19T07:58:55Z",
+      "timestamp": 1308470335000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2011-11-01T00:00:00Z",
+          "timestamp": 1320105600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0140196311001558?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0140196311001558?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0140196311001558"
+      }
+    },
+    "URL": "https://doi.org/10.1016/j.jaridenv.2011.05.003",
+    "relation": {},
+    "is-referenced-by-count": 36
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

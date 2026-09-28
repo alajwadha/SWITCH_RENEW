@@ -1,0 +1,128 @@
+{
+  "requested_doi": "10.5772/intechopen.99365",
+  "source_url": "https://api.crossref.org/works/10.5772%2Fintechopen.99365",
+  "retrieved_at_utc": "2026-09-28T18:10:38.316162+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.5772/intechopen.99365",
+    "title": [
+      "Remote Sensing Based Quantification of Forest Cover Change in Somalia for the Period 2000 to 2019"
+    ],
+    "author": [
+      {
+        "given": "Sylus",
+        "family": "Kipngeno Musei",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Justine",
+        "family": "Muhoro Nyaga",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Abdi",
+        "family": "Zeila Dubow",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "publisher": "IntechOpen",
+    "container-title": [
+      "Deserts and Desertification"
+    ],
+    "type": "book-chapter",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          16
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          16
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          2,
+          16
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          22
+        ]
+      ],
+      "date-time": "2021-10-22T13:29:07Z",
+      "timestamp": 1634909347000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2022,
+              2,
+              16
+            ]
+          ],
+          "date-time": "2022-02-16T00:00:00Z",
+          "timestamp": 1644969600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/3.0/legalcode"
+      }
+    ],
+    "link": [
+      {
+        "URL": "http://www.intechopen.com/download/pdf/77788",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.intechopen.com/chapters/77788"
+      }
+    },
+    "URL": "https://doi.org/10.5772/intechopen.99365",
+    "relation": {},
+    "is-referenced-by-count": 0
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

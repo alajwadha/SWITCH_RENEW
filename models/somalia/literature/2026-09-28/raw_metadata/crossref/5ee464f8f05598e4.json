@@ -1,0 +1,147 @@
+{
+  "requested_doi": "10.1038/s41598-026-57469-3",
+  "source_url": "https://api.crossref.org/works/10.1038%2Fs41598-026-57469-3",
+  "retrieved_at_utc": "2026-09-28T18:10:26.684548+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1038/s41598-026-57469-3",
+    "title": [
+      "Environmental sustainability in Somalia: the role of clean cooking energy and remittances on ecological footprints"
+    ],
+    "author": [
+      {
+        "given": "Hassan Abdikadir",
+        "family": "Hussein",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abdimalik Ali",
+        "family": "Warsame",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Springer Science and Business Media LLC",
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "volume": "16",
+    "issue": "1",
+    "article-number": "25489",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          20
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          20
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          20
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          6,
+          20
+        ]
+      ],
+      "date-time": "2026-06-20T11:17:06Z",
+      "timestamp": 1781954226000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              20
+            ]
+          ],
+          "date-time": "2026-06-20T00:00:00Z",
+          "timestamp": 1781913600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              14
+            ]
+          ],
+          "date-time": "2026-08-14T00:00:00Z",
+          "timestamp": 1786665600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 55,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41598-026-57469-3",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-026-57469-3.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-026-57469-3.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41598-026-57469-3"
+      }
+    },
+    "URL": "https://doi.org/10.1038/s41598-026-57469-3",
+    "relation": {},
+    "is-referenced-by-count": 0
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

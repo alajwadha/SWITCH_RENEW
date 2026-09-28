@@ -1,0 +1,147 @@
+{
+  "requested_doi": "10.1016/j.esd.2014.12.008",
+  "source_url": "https://api.crossref.org/works/10.1016%2Fj.esd.2014.12.008",
+  "retrieved_at_utc": "2026-09-28T18:10:21.892920+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1016/j.esd.2014.12.008",
+    "title": [
+      "Rapid mapping and impact estimation of illegal charcoal production in southern Somalia based on WorldView-1 imagery"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6413-9026",
+        "authenticated-orcid": false,
+        "given": "M.",
+        "family": "Bolognesi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Vrieling",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Rembold",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "H.",
+        "family": "Gadain",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "container-title": [
+      "Energy for Sustainable Development"
+    ],
+    "volume": "25",
+    "page": "40-49",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2015-01-17T17:30:26Z",
+      "timestamp": 1421515826000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2015-04-01T00:00:00Z",
+          "timestamp": 1427846400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0973082614001318?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0973082614001318?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0973082614001318"
+      }
+    },
+    "URL": "https://doi.org/10.1016/j.esd.2014.12.008",
+    "relation": {},
+    "is-referenced-by-count": 39
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

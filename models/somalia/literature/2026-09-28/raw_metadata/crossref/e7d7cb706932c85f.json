@@ -1,0 +1,170 @@
+{
+  "requested_doi": "10.3390/en16186489",
+  "source_url": "https://api.crossref.org/works/10.3390%2Fen16186489",
+  "retrieved_at_utc": "2026-09-28T17:52:08.911566+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.3390/en16186489",
+    "title": [
+      "Comparison of Least-Cost Pathways towards Universal Electricity Access in Somalia over Different Timelines"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1565-2752",
+        "authenticated-orcid": false,
+        "given": "Andreas",
+        "family": "Sahlberg",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Energy Systems, Department of Energy Technology, KTH Royal Institute of Technology, 10044 Stockholm, Sweden"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0538-7887",
+        "authenticated-orcid": false,
+        "given": "Babak",
+        "family": "Khavari",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Energy Systems, Department of Energy Technology, KTH Royal Institute of Technology, 10044 Stockholm, Sweden"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-3569-5865",
+        "authenticated-orcid": false,
+        "given": "Ismail",
+        "family": "Mohamed",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Project Implementation Unit, Ministry of Energy and Water Resources, Mogadishu, Somalia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4770-4051",
+        "authenticated-orcid": false,
+        "given": "Francesco",
+        "family": "Fuso Nerini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Energy Systems, Department of Energy Technology, KTH Royal Institute of Technology, 10044 Stockholm, Sweden"
+          },
+          {
+            "name": "KTH Climate Action Centre, KTH Royal Institute of Technology, 10044 Stockholm, Sweden"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "MDPI AG",
+    "container-title": [
+      "Energies"
+    ],
+    "volume": "16",
+    "issue": "18",
+    "page": "6489",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          8
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          8
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          8
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          8
+        ]
+      ],
+      "date-time": "2023-09-08T08:01:30Z",
+      "timestamp": 1694160090000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              8
+            ]
+          ],
+          "date-time": "2023-09-08T00:00:00Z",
+          "timestamp": 1694131200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/1996-1073/16/18/6489/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/1996-1073/16/18/6489"
+      }
+    },
+    "URL": "https://doi.org/10.3390/en16186489",
+    "relation": {},
+    "is-referenced-by-count": 8
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

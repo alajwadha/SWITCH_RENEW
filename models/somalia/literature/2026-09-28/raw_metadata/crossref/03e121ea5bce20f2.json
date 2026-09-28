@@ -1,0 +1,142 @@
+{
+  "requested_doi": "10.1016/j.esd.2024.101514",
+  "source_url": "https://api.crossref.org/works/10.1016%2Fj.esd.2024.101514",
+  "retrieved_at_utc": "2026-09-28T17:52:08.656828+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1016/j.esd.2024.101514",
+    "title": [
+      "Wind energy potential and large-scale turbine performance analysis for Mogadishu – Somalia"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6036-7408",
+        "authenticated-orcid": false,
+        "given": "Bahtiyar",
+        "family": "Dursun",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8639-8408",
+        "authenticated-orcid": false,
+        "given": "Ercan",
+        "family": "Aykut",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "Elsevier BV",
+    "container-title": [
+      "Energy for Sustainable Development"
+    ],
+    "volume": "81",
+    "page": "101514",
+    "article-number": "101514",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          8
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          9
+        ]
+      ],
+      "date-time": "2024-07-09T02:51:40Z",
+      "timestamp": 1720493500000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2024-08-01T00:00:00Z",
+          "timestamp": 1722470400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              8,
+              1
+            ]
+          ],
+          "date-time": "2024-08-01T00:00:00Z",
+          "timestamp": 1722470400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0973082624001406?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0973082624001406?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0973082624001406"
+      }
+    },
+    "URL": "https://doi.org/10.1016/j.esd.2024.101514",
+    "relation": {},
+    "is-referenced-by-count": 2
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

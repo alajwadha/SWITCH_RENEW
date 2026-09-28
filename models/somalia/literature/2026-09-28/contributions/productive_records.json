@@ -1,0 +1,714 @@
+[
+  {
+    "id": "PU01",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "health",
+      "hybrid_systems",
+      "load_data"
+    ],
+    "title": "Assessment of Optimum Renewable Energy System for the Somalia–Turkish Training and Research Hospital in Mogadishu",
+    "authors": [
+      "Sibel Dursun",
+      "Ercan Aykut",
+      "Bahtiyar Dursun"
+    ],
+    "year": 2021,
+    "publication_type": "journal article",
+    "venue_or_publisher": "Journal of Renewable Energy and Environment 8(3), 54–67",
+    "doi": "10.30501/jree.2021.245232.1140",
+    "primary_url": "https://www.jree.ir/article_130748.html",
+    "full_text_url": "https://acikerisim.gelisim.edu.tr/server/api/core/bitstreams/87c19563-85cd-4b1d-a3d9-ba18eb9ec33e/content",
+    "geographic_scope": "One hospital, Mogadishu",
+    "data_period": "Hospital load: 2017–2018; wind reference: 2015–2017; cost vintage unclear.",
+    "method": "HOMER hybrid-system optimization using a historical hospital load profile.",
+    "data_sources": "Technical-department load measurements; NASA weather inputs and synthesized hourly solar resource.",
+    "key_findings": "The model selects a wind/diesel/battery configuration at a simulated USD 0.191/kWh.",
+    "limitations": "One site; raw series unavailable. Wind measurement wording conflicts with its NASA citation; Fig. 2 power/energy labels require care.",
+    "project_relevance": "Obtain and validate the hospital’s original hourly load series.",
+    "evidence_type": "techno-economic simulation with reported measured load",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Sections 2.2–2.3, Fig. 2 (printed p.56/PDF p.3), optimization and conclusion; institutional metadata also checked.",
+    "quality_appraisal": "Useful measured-load provenance; modeled optimum is not installed-system performance.",
+    "data_code_availability": "No downloadable raw load series or HOMER project identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P02",
+      "P04"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU02",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "water",
+      "desalination",
+      "solar",
+      "coastal"
+    ],
+    "title": "Economics, environmental foot print and sustainability of community scale solar desalination plant in water scarce Somalia coastal regions",
+    "authors": [
+      "Sharon Hilarydoss",
+      "Kavalla Nishant",
+      "Subrat Kumar Nahak"
+    ],
+    "year": 2024,
+    "publication_type": "journal article; correction exists",
+    "venue_or_publisher": "Clean Technologies and Environmental Policy 26, 2819–2847",
+    "doi": "10.1007/s10098-024-02741-1",
+    "primary_url": "https://link.springer.com/article/10.1007/s10098-024-02741-1",
+    "full_text_url": "",
+    "geographic_scope": "Twenty-three coastal Somali locations",
+    "data_period": "Input weather/cost years not verifiable from accessible abstract.",
+    "method": "Community desalination design and economic/environmental simulation.",
+    "data_sources": "Abstract describes local water and energy inputs; underlying datasets not inspected.",
+    "key_findings": "A modeled 3 m³/day plant yields location-dependent water costs of USD 8.66–9.48/m³.",
+    "limitations": "Paywalled methods. A published correction exists; its substantive text was inaccessible.",
+    "project_relevance": "Useful desalination design lead after checking corrected assumptions and brine constraints.",
+    "evidence_type": "techno-economic simulation",
+    "inspection_depth": "publisher_abstract",
+    "verification_locator": "Publisher abstract and metadata; correction https://link.springer.com/article/10.1007/s10098-024-02797-z (23 March 2024).",
+    "quality_appraisal": "Scenario evidence only; do not calibrate with abstract numbers before resolving the correction.",
+    "data_code_availability": "Publisher lists data available on request; no public model identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P02"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU03",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "agriculture",
+      "irrigation",
+      "solar_pumping"
+    ],
+    "title": "Analyzing the Economic Viability and Design of Solar-Powered Water Pumps for Farming Irrigation: Case Study Conducted in Somalia",
+    "authors": [
+      "Abdullahi Mohamed Isak",
+      "Ali Osman Özkan",
+      "Abdulaziz Ahmed Siyad"
+    ],
+    "year": 2024,
+    "publication_type": "conference chapter",
+    "venue_or_publisher": "Forthcoming Networks and Sustainability in the AIoT Era, LNNS 1036, 1–13",
+    "doi": "10.1007/978-3-031-62881-8_1",
+    "primary_url": "https://link.springer.com/chapter/10.1007/978-3-031-62881-8_1",
+    "full_text_url": "",
+    "geographic_scope": "Banana farm in southern Somalia; precise location absent from abstract",
+    "data_period": "Input and field dates not reported in accessible abstract.",
+    "method": "CROPWAT water-requirement calculations and PVSYST pumping simulations.",
+    "data_sources": "Crop needs and solar-system assumptions; original inputs not inspected.",
+    "key_findings": "For an 82 m³/day duty, modeled DC pumping costs less than AC and diesel alternatives.",
+    "limitations": "Head, cost-year, discounting and water-resource assumptions inaccessible; no measured operating comparison established.",
+    "project_relevance": "Pumping methods and comparator design; obtain complete assumptions before reuse.",
+    "evidence_type": "techno-economic simulation",
+    "inspection_depth": "publisher_abstract",
+    "verification_locator": "Publisher abstract, author list, publication date and reference list; online 26 June 2024.",
+    "quality_appraisal": "Conditional farm design, unsuitable as a national pumping-cost parameter.",
+    "data_code_availability": "No public CROPWAT/PVSYST files identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P01",
+      "P04"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU04",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "agriculture",
+      "irrigation",
+      "fisheries",
+      "cold_chain",
+      "finance"
+    ],
+    "title": "Feasibility Study on Solar PV Irrigation and Freezer Systems in Puntland, Somalia: Harnessing Sunshine, Powering Somalia",
+    "authors": [
+      "BAARIS"
+    ],
+    "year": 2024,
+    "publication_type": "consultancy feasibility report",
+    "venue_or_publisher": "BAARIS",
+    "doi": "",
+    "primary_url": "https://baaris.org/blog/the-consultants-guide-to-crafting-a-winning",
+    "full_text_url": "https://baaris.org/storage/media/CiwFfAlLZMRFzbwHlHhgYkzaLpaf1We19QvlhwwV.pdf",
+    "geographic_scope": "Bari, Mudug and Nugal, Puntland",
+    "data_period": "2024 survey; report December 2024, landing page April 2025.",
+    "method": "Farmer/fishmonger surveys, interviews and system-cost feasibility assessment.",
+    "data_sources": "Reported 500-farmer survey plus fish-sector interviews.",
+    "key_findings": "Identifies irrigation and freezing demand, financing constraints and proposed payment mechanisms.",
+    "limitations": "Farm areas change from m² to hectares between pp.27 and 30; Bari chart components do not sum to its total.",
+    "project_relevance": "Questionnaire/site leads; quarantine quantitative inputs pending original-data reconciliation.",
+    "evidence_type": "survey and techno-economic feasibility",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Methods p.8; survey pp.26–31; freezer discussion pp.63–65. PDF pp.28 and 31 visually checked.",
+    "quality_appraisal": "Direct local research, but substantial internal consistency problems prevent unqualified numerical reuse.",
+    "data_code_availability": "No respondent-level data or reproducible model located.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P01",
+      "P06"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU05",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "water",
+      "groundwater",
+      "solar_pumping",
+      "climate"
+    ],
+    "title": "Technical Report: Somalia: Groundwater Assessment",
+    "authors": [
+      "Albert Tuinhof",
+      "Jacobus Groen"
+    ],
+    "year": 2021,
+    "publication_type": "technical report",
+    "venue_or_publisher": "World Bank",
+    "doi": "",
+    "primary_url": "https://documents1.worldbank.org/curated/en/099615012012129914/pdf/P1749940c70d5d09008a3203ad9eeb97d1a.pdf",
+    "full_text_url": "https://documents1.worldbank.org/curated/en/099615012012129914/pdf/P1749940c70d5d09008a3203ad9eeb97d1a.pdf",
+    "geographic_scope": "Somalia, with subnational aquifer and water-point distinctions",
+    "data_period": "SWALIM water-point information through 2020; historical studies and 2017–2019 cost references.",
+    "method": "Hydrogeological synthesis and illustrative water-supply cost comparisons.",
+    "data_sources": "SWALIM, earlier groundwater studies, and international pumping-cost references.",
+    "key_findings": "Aquifer depth, salinity and sustainable abstraction constrain solar pumping and desalination options.",
+    "limitations": "Illustrative solar/diesel costs partly originate outside Somalia; inventory coverage varies.",
+    "project_relevance": "Link energy-system sizing to water availability and treatment requirements.",
+    "evidence_type": "technical review with secondary geospatial data",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Title/credits, summary, solar/desalination discussion p.41 and Appendix 7, pp.78–80.",
+    "quality_appraisal": "Strong water-resource context; cost examples are not a representative Somali price survey.",
+    "data_code_availability": "SWALIM water-point inventory is a data lead; no analysis-ready extraction acquired.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P03"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU06",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "fisheries",
+      "cold_chain",
+      "gender",
+      "livelihoods"
+    ],
+    "title": "Women’s small-scale fisheries organizations in Jubaland State of Somalia",
+    "authors": [
+      "Stefania Valentini"
+    ],
+    "year": 2024,
+    "publication_type": "research report",
+    "venue_or_publisher": "GIZ, Bonn",
+    "doi": "",
+    "primary_url": "https://www.giz.de/en/downloads/giz2024-en-studie-somalia.pdf",
+    "full_text_url": "https://www.giz.de/en/downloads/giz2024-en-studie-somalia.pdf",
+    "geographic_scope": "Surveyed Jubaland fishing organizations; Jamame access restricted",
+    "data_period": "Main survey 21 December 2022–25 January 2023; follow-ups January/March 2023; publication March 2024.",
+    "method": "Purposive organizational survey and follow-up interviews.",
+    "data_sources": "Twenty-one groups and five individual vendors; stakeholder interviews.",
+    "key_findings": "Storage, transport and finance constrain women’s fish businesses; one cited ice facility had battery-related downtime.",
+    "limitations": "Security and organizational sampling limit coverage; no metered cold-chain energy data.",
+    "project_relevance": "Design gender-aware cold-chain demand and maintenance fieldwork.",
+    "evidence_type": "observed/survey and qualitative",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Methods pp.8–10; storage/market findings; p.31 footnote 7 on Alanley ice-machine operation.",
+    "quality_appraisal": "Valuable primary local evidence, not national prevalence or a current facility census.",
+    "data_code_availability": "Survey instrument described; public respondent microdata not identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P03",
+      "TRACE01"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU07",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "fisheries",
+      "cold_chain",
+      "fuel_costs",
+      "gender"
+    ],
+    "title": "Final Report: Conducting Fish Price Assessment (Baseline) in the Federal Republic of Somalia & Federal Member States",
+    "authors": [
+      "Africa Research and Data Limited"
+    ],
+    "year": 2025,
+    "publication_type": "commissioned baseline report",
+    "venue_or_publisher": "Ministry of Fisheries and Blue Economy, Federal Republic of Somalia",
+    "doi": "",
+    "primary_url": "https://www.mfbe.gov.so/assets/documents/Fish%20Price%20Assessment%20Study%20%28Baseline%29%20Report.pdf",
+    "full_text_url": "https://www.mfbe.gov.so/assets/documents/Fish%20Price%20Assessment%20Study%20%28Baseline%29%20Report.pdf",
+    "geographic_scope": "Banadir, Puntland, Galmudug, South West, Jubaland and Hirshabelle",
+    "data_period": "Fieldwork July–August 2025; final report 15 September 2025.",
+    "method": "Questionnaires, key-informant interviews and focus groups.",
+    "data_sources": "673 respondents across six regional strata; fish prices, costs and market conditions.",
+    "key_findings": "Documents cold-chain constraints and recommends solar ice/cold-storage investment.",
+    "limitations": "Seasonal baseline, not impact evaluation. Female participation prose conflicts with Table 4 for Hirshabelle.",
+    "project_relevance": "Useful value-chain questionnaire and cost variables; reconcile tables before quantitative reuse.",
+    "evidence_type": "observed/survey and project/report evidence",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Methods pp.11–14; Table 4 (p.13/PDF p.18, visually checked); Table 8; recommendations pp.52–53.",
+    "quality_appraisal": "Primary government-hosted baseline with material internal inconsistency; recommendations do not prove energy-investment returns.",
+    "data_code_availability": "Questionnaire annex available; microdata not linked. Public URL bears an Official Use Only marking; PDF not redistributed.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P03"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU08",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "health",
+      "humanitarian",
+      "solar",
+      "public_services"
+    ],
+    "title": "Environmental and Financial Impacts of Electrification of Healthcare Facilities in Selected Humanitarian Settings",
+    "authors": [
+      "Shahaab Javeri",
+      "Katherine Patterson"
+    ],
+    "year": 2025,
+    "publication_type": "institutional analytical brief",
+    "venue_or_publisher": "Global Platform for Action Coordination Unit / UNITAR, with NORCAP and WHO-hosted HEPA",
+    "doi": "",
+    "primary_url": "https://www.humanitarianenergy.org/assets/resources/HHE-brief-2025.pdf",
+    "full_text_url": "https://www.humanitarianenergy.org/assets/resources/HHE-brief-2025.pdf",
+    "geographic_scope": "Multi-country brief with a Somalia case covering 49 healthcare facilities",
+    "data_period": "September 2025 publication; Somalia assessment dates not specified.",
+    "method": "Needs-assessment synthesis and standardized solar/diesel cost scenarios.",
+    "data_sources": "WHO facility assessments; standard health-service profiles; supplier and installation cost experience.",
+    "key_findings": "Identifies Somali facilities requiring electrification or rehabilitation and budgets solar provision.",
+    "limitations": "Standardized 18.4 kWh/day PHC profile is not metered site demand; multi-country headcount totals are internally inconsistent.",
+    "project_relevance": "Locate the original 49 assessments and distinguish essential services from assumed loads.",
+    "evidence_type": "planning and techno-economic simulation",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Somalia case p.2; Table 1 p.3 (PDF p.4, visually checked); assumptions and cost appendices.",
+    "quality_appraisal": "Useful facility-assessment lead; aggregate totals and transferred costs need reconciliation.",
+    "data_code_availability": "No public site-level hourly profiles or cost workbook identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P02"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU09",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "education",
+      "public_services",
+      "solar",
+      "safeguards"
+    ],
+    "title": "Environmental and Social Management Plan (ESMP) for the Education Facilities in Northeastern State of Somalia",
+    "authors": [
+      "Federal Republic of Somalia, Ministry of Energy and Water Resources, SESRP Project Implementation Unit"
+    ],
+    "year": 2025,
+    "publication_type": "project safeguard and planning report",
+    "venue_or_publisher": "Ministry of Energy and Water Resources",
+    "doi": "",
+    "primary_url": "https://moewr.gov.so/wp-content/uploads/ESMP-REPORT-Education-Facilities-Northeastern-State-of-Somalia.pdf",
+    "full_text_url": "https://moewr.gov.so/wp-content/uploads/ESMP-REPORT-Education-Facilities-Northeastern-State-of-Somalia.pdf",
+    "geographic_scope": "Named education facilities in Northeastern State, using the report’s administrative label",
+    "data_period": "Site surveys September–October 2024; consultations 7–13 April 2025; final November 2025.",
+    "method": "Site reconnaissance, proposed PV-system planning and environmental/social assessment.",
+    "data_sources": "Facility assessment and stakeholder consultations.",
+    "key_findings": "Provides a concrete institutional solar pipeline and location-specific implementation constraints.",
+    "limitations": "Plans and estimated requirements establish neither commissioning nor education outcomes.",
+    "project_relevance": "Locate the referenced Data Collection and Assessment Report and verify load definitions.",
+    "evidence_type": "policy/planning and project/report evidence",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Cover; sections 1–2, Tables 1-1 and 2-1; consultation section 4.",
+    "quality_appraisal": "Primary site/planning evidence; capacity proposals must remain separate from observed demand.",
+    "data_code_availability": "Facility tables public; underlying assessment/load files not obtained.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P03"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU10",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "commerce",
+      "industry",
+      "SMEs",
+      "electricity_demand"
+    ],
+    "title": "World Bank Enterprise Survey 2025: Somalia",
+    "authors": [
+      "World Bank Group"
+    ],
+    "year": 2025,
+    "publication_type": "official survey dataset and methodology",
+    "venue_or_publisher": "World Bank Enterprise Surveys",
+    "doi": "",
+    "primary_url": "https://microdata.worldbank.org/catalog/8119",
+    "full_text_url": "",
+    "geographic_scope": "Eligible registered private firms with at least five workers; excludes informal microfirms and primary agriculture",
+    "data_period": "Fieldwork June–November 2025; catalog publication December 2025.",
+    "method": "Stratified enterprise survey by industry, size and region.",
+    "data_sources": "2024 Somali business-census frame and firm questionnaires.",
+    "key_findings": "Includes self-reported monthly electricity consumption; variable c32 has 241 nonmissing observations.",
+    "limitations": "Use survey weights; missingness and sector exclusions preclude an all-business national demand estimate.",
+    "project_relevance": "Analyze firm energy consumption alongside service constraints and business characteristics.",
+    "evidence_type": "observed/survey",
+    "inspection_depth": "official_summary",
+    "verification_locator": "Catalog SOM_2025_WBES_v01_M: scope/sampling/collection; c32 https://microdata.worldbank.org/catalog/8119/variable/V301.",
+    "quality_appraisal": "High-value documented survey; no weighted estimates computed in this review.",
+    "data_code_availability": "Microdata catalog and questionnaires identified; data access not exercised.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P01"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU11",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "agriculture",
+      "macro_econometrics",
+      "renewable_energy"
+    ],
+    "title": "Nexus between renewable energy and agricultural productivity in Somalia: Evidence from Fragile Foundations",
+    "authors": [
+      "Bile Abdisalan Nor"
+    ],
+    "year": 2026,
+    "publication_type": "journal article",
+    "venue_or_publisher": "Cogent Food & Agriculture 12(1), 2616845",
+    "doi": "10.1080/23311932.2026.2616845",
+    "primary_url": "https://www.tandfonline.com/doi/full/10.1080/23311932.2026.2616845",
+    "full_text_url": "https://www.researchgate.net/publication/399905812_Nexus_between_renewable_energy_and_agricultural_productivity_in_Somalia_Evidence_from_Fragile_Foundations",
+    "geographic_scope": "Somalia national annual aggregates",
+    "data_period": "1990–2022; publication 19 January 2026.",
+    "method": "ARDL time-series association with FMOLS robustness checks.",
+    "data_sources": "World Bank renewable share of total final energy; SESRIC agricultural value-added growth and macroeconomic series.",
+    "key_findings": "Reports a positive long-run energy-share association; short-run renewable term is not statistically significant.",
+    "limitations": "Small annual sample; aggregate energy share is not solar-pump adoption. Agricultural value-added growth is not farm yield.",
+    "project_relevance": "Motivates disaggregated exposure and outcome measures, not causal technology returns.",
+    "evidence_type": "statistical/econometric analysis",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Publisher-distributed full text on ResearchGate: section 3.1/Table 1, results Tables 3–7, data statement; Crossref metadata.",
+    "quality_appraisal": "Traceable variables, but causal and technology-specific interpretations exceed the design.",
+    "data_code_availability": "Processed data available on author request; public replication package not identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P12"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU12",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "agriculture",
+      "irrigation",
+      "livelihoods",
+      "gender",
+      "climate"
+    ],
+    "title": "Building resilient food systems in Somalia: Integrated approaches for conflict and climate challenges",
+    "authors": [
+      "Dipankar Datta"
+    ],
+    "year": 2025,
+    "publication_type": "journal article",
+    "venue_or_publisher": "Outlook on Agriculture 54(4), 346–357",
+    "doi": "10.1177/00307270251364907",
+    "primary_url": "https://journals.sagepub.com/doi/10.1177/00307270251364907",
+    "full_text_url": "https://journals.sagepub.com/doi/10.1177/00307270251364907",
+    "geographic_scope": "NCA programming in Puntland and Jubaland",
+    "data_period": "Main monitoring/cases 2022–2024 within a longer organizational history; online August 2025, later version October 2025.",
+    "method": "Program monitoring synthesis and 18 purposive qualitative case studies.",
+    "data_sources": "Monitoring of 2,200 smallholders; interviews, focus groups and organizational reports.",
+    "key_findings": "Reports gains from bundled agriculture, solar irrigation, training and cooperative interventions.",
+    "limitations": "Implementer evidence lacks a clearly identified solar-only counterfactual; access and selection constrain generalization.",
+    "project_relevance": "Study ownership, maintenance, market access and water management alongside electricity.",
+    "evidence_type": "observed/survey and project/report evidence",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Current publisher HTML: Research scope and methodology; Results; Challenges. Version history and references checked.",
+    "quality_appraisal": "Useful implementation evidence; reported yield gains cannot be assigned to solar alone.",
+    "data_code_availability": "No public underlying monitoring dataset identified; cited final evaluation remains a retrieval lead.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P06",
+      "TRACE03"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU13",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "water",
+      "solar_pumping",
+      "health",
+      "education",
+      "maintenance"
+    ],
+    "title": "UNICEF Somalia – Final evaluation of “Improving children’s access to water and sanitation in Somalia (2015–2018)”",
+    "authors": [
+      "Giorgio Ferrari",
+      "Hilde van Dijkhorst",
+      "Hiroko Sugimoto",
+      "Niduk D’souza"
+    ],
+    "year": 2019,
+    "publication_type": "commissioned final evaluation",
+    "venue_or_publisher": "MDF Training & Consultancy and Polaris Global Management for UNICEF",
+    "doi": "",
+    "primary_url": "https://evaluationreports.unicef.org/GetDocument?documentID=8933&fileID=35944",
+    "full_text_url": "https://evaluationreports.unicef.org/GetDocument?documentID=8933&fileID=35944",
+    "geographic_scope": "Project locations in Awdal, Bari, Galgaduud and Lower Juba",
+    "data_period": "Project 2015–2018; evaluation published April 2019; exact interview dates not resolved.",
+    "method": "Triangulated interviews, community discussions, household survey, observation and contribution analysis.",
+    "data_sources": "Project monitoring, beneficiaries, implementing partners and facility visits.",
+    "key_findings": "Solar pumping supported lower operating costs, while supply, spares and installation quality complicated delivery.",
+    "limitations": "Project-location survey is not statistically generalizable; bundled WASH intervention does not isolate a solar effect.",
+    "project_relevance": "Build maintenance, procurement and service continuity into productive-energy research.",
+    "evidence_type": "observed/survey and project evaluation",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Methods pp.33–41; relevance/effectiveness pp.43–58; efficiency/sustainability pp.61–70; recommendations pp.75–76.",
+    "quality_appraisal": "Strong triangulation for operational lessons; historical, project-specific outcomes.",
+    "data_code_availability": "Instruments/respondent categories in annexes; raw responses not publicly linked.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P09",
+      "P10"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU14",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "water",
+      "solar_pumping",
+      "diesel",
+      "humanitarian_costs"
+    ],
+    "title": "The investment case for sustainable water systems in Somalia",
+    "authors": [
+      "UNICEF"
+    ],
+    "year": 2019,
+    "publication_type": "institutional investment brief",
+    "venue_or_publisher": "UNICEF Somalia",
+    "doi": "",
+    "primary_url": "https://www.unicef.org/somalia/media/1241/file/Somalia-sustainable-water-supply-options-2019.pdf",
+    "full_text_url": "https://www.unicef.org/somalia/media/1241/file/Somalia-sustainable-water-supply-options-2019.pdf",
+    "geographic_scope": "Somali water-supply illustrations and a hypothetical 10,000-person service area",
+    "data_period": "2018–2019 water prices; May 2019 price snapshot.",
+    "method": "Four-year cost comparison of trucking, rehabilitation, new supply and blended strategies.",
+    "data_sources": "UNICEF WASH costing tool; Somali price and system-cost examples.",
+    "key_findings": "Rehabilitation is cheapest under the brief’s assumed service and financing conditions.",
+    "limitations": "Scenarios combine diesel deep wells and solar shallow wells; subsidy/inflation assumptions drive comparisons.",
+    "project_relevance": "Useful service-cost framework, not a pure solar-versus-diesel estimate.",
+    "evidence_type": "techno-economic simulation",
+    "inspection_depth": "full_text",
+    "verification_locator": "All five PDF pages; assumptions p.3 and cost table p.4.",
+    "quality_appraisal": "Transparent headline assumptions; modeled savings are not observed investment returns.",
+    "data_code_availability": "Summary inputs public; underlying workbook not identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P03",
+      "P10"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU15",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "livestock",
+      "dairy",
+      "cold_chain",
+      "gender"
+    ],
+    "title": "Technical Support to Village Milk Collection Centres in North Somalia",
+    "authors": [
+      "Mario Younan"
+    ],
+    "year": 2012,
+    "publication_type": "consultant field report",
+    "venue_or_publisher": "VSF-Germany, EDF-9 Somali Pastoral Dairy Development Project Phase II",
+    "doi": "10.13140/RG.2.2.22986.77762",
+    "primary_url": "https://www.researchgate.net/publication/308954662_VSF-Germany_2012_EDF-9_Somali_Pastoral_Dairy_Development_Project_SPDDP_Phase-II_Implemented_by_VSF-Germany_Technical_Support_to_Village_Milk_Collection_Centres_in_North_Somalia_Consultant_Report_M_You",
+    "full_text_url": "https://www.researchgate.net/publication/308954662_VSF-Germany_2012_EDF-9_Somali_Pastoral_Dairy_Development_Project_SPDDP_Phase-II_Implemented_by_VSF-Germany_Technical_Support_to_Village_Milk_Collection_Centres_in_North_Somalia_Consultant_Report_M_You",
+    "geographic_scope": "Togdheer/western Sool and Nugal/Sanaag/Bari, preserving report-specific Somaliland/Puntland labels",
+    "data_period": "November–December 2012 fieldwork; report 21 December 2012; author upload 2016.",
+    "method": "Visits to 20 of 25 collection centres plus telephone/staff assessments.",
+    "data_sources": "Centre inspection and interviews with managers and milk-market participants.",
+    "key_findings": "Access, water, ownership and unfinished facilities constrained use; solar cooling was proposed.",
+    "limitations": "Historical qualitative assessment; no measured refrigeration energy or demonstrated solar-cooling impact.",
+    "project_relevance": "Locate centres and compare equipment provision with actual service uptake.",
+    "evidence_type": "qualitative and project evaluation",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Author-uploaded original report: executive summary pp.2–5 and centre assessments. Repository DOI is not peer-review certification.",
+    "quality_appraisal": "Useful dairy field evidence, not a current national cold-chain inventory.",
+    "data_code_availability": "Centre tables included; no machine-readable energy measurements identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P06",
+      "P07"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU16",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "water",
+      "solar_pumping",
+      "governance",
+      "inclusion"
+    ],
+    "title": "Solar versus Diesel Powered Water Pumps in Meeting Sustainability Goals in Somalia, a qualitative study",
+    "authors": [
+      "Mulatu Tiruneh Kassa",
+      "Teshome Bekele Elema",
+      "Peter Redding"
+    ],
+    "year": 2026,
+    "publication_type": "preprint; not peer reviewed",
+    "venue_or_publisher": "EarthArXiv",
+    "doi": "10.31223/X5FR2S",
+    "primary_url": "https://eartharxiv.org/repository/view/14054/",
+    "full_text_url": "https://eartharxiv.org/repository/object/14054/download/24632/",
+    "geographic_scope": "Puntland water-sector stakeholders",
+    "data_period": "Posted July 2026; interview dates not clearly reported.",
+    "method": "Purposive interviews with ten key informants; thematic template analysis in NVivo.",
+    "data_sources": "Government, operators and development/humanitarian organizations.",
+    "key_findings": "Stakeholders identify finance, skills, theft, weak policy and limited community inclusion as barriers.",
+    "limitations": "Providers dominate the sample; water users and marginalized groups are missing. No financial or energy-performance comparison.",
+    "project_relevance": "Develop inclusive maintenance/ownership questions for future water-service fieldwork.",
+    "evidence_type": "qualitative",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Cover preprint/data statements; methods sections 2.3–2.6; findings and limitations.",
+    "quality_appraisal": "Exploratory stakeholder evidence; explicitly not submitted to a peer-reviewed journal at posting.",
+    "data_code_availability": "Confidential transcripts; anonymized access may be possible subject to ethical restrictions.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P09"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU17",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "agriculture",
+      "irrigation",
+      "demand_management",
+      "IoT"
+    ],
+    "title": "Development and implementation of a cost-effective automated irrigation system for resource-constrained environments: a case study of Mogadishu, Somalia",
+    "authors": [
+      "Abdirahman Farah Ali",
+      "Abdifatah Abdullahi Ali",
+      "Sulieman Abdullahi Ali"
+    ],
+    "year": 2026,
+    "publication_type": "journal article",
+    "venue_or_publisher": "Cogent Food & Agriculture 12(1), 2696549",
+    "doi": "10.1080/23311932.2026.2696549",
+    "primary_url": "https://www.tandfonline.com/doi/full/10.1080/23311932.2026.2696549",
+    "full_text_url": "https://www.researchgate.net/publication/408370691_Development_and_implementation_of_a_cost-effective_automated_irrigation_system_for_resource-constrained_environments_a_case_study_of_Mogadishu_Somalia",
+    "geographic_scope": "Small experimental tomato plots, Mogadishu",
+    "data_period": "Thirty-day experiment; exact field dates unresolved; publication 2 July 2026.",
+    "method": "Automated sensor-controlled versus manual irrigation prototype comparison.",
+    "data_sources": "One-square-metre plots; water and labour observations.",
+    "key_findings": "Reports water and labour savings using a grid-powered prototype.",
+    "limitations": "Short, tiny-plot experiment; no rural off-grid validation or metered energy-saving result established.",
+    "project_relevance": "Demand-control research lead; do not transfer water-saving percentages directly to national pumping energy.",
+    "evidence_type": "observed experimental prototype",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Publisher-distributed full text on ResearchGate: methods, results and data statement; Crossref publication metadata.",
+    "quality_appraisal": "Useful proof of concept; seasonal durability, scaling and energy benefits remain unverified.",
+    "data_code_availability": "Data available on request; no public replication dataset identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P11"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  },
+  {
+    "id": "PU18",
+    "primary_theme": "productive_uses",
+    "themes": [
+      "ports",
+      "commerce",
+      "hybrid_systems",
+      "pumped_hydro_storage"
+    ],
+    "title": "Techno-economic and environmental analysis of a fully renewable hybrid energy system for sustainable power infrastructure advancement",
+    "authors": [
+      "Abdullahi Mohamed Samatar",
+      "Abdelhak Lekbir",
+      "Saad Mekhilef",
+      "Hazlie Mokhlis",
+      "Kok Soon Tey",
+      "Abdullah Alassaf"
+    ],
+    "year": 2025,
+    "publication_type": "journal article",
+    "venue_or_publisher": "Scientific Reports 15, 12140",
+    "doi": "10.1038/s41598-025-96401-z",
+    "primary_url": "https://www.nature.com/articles/s41598-025-96401-z",
+    "full_text_url": "https://www.nature.com/articles/s41598-025-96401-z",
+    "geographic_scope": "Proposed Hobyo seaport energy system",
+    "data_period": "Published 9 April 2025; resource and load observation years not specified in inspected sections.",
+    "method": "HOMER configuration optimization; MATLAB plotting; economic/environmental calculations.",
+    "data_sources": "NASA POWER weather; scaled demand of 2,042.70 kWh/day; assumed PHES reservoir 1,000 m³, head 100 m and storage 245 kWh.",
+    "key_findings": "PV/wind/PHES ranks cheapest in simulation; reported USD 0.03845/kWh and 0.31-year payback are unvalidated projections.",
+    "limitations": "Metered demand provenance unclear. Authors defer site-specific elevation validation; reservoir civil works and storage-autonomy consistency need audit.",
+    "project_relevance": "Port-demand and storage-feasibility research lead.",
+    "evidence_type": "techno-economic simulation",
+    "inspection_depth": "selected_full_text_sections",
+    "verification_locator": "Publisher HTML: location/load; PHES; economic equations 14–18; weather; results/autonomy; data/code statements. Table 2 linked view did not resolve independently.",
+    "quality_appraisal": "Conceptual design, not measured port operation or proven local PHES feasibility.",
+    "data_code_availability": "Data on reasonable request; MATLAB plotting code on request; public HOMER project not identified.",
+    "retrieved_date": "2026-09-28",
+    "discovery_queries": [
+      "P13"
+    ],
+    "review_status": "content_appraised",
+    "scope_role": "somalia_relevant"
+  }
+]

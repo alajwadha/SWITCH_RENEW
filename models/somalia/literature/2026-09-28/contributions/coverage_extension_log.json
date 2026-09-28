@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-28",
+  "platform": "web search",
+  "queries": [
+    "Somalia Somaliland geothermal hydropower ocean wave energy study journal",
+    "Somalia green hydrogen energy storage feasibility study journal",
+    "Somalia aviation maritime shipping industrial energy efficiency heat study",
+    "Somalia waste to energy biogas industrial energy peer reviewed"
+  ],
+  "outcomes": [
+    {
+      "id": "COOK19",
+      "decision": "Included after primary PDF and methods inspection; measured waste versus modeled methane kept distinct."
+    },
+    {
+      "id": "PU18",
+      "decision": "Included after full publisher methods sections inspected; port demand and PHES site assumptions flagged."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0360319924037728",
+      "decision": "Hydrogen search hit included Somalia text in citing-article material; primary study geography was not confirmed. Not included."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0360319926023438",
+      "decision": "Airport hydrogen study country not confirmed in accessible primary content. Not included."
+    },
+    {
+      "url": "https://www.nature.com/articles/s41560-025-01768-y",
+      "decision": "Primary search excerpt explicitly excludes Somalia from the study sample. Not included as Somalia evidence."
+    },
+    {
+      "url": "https://econjournals.com/index.php/ijeep/article/view/18928",
+      "decision": "Relevant industrialization/energy macroeconomic title found; primary page not retrieved. Follow-up lead, no quantitative finding adopted."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0973082626000906",
+      "decision": "Waste-to-fuel paper full primary content blocked and study geography not confirmed. Follow-up only."
+    },
+    {
+      "url": "https://penerbit.uthm.edu.my/periodicals/index.php/rpmme/article/download/17000/5939/105411",
+      "decision": "Geothermal search lead not appraised; no resource estimate adopted."
+    }
+  ],
+  "limits": "Searches improve coverage; unreviewed hits and unsuccessful queries do not establish absence of research."
+}

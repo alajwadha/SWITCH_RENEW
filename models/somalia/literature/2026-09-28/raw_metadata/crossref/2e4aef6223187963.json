@@ -1,0 +1,218 @@
+{
+  "requested_doi": "10.1177/11786302251315893",
+  "source_url": "https://api.crossref.org/works/10.1177%2F11786302251315893",
+  "retrieved_at_utc": "2026-09-28T18:10:29.522074+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.1177/11786302251315893",
+    "title": [
+      "Household Solid Fuel Use and Associated Factors in Somaliland: A Multilevel Analysis of Data From 2020 Somaliland Demographic and Health Survey"
+    ],
+    "author": [
+      {
+        "given": "Mustafe Abdillahi",
+        "family": "Ali",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Faculty of Science and Humanities, School of Postgraduate Studies and Research (SPGSR), Amoud University, Amoud Valley, Borama, Somaliland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abdirizak Hassan",
+        "family": "Abokor",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Science and Humanities, School of Postgraduate Studies and Research (SPGSR), Amoud University, Amoud Valley, Borama, Somaliland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-4980-5009",
+        "authenticated-orcid": false,
+        "given": "Omer",
+        "family": "Adam Farih",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Science and Humanities, School of Postgraduate Studies and Research (SPGSR), Amoud University, Amoud Valley, Borama, Somaliland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hodo",
+        "family": "Abdikarim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Science and Humanities, School of Postgraduate Studies and Research (SPGSR), Amoud University, Amoud Valley, Borama, Somaliland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Abdirashid M",
+        "family": "Yousuf",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Science and Humanities, School of Postgraduate Studies and Research (SPGSR), Amoud University, Amoud Valley, Borama, Somaliland"
+          },
+          {
+            "name": "Research and Innovation Centre, Amoud University, Borama, Somaliland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4905-0044",
+        "authenticated-orcid": false,
+        "given": "Abdisalam Hassan",
+        "family": "Muse",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Science and Humanities, School of Postgraduate Studies and Research (SPGSR), Amoud University, Amoud Valley, Borama, Somaliland"
+          },
+          {
+            "name": "Research and Innovation Centre, Amoud University, Borama, Somaliland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "SAGE Publications",
+    "container-title": [
+      "Environmental Health Insights"
+    ],
+    "volume": "19",
+    "article-number": "11786302251315893",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          1
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          30
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          1
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          1
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          30
+        ]
+      ],
+      "date-time": "2025-01-30T08:09:01Z",
+      "timestamp": 1738224541000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              1
+            ]
+          ],
+          "date-time": "2025-01-01T00:00:00Z",
+          "timestamp": 1735689600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/11786302251315893",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/11786302251315893",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://journals.sagepub.com/doi/pdf/10.1177/11786302251315893",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://journals.sagepub.com/doi/10.1177/11786302251315893"
+      }
+    },
+    "URL": "https://doi.org/10.1177/11786302251315893",
+    "relation": {},
+    "is-referenced-by-count": 6
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

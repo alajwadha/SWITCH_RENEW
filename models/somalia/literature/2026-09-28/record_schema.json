@@ -1,0 +1,6 @@
+{
+  "required_fields": ["id", "primary_theme", "themes", "title", "authors", "year", "publication_type", "venue_or_publisher", "doi", "primary_url", "full_text_url", "geographic_scope", "data_period", "method", "data_sources", "key_findings", "limitations", "project_relevance", "evidence_type", "inspection_depth", "verification_locator", "quality_appraisal", "data_code_availability", "retrieved_date", "discovery_queries"],
+  "primary_theme_values": ["electricity", "cooking_biomass", "transport_fuels_governance", "productive_uses"],
+  "inspection_depth_values": ["full_text", "selected_full_text_sections", "publisher_abstract", "official_summary"],
+  "conventions": {"authors": "array of author names or institutional authors; do not invent missing authors", "themes": "array of tags", "year": "integer publication year or null when unresolved", "doi": "bare DOI string, or empty string for none/not verified", "retrieved_date": "2026-09-28", "discovery_queries": "array of actual query strings or search-log IDs", "key_findings": "original concise paraphrase; distinguish source result from reviewer inference", "limits": "Keep combined substantive summary per source compact, normally under 180 words; no long copied abstracts", "unknown": "Use explicit not reported/not checked/unknown rather than silently filling"}
+}

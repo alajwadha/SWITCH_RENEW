@@ -1,0 +1,113 @@
+{
+  "requested_doi": "10.3389/fpos.2026.1684383",
+  "source_url": "https://api.crossref.org/works/10.3389%2Ffpos.2026.1684383",
+  "retrieved_at_utc": "2026-09-28T18:10:36.127133+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.3389/fpos.2026.1684383",
+    "title": [
+      "Oil and peace: assessing the impact of Somalia–Türkiye hydrocarbon cooperation on post-conflict stability and national sovereignty"
+    ],
+    "author": [
+      {
+        "given": "Mohamed Yusuf",
+        "family": "Adan",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Postgraduate Program, Mogadishu University",
+            "place": [
+              "Mogadishu, Somalia"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "publisher": "Frontiers Media SA",
+    "container-title": [
+      "Frontiers in Political Science"
+    ],
+    "volume": "8",
+    "article-number": "1684383",
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          1
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          1
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          1
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2026-04-01T05:41:30Z",
+      "timestamp": 1775022090000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2026-04-01T00:00:00Z",
+          "timestamp": 1775001600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fpos.2026.1684383/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fpos.2026.1684383/full"
+      }
+    },
+    "URL": "https://doi.org/10.3389/fpos.2026.1684383",
+    "relation": {},
+    "is-referenced-by-count": 0
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

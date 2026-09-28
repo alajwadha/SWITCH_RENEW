@@ -1,0 +1,119 @@
+{
+  "requested_doi": "10.31223/x5fr2s",
+  "source_url": "https://api.crossref.org/works/10.31223%2Fx5fr2s",
+  "retrieved_at_utc": "2026-09-28T18:10:34.938288+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.31223/x5fr2s",
+    "title": [
+      "Solar versus Diesel Powered Water Pumps in Meeting Sustainability Goals in Somalia, a qualitative study"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0006-9479-7541",
+        "authenticated-orcid": false,
+        "given": "Mulatu",
+        "family": "Kassa",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Redding",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Teshome",
+        "family": "Elema",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "publisher": "California Digital Library (CDL)",
+    "container-title": [],
+    "type": "posted-content",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          23
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          23
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          23
+        ]
+      ],
+      "date-time": "2026-07-23T13:18:46Z",
+      "timestamp": 1784812726000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              23
+            ]
+          ],
+          "date-time": "2026-07-23T00:00:00Z",
+          "timestamp": 1784764800000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/legalcode"
+      }
+    ],
+    "link": [
+      {
+        "URL": "https://eartharxiv.org/repository/object/14054/download/24632/",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://eartharxiv.org/repository/view/14054/"
+      }
+    },
+    "URL": "https://doi.org/10.31223/x5fr2s",
+    "relation": {},
+    "is-referenced-by-count": 0
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score."
+}

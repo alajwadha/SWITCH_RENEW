@@ -1,0 +1,108 @@
+{
+  "requested_doi": "10.20944/preprints202104.0708.v1",
+  "source_url": "https://api.crossref.org/works/10.20944%2Fpreprints202104.0708.v1",
+  "retrieved_at_utc": "2026-09-28T18:04:16.948124+00:00",
+  "status": "retrieved",
+  "metadata": {
+    "DOI": "10.20944/preprints202104.0708.v1",
+    "title": [
+      "Rural Electrification of Somalia Using WT-PV-DG-Battery Hybrid System"
+    ],
+    "author": [
+      {
+        "given": "Swathi",
+        "family": "Kumar",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8683-381X",
+        "authenticated-orcid": false,
+        "given": "Richard",
+        "family": "Blanchard",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "publisher": "MDPI AG",
+    "container-title": [],
+    "type": "posted-content",
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          27
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          27
+        ]
+      ]
+    },
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          28
+        ]
+      ],
+      "date-time": "2021-04-28T06:32:39Z",
+      "timestamp": 1619591559000
+    },
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              4,
+              27
+            ]
+          ],
+          "date-time": "2021-04-27T00:00:00Z",
+          "timestamp": 1619481600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "resource": {
+      "primary": {
+        "URL": "https://www.preprints.org/manuscript/202104.0708/v1"
+      }
+    },
+    "URL": "https://doi.org/10.20944/preprints202104.0708.v1",
+    "relation": {},
+    "is-referenced-by-count": 0
+  },
+  "scope": "Primary DOI registration metadata; not an endorsement or independent validation of findings. Citation counts are not used as a quality score.",
+  "previous_attempts": [
+    {
+      "requested_doi": "10.20944/preprints202104.0708.v1",
+      "source_url": "https://api.crossref.org/works/10.20944%2Fpreprints202104.0708.v1",
+      "retrieved_at_utc": "2026-09-28T17:52:08.846891+00:00",
+      "status": "error",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ]
+}
