@@ -1,0 +1,15 @@
+{
+  "source_id": "GEOBOUNDARIES_ADM2",
+  "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SOM/ADM2/geoBoundaries-SOM-ADM2_simplified.geojson",
+  "publisher": "geoBoundaries / Global Polio Eradication Initiative (GPEI), Frank Salet",
+  "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+  "description": "Simplified administrative geometry; retain metadata and version",
+  "retrieved_at_utc": "2026-09-28T16:25:00.900381+00:00",
+  "local_path": "raw/geoboundaries/ADM2.geojson",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09592ced973a3448cf66b6100b741b64c0d/releaseData/gbOpen/SOM/ADM2/geoBoundaries-SOM-ADM2_simplified.geojson",
+  "content_type": "application/octet-stream",
+  "bytes": 183671,
+  "sha256": "fda57ec0acae5d43ab60523ba65283ce0923dfc52dbe2aebb2e600afe8015009"
+}

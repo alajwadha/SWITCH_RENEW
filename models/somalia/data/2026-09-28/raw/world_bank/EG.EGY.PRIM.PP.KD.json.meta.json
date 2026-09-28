@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_EG.EGY.PRIM.PP.KD",
+  "url": "https://api.worldbank.org/v2/country/SOM/indicator/EG.EGY.PRIM.PP.KD?format=json&per_page=1000&date=1960:2025&source=2",
+  "publisher": "World Bank WDI and named original providers",
+  "license": "CC BY 4.0 subject to indicator-specific third-party terms",
+  "description": "Somalia annual series including explicit nulls",
+  "retrieved_at_utc": "2026-09-28T16:23:09.364567+00:00",
+  "local_path": "raw/world_bank/EG.EGY.PRIM.PP.KD.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/country/SOM/indicator/EG.EGY.PRIM.PP.KD?format=json&per_page=1000&date=1960:2025&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 16726,
+  "sha256": "7c1ef3df62e354425ca5c38b88d6257a4fef3c2a047800d90b0c5c039ac404c4"
+}

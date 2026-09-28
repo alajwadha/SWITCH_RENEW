@@ -1,0 +1,15 @@
+{
+  "source_id": "GEOBOUNDARIES_ADM0",
+  "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SOM/ADM0/geoBoundaries-SOM-ADM0_simplified.geojson",
+  "publisher": "geoBoundaries / United National Development Programme (UNDP), OCHA Somalia",
+  "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+  "description": "Simplified administrative geometry; retain metadata and version",
+  "retrieved_at_utc": "2026-09-28T16:24:59.753044+00:00",
+  "local_path": "raw/geoboundaries/ADM0.geojson",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09592ced973a3448cf66b6100b741b64c0d/releaseData/gbOpen/SOM/ADM0/geoBoundaries-SOM-ADM0_simplified.geojson",
+  "content_type": "application/octet-stream",
+  "bytes": 78278,
+  "sha256": "ae7cda4305b463a3a75bec0f7c5486a2abe30b88f98022b20d8b70ad7ebf8642"
+}

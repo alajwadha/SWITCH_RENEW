@@ -1,0 +1,15 @@
+{
+  "source_id": "GEM_SOMALIA_COUNT",
+  "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/Global_Integrated_Power_v1/FeatureServer/0/query?where=Country_area+LIKE+%27%25Somal%25%27&returnCountOnly=true&f=json",
+  "publisher": "GEM",
+  "license": "CC BY 4.0",
+  "description": "Validate complete query result",
+  "retrieved_at_utc": "2026-09-28T16:28:45.631599+00:00",
+  "local_path": "raw/gem/count.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/Global_Integrated_Power_v1/FeatureServer/0/query?where=Country_area+LIKE+%27%25Somal%25%27&returnCountOnly=true&f=json",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 13,
+  "sha256": "1499080957f351e73617fbd5e34aecb32e1d1f14e99056be11ba70a8c3cf3632"
+}

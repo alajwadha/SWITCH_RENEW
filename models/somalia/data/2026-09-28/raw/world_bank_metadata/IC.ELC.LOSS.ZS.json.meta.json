@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_IC.ELC.LOSS.ZS",
+  "url": "https://api.worldbank.org/v2/indicator/IC.ELC.LOSS.ZS?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:13.813978+00:00",
+  "local_path": "raw/world_bank_metadata/IC.ELC.LOSS.ZS.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/IC.ELC.LOSS.ZS?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 102,
+  "sha256": "f230e5b6d8f652aa544aec29624faa117c27571ce309a7a474584e1cfeb45c1b"
+}

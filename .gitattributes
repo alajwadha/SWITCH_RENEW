@@ -1,0 +1,4 @@
+# Preserve downloaded bytes and recorded checksums across platforms.
+models/somalia/data/2026-09-28/** -text whitespace=cr-at-eol,-blank-at-eof
+# Workbook cell text includes original multiline headers and their spacing.
+models/somalia/data/2026-09-28/processed/solar_country_workbook_cells.csv -whitespace

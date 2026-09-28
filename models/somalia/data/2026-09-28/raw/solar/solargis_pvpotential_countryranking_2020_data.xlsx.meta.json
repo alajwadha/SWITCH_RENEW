@@ -1,0 +1,15 @@
+{
+  "source_id": "ESMAP_SOLAR_WORKBOOK",
+  "url": "https://datacatalogfiles.worldbank.org/ddh-published/0038379/1/DR0046831/solargis_pvpotential_countryranking_2020_data.xlsx",
+  "publisher": "World Bank / ESMAP / Solargis",
+  "license": "CC BY 4.0 per World Bank dataset; acknowledge Solargis",
+  "description": "Global Photovoltaic Power Potential by Country 2020; long-term modeled resources",
+  "retrieved_at_utc": "2026-09-28T16:29:21.200577+00:00",
+  "local_path": "raw/solar/solargis_pvpotential_countryranking_2020_data.xlsx",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://datacatalogfiles.worldbank.org/ddh-published/0038379/1/DR0046831/solargis_pvpotential_countryranking_2020_data.xlsx",
+  "content_type": "application/octet-stream",
+  "bytes": 129014,
+  "sha256": "8a73d15c8ad1e8c8f82bb3b879ac8b34143a420b2b45ba37722394104a63696d"
+}

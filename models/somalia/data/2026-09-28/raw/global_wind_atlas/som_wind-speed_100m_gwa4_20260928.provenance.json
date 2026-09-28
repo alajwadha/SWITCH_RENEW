@@ -1,0 +1,21 @@
+{
+  "source_id": "GEO-002",
+  "title": "Global Wind Atlas 4.0 Somalia wind speed at 100 m",
+  "source_url": "https://globalwindatlas.info/api/gis/country/SOM/wind-speed/100",
+  "landing_url": "https://globalwindatlas.info/en/download/gis-files",
+  "method_url": "https://globalwindatlas.info/en/about/method",
+  "license": "CC BY 4.0 except explicitly identified third-party layers",
+  "license_url": "https://globalwindatlas.info/en/about/TermsOfUse",
+  "attribution": "Global Wind Atlas 4.0; Technical University of Denmark; World Bank Group; Vortex; ESMAP",
+  "retrieval_completed_utc": "2026-09-28T16:34:15.197469Z",
+  "retrieval_timestamp_basis": "Local downloaded file final-write timestamp; audit time recorded separately",
+  "sha256": "9d2dd6013ab0e2da38d420f861b83ca8b26a34150b86bbb6193c011766fc98de",
+  "byte_count": 54469571,
+  "filename": "som_wind-speed_100m_gwa4_20260928.tif",
+  "source_url_mutable": true,
+  "reference_period": "2008-2017",
+  "source_last_modified_header_observed_20260928": "Thu, 12 Jun 2025 14:27:33 GMT",
+  "etag_header_observed_20260928": "\"a05ee6697800e31456daff7e0335bb4b-2\"",
+  "status": "downloaded; raster validation status in separate audit JSON",
+  "not_claimed": "No resource area mean, power generation, turbine capacity factor, asset coordinate, or national energy potential computed."
+}

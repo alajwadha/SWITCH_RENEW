@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_NY.GDP.MKTP.CD",
+  "url": "https://api.worldbank.org/v2/indicator/NY.GDP.MKTP.CD?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:09.650111+00:00",
+  "local_path": "raw/world_bank_metadata/NY.GDP.MKTP.CD.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/NY.GDP.MKTP.CD?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 938,
+  "sha256": "51cec1e144a5bad8d92238630c0a305e20116e86d34ad95c7c315ed166255b28"
+}

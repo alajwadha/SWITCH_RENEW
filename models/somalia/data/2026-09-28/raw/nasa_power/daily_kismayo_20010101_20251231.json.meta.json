@@ -1,0 +1,15 @@
+{
+  "source_id": "NASA_DAILY_KISMAYO",
+  "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M%2CWS10M%2CWS50M%2CRH2M%2CPRECTOTCORR&community=RE&longitude=42.55&latitude=-0.36&start=20010101&end=20251231&format=JSON&time-standard=UTC",
+  "publisher": "NASA POWER",
+  "license": "NASA POWER freely available; acknowledge NASA POWER and underlying data providers",
+  "description": "Gridded resource estimates at approximate city point; not measured site data or generation capacity factors",
+  "retrieved_at_utc": "2026-09-28T16:24:53.305390+00:00",
+  "local_path": "raw/nasa_power/daily_kismayo_20010101_20251231.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M%2CWS10M%2CWS50M%2CRH2M%2CPRECTOTCORR&community=RE&longitude=42.55&latitude=-0.36&start=20010101&end=20251231&format=JSON&time-standard=UTC",
+  "content_type": "application/json",
+  "bytes": 908293,
+  "sha256": "4278bba3115dc0608d40a8a23004fe2b94e1e6a63883bab02e72d6bfddb5c635"
+}

@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_PA.NUS.FCRF",
+  "url": "https://api.worldbank.org/v2/indicator/PA.NUS.FCRF?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:10.667668+00:00",
+  "local_path": "raw/world_bank_metadata/PA.NUS.FCRF.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/PA.NUS.FCRF?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 685,
+  "sha256": "879ac40c1e115d0575c0ac1d26a45b68432303927ea163be9c80e7f47c739b12"
+}

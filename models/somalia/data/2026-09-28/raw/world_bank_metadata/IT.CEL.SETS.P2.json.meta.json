@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_IT.CEL.SETS.P2",
+  "url": "https://api.worldbank.org/v2/indicator/IT.CEL.SETS.P2?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:13.749369+00:00",
+  "local_path": "raw/world_bank_metadata/IT.CEL.SETS.P2.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/IT.CEL.SETS.P2?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 985,
+  "sha256": "f624bcfad4bd1b64f7791bddece4bef2f0a9024b048badd90f76048453804ea4"
+}

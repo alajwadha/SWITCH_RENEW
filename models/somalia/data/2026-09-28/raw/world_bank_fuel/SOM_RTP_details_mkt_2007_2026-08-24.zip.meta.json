@@ -1,0 +1,12 @@
+{
+  "source_id": "WB_SOM_RTEP_DETAILS_20260824",
+  "url": "https://microdata.worldbank.org/catalog/6130/download/359963",
+  "publisher": "World Bank, Development Economics Data Group (Bo Pieter Johannes Andree)",
+  "license": "World Bank open-data attribution terms; see https://microdata.worldbank.org/catalog/6130/get-microdata and https://data.worldbank.org/summary-terms-of-use",
+  "description": "Matching publisher metadata; verifies diesel product unit 1 L and currency SOS; reports underlying observation counts.",
+  "retrieved_at_utc": "2026-09-28T16:33:24.988605Z",
+  "local_path": "raw/world_bank_fuel/SOM_RTP_details_mkt_2007_2026-08-24.zip",
+  "status": "downloaded_and_structurally_verified; modeled estimates remain separate from source-price fields",
+  "bytes": 1002,
+  "sha256": "95824b67195556602d0548ccc5aeefdd481ab73b80f8edcab296589ee9a3c999"
+}

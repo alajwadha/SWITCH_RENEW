@@ -1,0 +1,12 @@
+{
+  "source_id": "WB_SOM_RTEP_20260824",
+  "url": "https://microdata.worldbank.org/catalog/6130/download/359961",
+  "publisher": "World Bank, Development Economics Data Group (Bo Pieter Johannes Andree)",
+  "license": "World Bank open-data attribution terms; see https://microdata.worldbank.org/catalog/6130/get-microdata and https://data.worldbank.org/summary-terms-of-use",
+  "description": "Frozen monthly diesel-price panel: source-price fields plus modeled estimates; 45 markets and one publisher aggregate.",
+  "retrieved_at_utc": "2026-09-28T16:33:24.988605Z",
+  "local_path": "raw/world_bank_fuel/SOM_RTEP_mkt_2007_2026-08-24.zip",
+  "status": "downloaded_and_structurally_verified; modeled estimates remain separate from source-price fields",
+  "bytes": 292209,
+  "sha256": "bcb03c0c20c6b571ec25e74925a99741ee2490007d0ac0801c4a1b814fce56f1"
+}

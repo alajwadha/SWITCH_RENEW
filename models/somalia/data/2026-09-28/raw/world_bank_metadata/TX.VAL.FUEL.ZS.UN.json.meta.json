@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_TX.VAL.FUEL.ZS.UN",
+  "url": "https://api.worldbank.org/v2/indicator/TX.VAL.FUEL.ZS.UN?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:10.798053+00:00",
+  "local_path": "raw/world_bank_metadata/TX.VAL.FUEL.ZS.UN.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/TX.VAL.FUEL.ZS.UN?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 991,
+  "sha256": "009ebf1d8a465d007ef3bc653d2f730f61cc4cd7238228e89ae924143c99e7e6"
+}

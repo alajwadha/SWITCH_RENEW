@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_EG.USE.ELEC.KH.PC",
+  "url": "https://api.worldbank.org/v2/indicator/EG.USE.ELEC.KH.PC?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:08.736376+00:00",
+  "local_path": "raw/world_bank_metadata/EG.USE.ELEC.KH.PC.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/EG.USE.ELEC.KH.PC?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 795,
+  "sha256": "4236af9f3948d3190ee93415b9f49aec9ac748a38aa8586d757d1031a3a7c723"
+}

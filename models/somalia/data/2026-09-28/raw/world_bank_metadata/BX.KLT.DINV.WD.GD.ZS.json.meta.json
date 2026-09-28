@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_BX.KLT.DINV.WD.GD.ZS",
+  "url": "https://api.worldbank.org/v2/indicator/BX.KLT.DINV.WD.GD.ZS?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:12.368316+00:00",
+  "local_path": "raw/world_bank_metadata/BX.KLT.DINV.WD.GD.ZS.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/BX.KLT.DINV.WD.GD.ZS?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 1165,
+  "sha256": "fd15df0dd9de59dd6537c0c76dbcf5656ff19af8445370700ad6b7931f192819"
+}

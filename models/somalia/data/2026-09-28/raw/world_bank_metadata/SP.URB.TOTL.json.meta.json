@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_SP.URB.TOTL",
+  "url": "https://api.worldbank.org/v2/indicator/SP.URB.TOTL?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:07.248189+00:00",
+  "local_path": "raw/world_bank_metadata/SP.URB.TOTL.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/SP.URB.TOTL?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 1071,
+  "sha256": "fd016165f6393188a488dcb276fb282b0673655dc77f1433c6a8e2201113b336"
+}

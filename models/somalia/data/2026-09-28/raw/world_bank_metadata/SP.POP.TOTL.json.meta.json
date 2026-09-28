@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_SP.POP.TOTL",
+  "url": "https://api.worldbank.org/v2/indicator/SP.POP.TOTL?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:07.438305+00:00",
+  "local_path": "raw/world_bank_metadata/SP.POP.TOTL.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/SP.POP.TOTL?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 1099,
+  "sha256": "2f8491efc00bf2c0995112ff8e87aba69e5e9d22d0880b22f7e3a4ec757ba05c"
+}

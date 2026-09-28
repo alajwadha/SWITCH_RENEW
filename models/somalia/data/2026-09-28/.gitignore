@@ -1,0 +1,8 @@
+__pycache__/
+references_cache/
+research/power_source_*.pdf
+research/power_source_*.txt
+research/power_verify_*.png
+raw/global_wind_atlas/*.tif
+raw/global_wind_atlas/*.tiff
+raw/global_solar_atlas/*.zip

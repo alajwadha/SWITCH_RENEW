@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_AG.LND.AGRI.ZS",
+  "url": "https://api.worldbank.org/v2/indicator/AG.LND.AGRI.ZS?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:12.750741+00:00",
+  "local_path": "raw/world_bank_metadata/AG.LND.AGRI.ZS.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/AG.LND.AGRI.ZS?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 1370,
+  "sha256": "cf374ff9762fd9559c918fe788e6072f4ae45a18d8d05f912e162dcc36fba51b"
+}

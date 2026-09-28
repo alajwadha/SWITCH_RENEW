@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_SP.POP.GROW",
+  "url": "https://api.worldbank.org/v2/indicator/SP.POP.GROW?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:07.416706+00:00",
+  "local_path": "raw/world_bank_metadata/SP.POP.GROW.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/SP.POP.GROW?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 1081,
+  "sha256": "410c9806e450f67653b837ced0851741d45763284d7621f94f29e930ee817c65"
+}

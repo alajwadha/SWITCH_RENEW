@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_NY.GDP.PCAP.CD",
+  "url": "https://api.worldbank.org/v2/indicator/NY.GDP.PCAP.CD?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:10.181763+00:00",
+  "local_path": "raw/world_bank_metadata/NY.GDP.PCAP.CD.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/NY.GDP.PCAP.CD?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 1044,
+  "sha256": "96520c3a22b1f9da1c7456349a6e70b1643db88d427671faced17cb8b9eaf907"
+}

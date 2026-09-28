@@ -1,0 +1,15 @@
+{
+  "source_id": "NASA_HOURLY_HARGEISA",
+  "url": "https://power.larc.nasa.gov/api/temporal/hourly/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M%2CWS10M%2CWS50M%2CRH2M%2CPRECTOTCORR&community=RE&longitude=44.06&latitude=9.56&start=20250101&end=20251231&format=JSON&time-standard=UTC",
+  "publisher": "NASA POWER",
+  "license": "NASA POWER freely available; acknowledge NASA POWER and underlying data providers",
+  "description": "Gridded resource estimates at approximate city point; not measured site data or generation capacity factors",
+  "retrieved_at_utc": "2026-09-28T16:23:21.424900+00:00",
+  "local_path": "raw/nasa_power/hourly_hargeisa_20250101_20251231.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://power.larc.nasa.gov/api/temporal/hourly/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M%2CWS10M%2CWS50M%2CRH2M%2CPRECTOTCORR&community=RE&longitude=44.06&latitude=9.56&start=20250101&end=20251231&format=JSON&time-standard=UTC",
+  "content_type": "application/json",
+  "bytes": 959874,
+  "sha256": "a77b3dccd5270f96a446a1f517dc005a680509a4a61f593b14e760e6f8684568"
+}

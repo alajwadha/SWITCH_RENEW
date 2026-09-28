@@ -1,0 +1,15 @@
+{
+  "source_id": "GEM_SOMALIA_ASSETS",
+  "url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/Global_Integrated_Power_v1/FeatureServer/0/query?where=Country_area+LIKE+%27%25Somal%25%27&outFields=%2A&returnGeometry=false&orderByFields=OBJECTID&resultRecordCount=2000&f=json",
+  "publisher": "Global Energy Monitor / Esri distribution",
+  "license": "CC BY 4.0; attribute Global Energy Monitor",
+  "description": "Threshold-limited power asset inventory; not national installed total",
+  "retrieved_at_utc": "2026-09-28T16:28:45.880114+00:00",
+  "local_path": "raw/gem/somalia_assets.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://services.arcgis.com/P3ePLMYs2RVChkJx/arcgis/rest/services/Global_Integrated_Power_v1/FeatureServer/0/query?where=Country_area+LIKE+%27%25Somal%25%27&outFields=%2A&returnGeometry=false&orderByFields=OBJECTID&resultRecordCount=2000&f=json",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 23708,
+  "sha256": "41c957398a492eb13f4afb5b3238dc589302da0078b2fd3e1952aa1866f1bbaf"
+}

@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_EG.ELC.RNWX.ZS",
+  "url": "https://api.worldbank.org/v2/indicator/EG.ELC.RNWX.ZS?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:09.581526+00:00",
+  "local_path": "raw/world_bank_metadata/EG.ELC.RNWX.ZS.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/EG.ELC.RNWX.ZS?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 858,
+  "sha256": "31454cb2d1301ca60d5cf365db86aba9bc53358a24134c67142cb7f5f827aafb"
+}

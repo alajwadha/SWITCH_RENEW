@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_SP.RUR.TOTL",
+  "url": "https://api.worldbank.org/v2/country/SOM/indicator/SP.RUR.TOTL?format=json&per_page=1000&date=1960:2025&source=2",
+  "publisher": "World Bank WDI and named original providers",
+  "license": "CC BY 4.0 subject to indicator-specific third-party terms",
+  "description": "Somalia annual series including explicit nulls",
+  "retrieved_at_utc": "2026-09-28T16:23:07.445918+00:00",
+  "local_path": "raw/world_bank/SP.RUR.TOTL.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/country/SOM/indicator/SP.RUR.TOTL?format=json&per_page=1000&date=1960:2025&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 13623,
+  "sha256": "da7440dab43d0a493147a15ecdcf08f4547e3356f511edb112b0e0701c2e5e58"
+}

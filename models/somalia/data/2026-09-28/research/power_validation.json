@@ -1,0 +1,31 @@
+{
+  "retrieval_date": "2026-09-28",
+  "facts": 100,
+  "consumption_cells": 179,
+  "consumption_numeric": 143,
+  "consumption_missing": 36,
+  "planning_parameter_records": 190,
+  "sources": 15,
+  "local_pdf_hashes": 8,
+  "checks_passed": [
+    "unique fact IDs",
+    "unique utility-year consumption keys",
+    "all facts have HTTPS source and page/section locator",
+    "nonnegative consumption values",
+    "179 source cells retained including36 missing",
+    "plan Table2-5 diesel arithmetic conflict reproduced:83586 versus95186kW",
+    "plan Table2-5 LV arithmetic conflict reproduced:2219 versus2225km"
+  ],
+  "verification_limits": [
+    "Manual transcriptions, not independently audited utility records",
+    "No source license established for raw PDF redistribution",
+    "No current complete generation or transmission inventory established",
+    "No SWITCH inputs changed and no optimization run"
+  ],
+  "output_sha256": {
+    "power_facts.csv": "275f58c63e279a62099d118c1d94154c9fd38f6c394598135d23c0b580c0281e",
+    "power_consumption_history.csv": "2cdd05d441226b3c1bd8586167edc9e75852206a14ed65bca639cc62c45a02df",
+    "power_planning_assumptions.csv": "89a2b60f5790044a2c277c61b9102fb409cfc0797f7534ac5ab4c9fb07746a9a",
+    "source_doc_manifest.json": "d03c3fe9b6f652b1b3e4645d80bb7db2fdf6d94a18b250b609285101f6f4da71"
+  }
+}

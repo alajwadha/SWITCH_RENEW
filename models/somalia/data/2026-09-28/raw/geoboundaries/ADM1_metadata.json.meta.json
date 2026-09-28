@@ -1,0 +1,15 @@
+{
+  "source_id": "GEOBOUNDARIES_META_ADM1",
+  "url": "https://www.geoboundaries.org/api/current/gbOpen/SOM/ADM1/",
+  "publisher": "geoBoundaries; original provider in metadata",
+  "license": "See each returned boundaryLicense; not uniform",
+  "description": "Alternative administrative boundary version, not electrical zones",
+  "retrieved_at_utc": "2026-09-28T16:25:00.313897+00:00",
+  "local_path": "raw/geoboundaries/ADM1_metadata.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://www.geoboundaries.org/api/current/gbOpen/SOM/ADM1/",
+  "content_type": "application/json",
+  "bytes": 1725,
+  "sha256": "c77974e12ac283546318a43849a7463f9e56c48129834eadcbf4d3cc589afdf9"
+}

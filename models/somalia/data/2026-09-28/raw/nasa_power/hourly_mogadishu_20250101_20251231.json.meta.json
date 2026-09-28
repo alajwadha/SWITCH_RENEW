@@ -1,0 +1,15 @@
+{
+  "source_id": "NASA_HOURLY_MOGADISHU",
+  "url": "https://power.larc.nasa.gov/api/temporal/hourly/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M%2CWS10M%2CWS50M%2CRH2M%2CPRECTOTCORR&community=RE&longitude=45.34&latitude=2.04&start=20250101&end=20251231&format=JSON&time-standard=UTC",
+  "publisher": "NASA POWER",
+  "license": "NASA POWER freely available; acknowledge NASA POWER and underlying data providers",
+  "description": "Gridded resource estimates at approximate city point; not measured site data or generation capacity factors",
+  "retrieved_at_utc": "2026-09-28T16:23:19.524921+00:00",
+  "local_path": "raw/nasa_power/hourly_mogadishu_20250101_20251231.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://power.larc.nasa.gov/api/temporal/hourly/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M%2CWS10M%2CWS50M%2CRH2M%2CPRECTOTCORR&community=RE&longitude=45.34&latitude=2.04&start=20250101&end=20251231&format=JSON&time-standard=UTC",
+  "content_type": "application/json",
+  "bytes": 959412,
+  "sha256": "d6deb5928508da47e1c6f473009d7566642e7ec0a79999d1a554ab49a1a41b16"
+}

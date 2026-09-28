@@ -1,0 +1,15 @@
+{
+  "source_id": "GEOBOUNDARIES_ADM1",
+  "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/SOM/ADM1/geoBoundaries-SOM-ADM1_simplified.geojson",
+  "publisher": "geoBoundaries / OpenStreetMap, Wambacher",
+  "license": "Open Data Commons Open Database License 1.0",
+  "description": "Simplified administrative geometry; retain metadata and version",
+  "retrieved_at_utc": "2026-09-28T16:25:00.385905+00:00",
+  "local_path": "raw/geoboundaries/ADM1.geojson",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://media.githubusercontent.com/media/wmgeolab/geoBoundaries/9469f09592ced973a3448cf66b6100b741b64c0d/releaseData/gbOpen/SOM/ADM1/geoBoundaries-SOM-ADM1_simplified.geojson",
+  "content_type": "application/octet-stream",
+  "bytes": 87302,
+  "sha256": "a3d87cc4bc6f6d32b40862c34efd325ae61fc22c092c81597e8c49c20c681910"
+}

@@ -1,0 +1,120 @@
+{
+  "source_id": "IRENA_SOMALIA_ELECTRICITY",
+  "url": "https://pxweb.irena.org/api/v1/en/IRENASTAT/Power%20Capacity%20and%20Generation/Country_ELECSTAT_2026_H2_PXready.px",
+  "publisher": "IRENA",
+  "license": "IRENA noncommercial attribution terms; https://www.irena.org/terms-and-conditions; product-specific and third-party terms prevail",
+  "description": "All available electricity capacity/generation categories for Somalia; overlapping technology hierarchies must not be summed",
+  "retrieved_at_utc": "2026-09-28T16:28:44.140317+00:00",
+  "local_path": "raw/irena/somalia_electricity.json",
+  "status": "downloaded",
+  "request_body": {
+    "query": [
+      {
+        "code": "Country/area",
+        "selection": {
+          "filter": "item",
+          "values": [
+            "SOM"
+          ]
+        }
+      },
+      {
+        "code": "Technology",
+        "selection": {
+          "filter": "item",
+          "values": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+          ]
+        }
+      },
+      {
+        "code": "Data Type",
+        "selection": {
+          "filter": "item",
+          "values": [
+            "0",
+            "1"
+          ]
+        }
+      },
+      {
+        "code": "Grid connection",
+        "selection": {
+          "filter": "item",
+          "values": [
+            "0",
+            "1",
+            "2"
+          ]
+        }
+      },
+      {
+        "code": "Year",
+        "selection": {
+          "filter": "item",
+          "values": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25"
+          ]
+        }
+      }
+    ],
+    "response": {
+      "format": "json-stat2"
+    }
+  },
+  "http_status": 200,
+  "resolved_url": "https://pxweb.irena.org/api/v1/en/IRENASTAT/Power%20Capacity%20and%20Generation/Country_ELECSTAT_2026_H2_PXready.px",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 65652,
+  "sha256": "be3909be8ebc9a49ae8b6079c16ccb1b2c8deb513475418d658d4fb6421ab1c2"
+}

@@ -1,0 +1,41 @@
+{
+  "dataset_id": "SOM_2023_RTEP_v01_M",
+  "source_catalogue": "https://microdata.worldbank.org/catalog/6130",
+  "csv_member": "SOM_RTEP_mkt_2007_2026-08-24.csv",
+  "archive_sha256": "bcb03c0c20c6b571ec25e74925a99741ee2490007d0ac0801c4a1b814fce56f1",
+  "csv_sha256": "48003006eb40ef38bc5ac7ad77b82e704e8dcae66173106a2f7b394cce6d1621",
+  "rows": 10856,
+  "columns": 20,
+  "months": 236,
+  "start_month": "2007-01-01",
+  "end_month": "2026-08-01",
+  "locations_including_publisher_aggregate": 46,
+  "physical_market_locations": 45,
+  "publisher_aggregate_locations": [
+    "gid_som_national_average"
+  ],
+  "market_rows_excluding_aggregate": 10620,
+  "unique_location_month_keys": 10856,
+  "complete_rectangular_panel": true,
+  "currency_labels": [
+    "SOS"
+  ],
+  "source_price_field_nonblank": 2073,
+  "source_price_field_nonblank_excluding_aggregate": 2054,
+  "source_price_field_latest_month": "2026-06-01",
+  "modeled_close_nonblank": 10856,
+  "unit": "SOS/L (publisher labels; no currency conversion)",
+  "validation_errors": [],
+  "interpretation": [
+    "fuel_diesel is the publisher source-price field; its presence is not independent verification of a new survey quote.",
+    "o/h/l/c_fuel_diesel are modeled open/high/low/close estimates, not raw observations or statistical confidence intervals.",
+    "spatially_interpolated=0 does not imply absence of temporal imputation.",
+    "No national average, USD conversion, wholesale adjustment, or SWITCH fuel-cost conversion is calculated."
+  ],
+  "metadata_member": "SOM_RTP_details_mkt_2007_2026-08-24.csv",
+  "metadata_archive_sha256": "95824b67195556602d0548ccc5aeefdd481ab73b80f8edcab296589ee9a3c999",
+  "metadata_number_of_markets_modeled": 45,
+  "metadata_source_observation_end": "Jun 2026",
+  "metadata_reported_diesel_observations": 1352,
+  "metadata_observation_count_matches_nonblank_source_fields": false
+}

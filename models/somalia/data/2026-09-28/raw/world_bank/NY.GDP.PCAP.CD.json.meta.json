@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_NY.GDP.PCAP.CD",
+  "url": "https://api.worldbank.org/v2/country/SOM/indicator/NY.GDP.PCAP.CD?format=json&per_page=1000&date=1960:2025&source=2",
+  "publisher": "World Bank WDI and named original providers",
+  "license": "CC BY 4.0 subject to indicator-specific third-party terms",
+  "description": "Somalia annual series including explicit nulls",
+  "retrieved_at_utc": "2026-09-28T16:23:09.873971+00:00",
+  "local_path": "raw/world_bank/NY.GDP.PCAP.CD.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/country/SOM/indicator/NY.GDP.PCAP.CD?format=json&per_page=1000&date=1960:2025&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 15203,
+  "sha256": "12b6afdad1ac6aab71703d221f481ecccf89293aa68604deb3eb1bf7667127d0"
+}

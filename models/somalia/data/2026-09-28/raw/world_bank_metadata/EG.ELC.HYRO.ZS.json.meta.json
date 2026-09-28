@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_EG.ELC.HYRO.ZS",
+  "url": "https://api.worldbank.org/v2/indicator/EG.ELC.HYRO.ZS?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:09.612469+00:00",
+  "local_path": "raw/world_bank_metadata/EG.ELC.HYRO.ZS.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/EG.ELC.HYRO.ZS?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 854,
+  "sha256": "85e66a5d816aad574ac62d8cd45343703577fca6f89a9323f5350c49e28a6172"
+}

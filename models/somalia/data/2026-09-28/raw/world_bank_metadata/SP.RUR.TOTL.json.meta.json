@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_SP.RUR.TOTL",
+  "url": "https://api.worldbank.org/v2/indicator/SP.RUR.TOTL?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:07.724177+00:00",
+  "local_path": "raw/world_bank_metadata/SP.RUR.TOTL.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/SP.RUR.TOTL?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 1004,
+  "sha256": "8a35bd6cbac90b70778339538aa9ec59ba10a7d34815635f364f6278178ca8f4"
+}

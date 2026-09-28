@@ -1,0 +1,2746 @@
+{
+  "generated_at_utc": "2026-09-28T16:55:01.980158+00:00",
+  "checks": [
+    {
+      "check": "file_present:GEM_SOMALIA_COUNT",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:GEM_SOMALIA_COUNT",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:GEM_SOMALIA_COUNT",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:GEM_DISTRIBUTION",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:GEM_DISTRIBUTION",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:GEM_DISTRIBUTION",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:GEM_LAYER",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:GEM_LAYER",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:GEM_LAYER",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:GEM_SOMALIA_ASSETS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:GEM_SOMALIA_ASSETS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:GEM_SOMALIA_ASSETS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:GEOBOUNDARIES_ADM0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:GEOBOUNDARIES_ADM0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:GEOBOUNDARIES_ADM0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:GEOBOUNDARIES_META_ADM0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:GEOBOUNDARIES_META_ADM0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:GEOBOUNDARIES_META_ADM0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:GEOBOUNDARIES_ADM1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:GEOBOUNDARIES_ADM1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:GEOBOUNDARIES_ADM1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:GEOBOUNDARIES_META_ADM1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:GEOBOUNDARIES_META_ADM1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:GEOBOUNDARIES_META_ADM1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:GEOBOUNDARIES_ADM2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:GEOBOUNDARIES_ADM2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:GEOBOUNDARIES_ADM2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:GEOBOUNDARIES_META_ADM2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:GEOBOUNDARIES_META_ADM2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:GEOBOUNDARIES_META_ADM2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:IRENA_CATALOGUE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:IRENA_CATALOGUE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:IRENA_CATALOGUE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:IRENA_DIMENSIONS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:IRENA_DIMENSIONS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:IRENA_DIMENSIONS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:IRENA_SOMALIA_ELECTRICITY",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:IRENA_SOMALIA_ELECTRICITY",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:IRENA_SOMALIA_ELECTRICITY",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_DAILY_BAIDOA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_DAILY_BAIDOA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_DAILY_BAIDOA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_DAILY_BELEDWEYNE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_DAILY_BELEDWEYNE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_DAILY_BELEDWEYNE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_DAILY_BERBERA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_DAILY_BERBERA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_DAILY_BERBERA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_DAILY_BOSASO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_DAILY_BOSASO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_DAILY_BOSASO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_DAILY_DHUUSAMAREEB",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_DAILY_DHUUSAMAREEB",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_DAILY_DHUUSAMAREEB",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_DAILY_GALKAYO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_DAILY_GALKAYO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_DAILY_GALKAYO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_DAILY_GAROWE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_DAILY_GAROWE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_DAILY_GAROWE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_DAILY_HARGEISA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_DAILY_HARGEISA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_DAILY_HARGEISA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_DAILY_KISMAYO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_DAILY_KISMAYO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_DAILY_KISMAYO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_DAILY_MOGADISHU",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_DAILY_MOGADISHU",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_DAILY_MOGADISHU",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_HOURLY_BAIDOA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_HOURLY_BAIDOA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_HOURLY_BAIDOA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_HOURLY_BELEDWEYNE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_HOURLY_BELEDWEYNE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_HOURLY_BELEDWEYNE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_HOURLY_BERBERA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_HOURLY_BERBERA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_HOURLY_BERBERA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_HOURLY_BOSASO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_HOURLY_BOSASO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_HOURLY_BOSASO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_HOURLY_DHUUSAMAREEB",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_HOURLY_DHUUSAMAREEB",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_HOURLY_DHUUSAMAREEB",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_HOURLY_GALKAYO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_HOURLY_GALKAYO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_HOURLY_GALKAYO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_HOURLY_GAROWE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_HOURLY_GAROWE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_HOURLY_GAROWE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_HOURLY_HARGEISA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_HOURLY_HARGEISA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_HOURLY_HARGEISA",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_HOURLY_KISMAYO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_HOURLY_KISMAYO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_HOURLY_KISMAYO",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:NASA_HOURLY_MOGADISHU",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:NASA_HOURLY_MOGADISHU",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:NASA_HOURLY_MOGADISHU",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:ESMAP_SOLAR_WORKBOOK",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:ESMAP_SOLAR_WORKBOOK",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:ESMAP_SOLAR_WORKBOOK",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_AG.LND.AGRI.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_AG.LND.AGRI.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_AG.LND.AGRI.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_AG.LND.ARBL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_AG.LND.ARBL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_AG.LND.ARBL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_AG.LND.FRST.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_AG.LND.FRST.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_AG.LND.FRST.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_AG.LND.TOTL.K2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_AG.LND.TOTL.K2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_AG.LND.TOTL.K2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_BX.KLT.DINV.WD.GD.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_BX.KLT.DINV.WD.GD.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_BX.KLT.DINV.WD.GD.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_BX.TRF.PWKR.DT.GD.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_BX.TRF.PWKR.DT.GD.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_BX.TRF.PWKR.DT.GD.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.CFT.ACCS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.CFT.ACCS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.CFT.ACCS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.EGY.PRIM.PP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.EGY.PRIM.PP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.EGY.PRIM.PP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.ELC.ACCS.RU.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.ELC.ACCS.RU.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.ELC.ACCS.RU.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.ELC.ACCS.UR.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.ELC.ACCS.UR.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.ELC.ACCS.UR.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.ELC.ACCS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.ELC.ACCS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.ELC.ACCS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.ELC.FOSL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.ELC.FOSL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.ELC.FOSL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.ELC.HYRO.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.ELC.HYRO.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.ELC.HYRO.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.ELC.LOSS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.ELC.LOSS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.ELC.LOSS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.ELC.PROD.KH",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.ELC.PROD.KH",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.ELC.PROD.KH",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.ELC.RNEW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.ELC.RNEW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.ELC.RNEW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.ELC.RNWX.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.ELC.RNWX.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.ELC.RNWX.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.FEC.RNEW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.FEC.RNEW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.FEC.RNEW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.IMP.CONS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.IMP.CONS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.IMP.CONS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.USE.COMM.FO.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.USE.COMM.FO.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.USE.COMM.FO.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.USE.ELEC.KH.PC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.USE.ELEC.KH.PC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.USE.ELEC.KH.PC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EG.USE.PCAP.KG.OE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EG.USE.PCAP.KG.OE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EG.USE.PCAP.KG.OE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_EN.POP.DNST",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_EN.POP.DNST",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_EN.POP.DNST",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_ER.H2O.FWTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_ER.H2O.FWTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_ER.H2O.FWTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_ER.H2O.INTR.PC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_ER.H2O.INTR.PC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_ER.H2O.INTR.PC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_FP.CPI.TOTL.ZG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_FP.CPI.TOTL.ZG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_FP.CPI.TOTL.ZG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_IC.ELC.LOSS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_IC.ELC.LOSS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_IC.ELC.LOSS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_IC.ELC.OUTG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_IC.ELC.OUTG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_IC.ELC.OUTG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_IC.ELC.OUTG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_IC.ELC.OUTG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_IC.ELC.OUTG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_IC.ELC.OWNG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_IC.ELC.OWNG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_IC.ELC.OWNG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_IC.FRM.OUTG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_IC.FRM.OUTG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_IC.FRM.OUTG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_IT.CEL.SETS.P2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_IT.CEL.SETS.P2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_IT.CEL.SETS.P2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_IT.NET.USER.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_IT.NET.USER.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_IT.NET.USER.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_NE.EXP.GNFS.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_NE.EXP.GNFS.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_NE.EXP.GNFS.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_NE.GDI.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_NE.GDI.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_NE.GDI.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_NE.IMP.GNFS.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_NE.IMP.GNFS.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_NE.IMP.GNFS.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_NV.AGR.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_NV.AGR.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_NV.AGR.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_NV.IND.MANF.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_NV.IND.MANF.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_NV.IND.MANF.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_NV.IND.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_NV.IND.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_NV.IND.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_NV.SRV.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_NV.SRV.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_NV.SRV.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_NY.GDP.MKTP.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_NY.GDP.MKTP.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_NY.GDP.MKTP.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_NY.GDP.MKTP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_NY.GDP.MKTP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_NY.GDP.MKTP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_NY.GDP.MKTP.KD.ZG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_NY.GDP.MKTP.KD.ZG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_NY.GDP.MKTP.KD.ZG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_NY.GDP.PCAP.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_NY.GDP.PCAP.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_NY.GDP.PCAP.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_NY.GDP.PCAP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_NY.GDP.PCAP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_NY.GDP.PCAP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_PA.NUS.FCRF",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_PA.NUS.FCRF",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_PA.NUS.FCRF",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_SH.H2O.BASW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_SH.H2O.BASW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_SH.H2O.BASW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_SH.STA.BASS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_SH.STA.BASS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_SH.STA.BASS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_SP.POP.GROW",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_SP.POP.GROW",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_SP.POP.GROW",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_SP.POP.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_SP.POP.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_SP.POP.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_SP.RUR.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_SP.RUR.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_SP.RUR.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_SP.URB.TOTL.IN.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_SP.URB.TOTL.IN.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_SP.URB.TOTL.IN.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_SP.URB.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_SP.URB.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_SP.URB.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_TM.VAL.FUEL.ZS.UN",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_TM.VAL.FUEL.ZS.UN",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_TM.VAL.FUEL.ZS.UN",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_TX.VAL.FUEL.ZS.UN",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_TX.VAL.FUEL.ZS.UN",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_TX.VAL.FUEL.ZS.UN",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_AG.LND.AGRI.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_AG.LND.AGRI.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_AG.LND.AGRI.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_AG.LND.ARBL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_AG.LND.ARBL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_AG.LND.ARBL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_AG.LND.FRST.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_AG.LND.FRST.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_AG.LND.FRST.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_AG.LND.TOTL.K2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_AG.LND.TOTL.K2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_AG.LND.TOTL.K2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_BX.KLT.DINV.WD.GD.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_BX.KLT.DINV.WD.GD.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_BX.KLT.DINV.WD.GD.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_BX.TRF.PWKR.DT.GD.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_BX.TRF.PWKR.DT.GD.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_BX.TRF.PWKR.DT.GD.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.CFT.ACCS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.CFT.ACCS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.CFT.ACCS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.EGY.PRIM.PP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.EGY.PRIM.PP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.EGY.PRIM.PP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.ELC.ACCS.RU.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.ELC.ACCS.RU.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.ELC.ACCS.RU.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.ELC.ACCS.UR.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.ELC.ACCS.UR.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.ELC.ACCS.UR.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.ELC.ACCS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.ELC.ACCS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.ELC.ACCS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.ELC.FOSL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.ELC.FOSL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.ELC.FOSL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.ELC.HYRO.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.ELC.HYRO.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.ELC.HYRO.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.ELC.LOSS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.ELC.LOSS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.ELC.LOSS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.ELC.PROD.KH",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.ELC.PROD.KH",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.ELC.PROD.KH",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.ELC.RNEW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.ELC.RNEW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.ELC.RNEW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.ELC.RNWX.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.ELC.RNWX.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.ELC.RNWX.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.FEC.RNEW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.FEC.RNEW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.FEC.RNEW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.IMP.CONS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.IMP.CONS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.IMP.CONS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.USE.COMM.FO.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.USE.COMM.FO.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.USE.COMM.FO.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.USE.ELEC.KH.PC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.USE.ELEC.KH.PC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.USE.ELEC.KH.PC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EG.USE.PCAP.KG.OE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EG.USE.PCAP.KG.OE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EG.USE.PCAP.KG.OE",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_EN.POP.DNST",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_EN.POP.DNST",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_EN.POP.DNST",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_ER.H2O.FWTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_ER.H2O.FWTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_ER.H2O.FWTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_ER.H2O.INTR.PC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_ER.H2O.INTR.PC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_ER.H2O.INTR.PC",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_FP.CPI.TOTL.ZG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_FP.CPI.TOTL.ZG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_FP.CPI.TOTL.ZG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_IC.ELC.LOSS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_IC.ELC.LOSS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_IC.ELC.LOSS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_IC.ELC.OUTG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_IC.ELC.OUTG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_IC.ELC.OUTG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_IC.ELC.OUTG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_IC.ELC.OUTG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_IC.ELC.OUTG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_IC.ELC.OWNG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_IC.ELC.OWNG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_IC.ELC.OWNG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_IC.FRM.OUTG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_IC.FRM.OUTG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_IC.FRM.OUTG.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_IT.CEL.SETS.P2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_IT.CEL.SETS.P2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_IT.CEL.SETS.P2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_IT.NET.USER.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_IT.NET.USER.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_IT.NET.USER.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_NE.EXP.GNFS.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_NE.EXP.GNFS.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_NE.EXP.GNFS.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_NE.GDI.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_NE.GDI.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_NE.GDI.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_NE.IMP.GNFS.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_NE.IMP.GNFS.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_NE.IMP.GNFS.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_NV.AGR.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_NV.AGR.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_NV.AGR.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_NV.IND.MANF.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_NV.IND.MANF.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_NV.IND.MANF.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_NV.IND.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_NV.IND.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_NV.IND.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_NV.SRV.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_NV.SRV.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_NV.SRV.TOTL.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_NY.GDP.MKTP.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_NY.GDP.MKTP.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_NY.GDP.MKTP.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_NY.GDP.MKTP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_NY.GDP.MKTP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_NY.GDP.MKTP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_NY.GDP.MKTP.KD.ZG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_NY.GDP.MKTP.KD.ZG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_NY.GDP.MKTP.KD.ZG",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_NY.GDP.PCAP.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_NY.GDP.PCAP.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_NY.GDP.PCAP.CD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_NY.GDP.PCAP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_NY.GDP.PCAP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_NY.GDP.PCAP.KD",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_PA.NUS.FCRF",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_PA.NUS.FCRF",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_PA.NUS.FCRF",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_SH.H2O.BASW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_SH.H2O.BASW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_SH.H2O.BASW.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_SH.STA.BASS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_SH.STA.BASS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_SH.STA.BASS.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_SP.POP.GROW",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_SP.POP.GROW",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_SP.POP.GROW",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_SP.POP.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_SP.POP.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_SP.POP.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_SP.RUR.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_SP.RUR.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_SP.RUR.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_SP.URB.TOTL.IN.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_SP.URB.TOTL.IN.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_SP.URB.TOTL.IN.ZS",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_SP.URB.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_SP.URB.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_SP.URB.TOTL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_TM.VAL.FUEL.ZS.UN",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_TM.VAL.FUEL.ZS.UN",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_TM.VAL.FUEL.ZS.UN",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "file_present:WDI_META_TX.VAL.FUEL.ZS.UN",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sha256:WDI_META_TX.VAL.FUEL.ZS.UN",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "bytecount:WDI_META_TX.VAL.FUEL.ZS.UN",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "wdi_unique_indicator_year",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "wdi_country",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "wdi_missing_not_zero",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "wdi_all_rows_match_source",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "business_loss_unit",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_hourly_site_count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:hourly_baidoa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:hourly_baidoa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:hourly_baidoa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:hourly_baidoa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:hourly_beledweyne.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:hourly_beledweyne.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:hourly_beledweyne.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:hourly_beledweyne.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:hourly_berbera.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:hourly_berbera.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:hourly_berbera.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:hourly_berbera.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:hourly_bosaso.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:hourly_bosaso.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:hourly_bosaso.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:hourly_bosaso.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:hourly_dhuusamareeb.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:hourly_dhuusamareeb.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:hourly_dhuusamareeb.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:hourly_dhuusamareeb.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:hourly_galkayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:hourly_galkayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:hourly_galkayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:hourly_galkayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:hourly_garowe.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:hourly_garowe.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:hourly_garowe.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:hourly_garowe.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:hourly_hargeisa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:hourly_hargeisa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:hourly_hargeisa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:hourly_hargeisa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:hourly_kismayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:hourly_kismayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:hourly_kismayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:hourly_kismayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:hourly_mogadishu.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:hourly_mogadishu.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:hourly_mogadishu.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:hourly_mogadishu.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_daily_site_count",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:daily_baidoa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:daily_baidoa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:daily_baidoa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:daily_baidoa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:daily_beledweyne.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:daily_beledweyne.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:daily_beledweyne.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:daily_beledweyne.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:daily_berbera.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:daily_berbera.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:daily_berbera.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:daily_berbera.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:daily_bosaso.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:daily_bosaso.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:daily_bosaso.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:daily_bosaso.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:daily_dhuusamareeb.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:daily_dhuusamareeb.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:daily_dhuusamareeb.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:daily_dhuusamareeb.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:daily_galkayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:daily_galkayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:daily_galkayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:daily_galkayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:daily_garowe.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:daily_garowe.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:daily_garowe.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:daily_garowe.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:daily_hargeisa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:daily_hargeisa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:daily_hargeisa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:daily_hargeisa.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:daily_kismayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:daily_kismayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:daily_kismayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:daily_kismayo.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_utc:daily_mogadishu.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_complete_timestamps:daily_mogadishu.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_all_values_match_source:daily_mogadishu.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "nasa_basic_physical_ranges:daily_mogadishu.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "irena_unique_dimension_tuple",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "irena_country",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "irena_grid_parts_reconcile",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "irena_2025_renewable_components",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "gem_count_matches_api",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "gem_unique_unit_ids",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "geoboundaries_count_ADM0",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "geoboundaries_count_ADM1",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "geoboundaries_count_ADM2",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "solar_summary_matches_source_cells",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "solar_unique_statistic_ids",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "reviewed_power_transcription_hash:power_facts.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "reviewed_power_transcription_hash:power_consumption_history.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "reviewed_power_transcription_hash:power_planning_assumptions.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "reviewed_power_transcription_hash:source_doc_manifest.json",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "wind_saved_audit_complete",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "wind_audit_pixel_accounting",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "wind_release_payload_sha256",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "wind_release_payload_bytes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "research_file_present:power_facts.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "fact_ids_unique:power_facts.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "fact_provenance_complete:power_facts.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "research_file_present:statistics_facts.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "fact_ids_unique:statistics_facts.csv",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "fact_provenance_complete:statistics_facts.csv",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "passed": 544,
+  "failed": 0,
+  "counts": {
+    "source_downloads": 146,
+    "world_bank_indicators_requested": 55,
+    "world_bank_indicators_available": 44,
+    "world_bank_non_missing_values": 1764,
+    "nasa_hourly_timestamps": 87600,
+    "nasa_daily_timestamps": 91310,
+    "nasa_parameter_values": 1073460,
+    "nasa_missing_parameter_values": 0,
+    "irena_rows": 4056,
+    "irena_non_missing_values": 378,
+    "gem_asset_records": 9,
+    "manual_fact_rows": 140
+  },
+  "optional_payloads": {
+    "wind_tiff_present": true,
+    "wind_tiff_distribution": "Complete release archive; intentionally omitted from ordinary Git"
+  },
+  "scope": "File integrity, source-to-table fidelity, completeness, identities and elementary physical checks. Wind pixel decoding is recorded in a separate saved audit; this script checks its accounting and the payload hash when present. Not independent field validation, operating-asset confirmation or validation of a runnable SWITCH model."
+}

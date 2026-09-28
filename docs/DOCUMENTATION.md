@@ -30,6 +30,12 @@ The working instructions were approved on 27 September 2026. The backlog and mod
 
 ## Records for new research
 
+| Study record | Authoritative location |
+|---|---|
+| Somalia evidence and data, 28 September 2026 | [Dataset overview and collected-data table](../models/somalia/data/2026-09-28/README.md) |
+| Somalia sources, verification and reproduction | [Source register](../models/somalia/data/2026-09-28/manifests/source_register.csv), [methods](../models/somalia/data/2026-09-28/METHODS.md), [reproduction](../models/somalia/data/2026-09-28/REPRODUCE.md) |
+| Somalia decisions, conflicts, gaps and work record | [Decisions](../models/somalia/data/2026-09-28/ASSUMPTIONS_AND_DECISIONS.md), [conflicts](../models/somalia/data/2026-09-28/CONFLICTS.md), [work log](../models/somalia/data/2026-09-28/WORK_LOG.md), [advisor brief](../models/somalia/data/2026-09-28/ADVISOR_BRIEF.md) |
+
 As research begins, create and index the relevant source register, assumption register, decision log, methodology notes, numbered work log, reproduction guide and limitations/open questions. Use the fields and standards in the [shared instructions](../AGENTS.md) and [workflow](RESEARCH_WORKFLOW.md).
 
 Give each record one authoritative location and link to it. This index does not imply that uncreated research records or unimplemented models already exist. Keep country-specific records with their study and cross-reference shared methods.

@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_IT.NET.USER.ZS",
+  "url": "https://api.worldbank.org/v2/indicator/IT.NET.USER.ZS?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:13.535949+00:00",
+  "local_path": "raw/world_bank_metadata/IT.NET.USER.ZS.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/IT.NET.USER.ZS?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 629,
+  "sha256": "6e6fc76f94bda17bd30c3303f1e8965698c93d344c26a556ea6ee18a86c3cc32"
+}

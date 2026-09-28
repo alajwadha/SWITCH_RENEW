@@ -1,0 +1,88 @@
+{
+  "audit_utc": "2026-09-28T16:38:16.183432Z",
+  "units": "m/s (provider wind-speed layer)",
+  "scope": "All finite cells in delivered Somalia country raster, including offshore cells",
+  "area_mean_computed": false,
+  "geographic_validation": "Header inspection; national land clipping and boundary reconciliation not performed",
+  "decoder": "Pillow",
+  "decoder_version": "12.3.0",
+  "width": 5399,
+  "height": 6668,
+  "mode": "F",
+  "bits_per_sample": [
+    32
+  ],
+  "sample_format": [
+    3
+  ],
+  "compression_code": 50000,
+  "pixel_size_degrees": [
+    0.002500000000000001,
+    0.002500000000000001
+  ],
+  "model_tiepoint": [
+    0.0,
+    0.0,
+    0.0,
+    40.968750000000085,
+    13.546249999999972,
+    0.0
+  ],
+  "crs": "EPSG:4326",
+  "geokeys": {
+    "1024": {
+      "location": 0,
+      "count": 1,
+      "value": 2
+    },
+    "1025": {
+      "location": 0,
+      "count": 1,
+      "value": 1
+    },
+    "2048": {
+      "location": 0,
+      "count": 1,
+      "value": 4326
+    },
+    "2049": {
+      "location": 34737,
+      "count": 7,
+      "value": 0
+    },
+    "2054": {
+      "location": 0,
+      "count": 1,
+      "value": 9102
+    },
+    "2057": {
+      "location": 34736,
+      "count": 1,
+      "value": 1
+    },
+    "2059": {
+      "location": 34736,
+      "count": 1,
+      "value": 0
+    }
+  },
+  "nodata": "nan",
+  "header_validated": true,
+  "pixels_decoded": true,
+  "bounds_west_south_east_north": [
+    40.968750000000085,
+    -3.123750000000033,
+    54.46625000000009,
+    13.546249999999972
+  ],
+  "pixel_decoder": "tifffile + imagecodecs",
+  "pixel_decoder_version": "2026.9.20",
+  "dtype": "float32",
+  "numpy_version": "2.3.5",
+  "valid_pixel_count": 19053180,
+  "nan_pixel_count": 16947352,
+  "infinite_pixel_count": 0,
+  "missing_or_nonfinite_pixel_count": 16947352,
+  "minimum_m_per_s": 2.2557239532470703,
+  "maximum_m_per_s": 16.34503936767578
+}

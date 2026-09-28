@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_EN.POP.DNST",
+  "url": "https://api.worldbank.org/v2/indicator/EN.POP.DNST?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:07.712703+00:00",
+  "local_path": "raw/world_bank_metadata/EN.POP.DNST.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/EN.POP.DNST?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 1134,
+  "sha256": "c5df1b392124d9113915d833c5d4a47e73d9c6b989de0e6a64a9487479f9040c"
+}

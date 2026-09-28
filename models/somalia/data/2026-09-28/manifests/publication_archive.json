@@ -1,0 +1,21 @@
+{
+  "version": "somalia-data-2026-09-28",
+  "packaged_at_utc": "2026-09-28T16:57:03.828976+00:00",
+  "filename": "somalia-data-2026-09-28.zip",
+  "bytes": 62758741,
+  "sha256": "2ce194a61b6069f8a885c512dabc7a40b906e4c0d179469dc63998f9a4bb0b15",
+  "archive_members": 370,
+  "inventory_rows": 369,
+  "inventory_excludes": [
+    "manifests/publication_files.csv",
+    "manifests/publication_archive.json"
+  ],
+  "archive_excludes": [
+    "manifests/publication_archive.json",
+    "unpublished report caches, page renders and temporary dependencies"
+  ],
+  "archive_crc_checked": true,
+  "release_url": "https://github.com/alajwadha/SWITCH_RENEW/releases/tag/somalia-data-2026-09-28",
+  "asset_url": "https://github.com/alajwadha/SWITCH_RENEW/releases/download/somalia-data-2026-09-28/somalia-data-2026-09-28.zip",
+  "licensing": "Dataset-specific terms in source register and sidecars; no blanket relicensing"
+}

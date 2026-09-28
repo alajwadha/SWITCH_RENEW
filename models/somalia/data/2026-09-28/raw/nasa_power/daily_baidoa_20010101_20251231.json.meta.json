@@ -1,0 +1,15 @@
+{
+  "source_id": "NASA_DAILY_BAIDOA",
+  "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M%2CWS10M%2CWS50M%2CRH2M%2CPRECTOTCORR&community=RE&longitude=43.65&latitude=3.12&start=20010101&end=20251231&format=JSON&time-standard=UTC",
+  "publisher": "NASA POWER",
+  "license": "NASA POWER freely available; acknowledge NASA POWER and underlying data providers",
+  "description": "Gridded resource estimates at approximate city point; not measured site data or generation capacity factors",
+  "retrieved_at_utc": "2026-09-28T16:24:55.201923+00:00",
+  "local_path": "raw/nasa_power/daily_baidoa_20010101_20251231.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN%2CT2M%2CWS10M%2CWS50M%2CRH2M%2CPRECTOTCORR&community=RE&longitude=43.65&latitude=3.12&start=20010101&end=20251231&format=JSON&time-standard=UTC",
+  "content_type": "application/json",
+  "bytes": 906418,
+  "sha256": "427a19d7152adb7562b75d4feaee40db442181def305a1b9474c142bd74a9b4b"
+}

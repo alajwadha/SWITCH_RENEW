@@ -1,0 +1,195 @@
+sheet,cell,value,source_id,role
+Country indicators,A1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,B1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,C1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,D1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,E1,Basic indicators,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,F1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,G1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,H1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,I1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,J1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,K1,PV potential indicators,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,L1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,M1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,N1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,O1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,P1,Power sector indicators,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,Q1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,R1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,S1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,T1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,U1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,V1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,W1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,AC1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,AMK1,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,A2,ISO_A3,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,B2,Country or region,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,C2,Note,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,D2,"World Bank 
+Region",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,E2,"Total population, 2018",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,F2,"Total area, 2018",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,G2,Evaluated area,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,H2,"Level 1 area 
+(% of evaluated area)",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,I2,"Human development 
+Index, 2017",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,J2,"Gross domestic product (USD per capita), 2018",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,K2,"Average theoretical potential (GHI, kWh/m2/day), 
+long-term",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,L2,"Average practical potential 
+(PVOUT Level 1, 
+kWh/kWp/day), long-term",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,M2,"Average economic potential (LCOE, USD/kWh), 2018",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,N2,"Average PV 
+seasonality index, long-term",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,O2,"PV equivalent area (% of total area), long-term",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,P2,"Cummulative installed PV capacity (MWp), 2018",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,Q2,"Cummulative installed PV capacity (Wp per capita), 2018",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,R2,"Access to electricity
+(% of rural population), 2016",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,S2,"Electric power consumption (kWh per capita), 2014",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,T2,"Reliability of supply and transparency of tariff index, 2019",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,U2,"Approximate electricity 
+Tariffs for SMEs 
+(US cent/kWh), 2019",ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,V2,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,W2,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,AC2,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,AMK2,,ESMAP_SOLAR_WORKBOOK,source_header
+Country indicators,A170,SOM,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,B170,Somalia,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,C170,,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,D170,AFR,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,E170,15008154,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,F170,627340,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,G170,627340,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,H170,0.89679715779235902,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,I170,#N/A,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,J170,314.56236345914698,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,K170,6.0282999999999998,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,L170,4.7617000000000003,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,M170,8.9700000000000002E-2,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,N170,1.4981,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,O170,#N/A,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,P170,7.1,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,Q170,0.47307616912779499,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,R170,11.631376702363401,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,S170,#N/A,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,T170,#N/A,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,U170,#N/A,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,V170,,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,W170,,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,AC170,,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Country indicators,AMK170,,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,A1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,B1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,C1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,D1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,E1,"Average practical potential (PVOUT Level 1, kWh/kWp/day), long-term",ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,F1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,G1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,H1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,I1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,J1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,K1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,L1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,M1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,N1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,O1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,P1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,Q1,,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,A2,ISO_A3,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,B2,Country or region,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,C2,Note,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,D2,World Bank Region,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,E2,Yearly,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,F2,January,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,G2,February,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,H2,March,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,I2,April,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,J2,May,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,K2,June,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,L2,July,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,M2,August,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,N2,September,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,O2,October,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,P2,November,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,Q2,December,ESMAP_SOLAR_WORKBOOK,source_header
+Monthly data,A170,SOM,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,B170,Somalia,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,D170,AFR,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,E170,4.7617000000000003,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,F170,5.3533999999999997,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,G170,5.5983000000000001,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,H170,5.4109999999999996,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,I170,4.8063000000000002,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,J170,4.4244000000000003,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,K170,3.9855999999999998,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,L170,3.8186,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,M170,4.3693,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,N170,4.8186,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,O170,4.6399999999999997,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,P170,4.8548999999999998,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Monthly data,Q170,5.1155999999999997,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,A1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,B1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,C1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,D1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,E1,"Theoretical potential (GHI, kWh/m2/day), long-term",ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,F1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,G1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,H1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,I1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,J1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,K1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,L1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,M1,"Practical potential  (PVOUT Level 1, kWh/kWp/day), long-term",ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,N1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,O1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,P1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,Q1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,R1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,S1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,T1,,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,A2,ISO_A3,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,B2,Country or region,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,C2,Note,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,D2,World Bank Region,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,E2,Minimum,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,F2,10th percentile,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,G2,25th Percentile,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,H2,Average,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,I2,Median,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,J2,75th Percentile,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,K2,90th percentile,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,L2,Maximum,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,M2,Minimum,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,N2,10th percentile,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,O2,25th Percentile,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,P2,Average,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,Q2,Median,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,R2,75th Percentile,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,S2,90th percentile,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,T2,Maximum,ESMAP_SOLAR_WORKBOOK,source_header
+Summary statistics,A170,SOM,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,B170,Somalia,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,D170,AFR,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,E170,5.3810000000000002,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,F170,5.5410000000000004,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,G170,5.6820000000000004,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,H170,6.0282999999999998,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,I170,5.9939999999999998,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,J170,6.3719999999999999,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,K170,6.5519999999999996,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,L170,6.7350000000000003,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,M170,4.1950000000000003,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,N170,4.3239999999999998,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,O170,4.452,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,P170,4.7617000000000003,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,Q170,4.7160000000000002,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,R170,5.07,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,S170,5.25,ESMAP_SOLAR_WORKBOOK,somalia_source_value
+Summary statistics,T170,5.44,ESMAP_SOLAR_WORKBOOK,somalia_source_value

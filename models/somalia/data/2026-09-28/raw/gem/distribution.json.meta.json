@@ -1,0 +1,15 @@
+{
+  "source_id": "GEM_DISTRIBUTION",
+  "url": "https://www.arcgis.com/sharing/rest/content/items/d48c087b6d8141599d4923e70e610fca?f=json",
+  "publisher": "Global Energy Monitor / Esri distribution",
+  "license": "CC BY 4.0; attribute GEM",
+  "description": "Source distribution metadata, release and limitations",
+  "retrieved_at_utc": "2026-09-28T16:28:45.492946+00:00",
+  "local_path": "raw/gem/distribution.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://www.arcgis.com/sharing/rest/content/items/d48c087b6d8141599d4923e70e610fca?f=json",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 10127,
+  "sha256": "8f544a8f84b320c6b689fed8aef5543f688304ef9ecfd7c8d390fbfbc334a27c"
+}

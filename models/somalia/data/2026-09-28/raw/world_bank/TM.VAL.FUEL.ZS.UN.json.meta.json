@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_TM.VAL.FUEL.ZS.UN",
+  "url": "https://api.worldbank.org/v2/country/SOM/indicator/TM.VAL.FUEL.ZS.UN?format=json&per_page=1000&date=1960:2025&source=2",
+  "publisher": "World Bank WDI and named original providers",
+  "license": "CC BY 4.0 subject to indicator-specific third-party terms",
+  "description": "Somalia annual series including explicit nulls",
+  "retrieved_at_utc": "2026-09-28T16:23:10.816866+00:00",
+  "local_path": "raw/world_bank/TM.VAL.FUEL.ZS.UN.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/country/SOM/indicator/TM.VAL.FUEL.ZS.UN?format=json&per_page=1000&date=1960:2025&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 15519,
+  "sha256": "bfcc734939267e8cdd42b4a6e448b14cc26a9943421b2ee0691676ca58534a53"
+}

@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_NE.EXP.GNFS.CD",
+  "url": "https://api.worldbank.org/v2/indicator/NE.EXP.GNFS.CD?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:10.616053+00:00",
+  "local_path": "raw/world_bank_metadata/NE.EXP.GNFS.CD.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/NE.EXP.GNFS.CD?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 915,
+  "sha256": "add46f767587e60736449ce8b0d365258366a7306e13a2a3a8a8cd0be97a6626"
+}

@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_EG.USE.COMM.FO.ZS",
+  "url": "https://api.worldbank.org/v2/indicator/EG.USE.COMM.FO.ZS?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:09.039878+00:00",
+  "local_path": "raw/world_bank_metadata/EG.USE.COMM.FO.ZS.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/EG.USE.COMM.FO.ZS?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 592,
+  "sha256": "a4ca51a3d643e575a10a357c95afa1153fc3d61a9e92a0bbcd041949403ea693"
+}

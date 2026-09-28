@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_EG.ELC.FOSL.ZS",
+  "url": "https://api.worldbank.org/v2/country/SOM/indicator/EG.ELC.FOSL.ZS?format=json&per_page=1000&date=1960:2025&source=2",
+  "publisher": "World Bank WDI and named original providers",
+  "license": "CC BY 4.0 subject to indicator-specific third-party terms",
+  "description": "Somalia annual series including explicit nulls",
+  "retrieved_at_utc": "2026-09-28T16:23:08.976523+00:00",
+  "local_path": "raw/world_bank/EG.ELC.FOSL.ZS.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/country/SOM/indicator/EG.ELC.FOSL.ZS?format=json&per_page=1000&date=1960:2025&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 17031,
+  "sha256": "c1770d6845338e4dad5b60aa58d94cd53e3d57a5d552b13c0f5129733d81f825"
+}

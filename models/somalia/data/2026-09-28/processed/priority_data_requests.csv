@@ -1,0 +1,23 @@
+request_id,category,priority,requested_data,evidence_so_far,switch_destination
+G02,finance,P1,"Choose price base year, real/nominal basis and Somalia-specific financing scenarios; national GDP or inflation is not WACC",statistics_facts.csv; power_facts.csv,financials.csv
+G03,fuel_prices,P1,Delivered utility diesel cost; market currency/FX/density/heating-value and procurement adjustments needed,World Bank RTEP diesel archive; statistics_facts.csv,fuel_cost.csv
+G04,fuel_properties,P1,Fuel-specific net calorific value and combustion/upstream CO2 factors; do not inherit Kenya values,IPCC stationary combustion guidelines; fuel quality certificates needed,fuels.csv
+G05,technology_costs,P1,Local installed cost and fixed O&M by technology/vintage; separate battery USD/kW and USD/kWh; currency/base year,power_facts.csv; official optimized plan candidate costs,gen_build_costs.csv
+G06,build_limits,P2,"Developable area, permitting, siting and construction-rate constraints; resource raster is not a build limit",resource_catalog.csv; project pipeline in power_facts.csv,gen_build_limits_by_tech.csv
+G07,existing_assets,P1,"Deduplicate sites/units, verify commissioned capacity and year; reconcile MWac/MWp; exclude uncommissioned pipeline",gem_somalia_assets.csv; power_facts.csv; IRENA national totals,gen_build_predetermined.csv
+G08,asset_performance,P1,"Heat rates, plant dates, variable O&M, outages, battery power/energy/efficiency/life and retirement assumptions",power_facts.csv; gem_somalia_assets.csv,gen_info.csv
+G11,electrical_zones,P1,Choose service areas; define local grid loss and capacity; admin units are not electrical zones,geoboundaries alternative layers; resource_catalog.csv; utility reports,load_zones.csv
+G12,load_chronology,P1,"Metered hourly MW by utility with date/timezone; distinguish billing, gross generation, own-use, unserved demand and forecasts",power_consumption_history.csv; world_bank_observations.csv,loads.csv
+G13,model_scope,P1,Select minimum modules after baseline scope; hydrogen and other additional sectors not adopted,Somalia AGENTS.md; ASSUMPTIONS_AND_DECISIONS.md,modules.txt
+G14,technology_scope,P2,Confirm technology coverage and suitability; availability of resource does not prove a project is feasible,IRENA; power_facts.csv; resource_catalog.csv,non_fuel_energy_sources.csv
+G15,planning_horizon,P1,Set baseline year and investment horizon; source forecast years are not automatically model periods,2025 national optimized plan; dated project documents,periods.csv
+G16,adequacy_zones,P1,Define which connected systems share capacity; do not pool isolated systems,utility/network records still required,planning_reserve_requirement_zones.csv
+G17,adequacy_criteria,P1,Reserve standard and renewable/storage capacity credit; Kenya 9% margin is not a Somalia observation,utility reliability criteria still required,planning_reserve_requirements.csv
+G18,software_contract,P2,Pin SWITCH version when building eventual adapter; data pack is not a runnable adapter,sources.lock.json; kenya_input_schema_inventory.csv,switch_inputs_version.txt
+G19,time_sampling,P1,Align load/weather in same timezone then choose representative periods; retain chronology for storage,NASA hourly2025 and daily2001-2025,timepoints.csv
+G20,time_weights,P1,Design sampling weights with represented-hours checks; daily weather is not hourly dispatch,NASA complete-year chronology,timeseries.csv
+G22,network_costs,P1,"Somalia corridor cost per MW-km, lifetime and fixed O&M need rating/voltage/currency basis",power_facts.csv; optimized plan assumptions,trans_params.csv
+G23,network_topology,P1,"Verify existing versus proposed lines, endpoints, ratings, lengths, losses and timing; OSM may omit assets",power_facts.csv; 2026 project restructuring; OSM catalogue,transmission_lines.csv
+G24,generation_profiles,P1,Build/validate PV and turbine performance transformations; wind speed/irradiance are not capacity factors,NASA POWER; solar_country_workbook_cells.csv; GWA raster,variable_capacity_factors.csv
+G25,operating_areas,P2,Define reserve sharing and island operation; blank Kenya file is not evidence of Somalia design,utility operating and interconnection agreements needed,zone_balancing_areas.csv
+G26,peak_demand,P1,"Measure simultaneous served peak, distinguish suppressed demand and noncoincident peaks",power_facts.csv; utility records needed,zone_coincident_peak_demand.csv

@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_NV.AGR.TOTL.ZS",
+  "url": "https://api.worldbank.org/v2/country/SOM/indicator/NV.AGR.TOTL.ZS?format=json&per_page=1000&date=1960:2025&source=2",
+  "publisher": "World Bank WDI and named original providers",
+  "license": "CC BY 4.0 subject to indicator-specific third-party terms",
+  "description": "Somalia annual series including explicit nulls",
+  "retrieved_at_utc": "2026-09-28T16:23:10.875386+00:00",
+  "local_path": "raw/world_bank/NV.AGR.TOTL.ZS.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/country/SOM/indicator/NV.AGR.TOTL.ZS?format=json&per_page=1000&date=1960:2025&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 16760,
+  "sha256": "1105e67c095ab994ddc92647b983cb8dc4829dcdea1f7a662f77bc65cc4c3463"
+}

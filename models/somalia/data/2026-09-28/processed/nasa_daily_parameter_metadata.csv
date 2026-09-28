@@ -1,0 +1,61 @@
+source_id,parameter,unit,longname,time_standard,fill_value
+NASA_DAILY_MOGADISHU,ALLSKY_SFC_SW_DWN,kW-hr/m^2/day,All Sky Surface Shortwave Downward Irradiance,UTC,-999.0
+NASA_DAILY_MOGADISHU,T2M,C,Temperature at 2 Meters,UTC,-999.0
+NASA_DAILY_MOGADISHU,WS10M,m/s,Wind Speed at 10 Meters,UTC,-999.0
+NASA_DAILY_MOGADISHU,WS50M,m/s,Wind Speed at 50 Meters,UTC,-999.0
+NASA_DAILY_MOGADISHU,RH2M,%,Relative Humidity at 2 Meters,UTC,-999.0
+NASA_DAILY_MOGADISHU,PRECTOTCORR,mm/day,Precipitation Corrected,UTC,-999.0
+NASA_DAILY_HARGEISA,ALLSKY_SFC_SW_DWN,kW-hr/m^2/day,All Sky Surface Shortwave Downward Irradiance,UTC,-999.0
+NASA_DAILY_HARGEISA,T2M,C,Temperature at 2 Meters,UTC,-999.0
+NASA_DAILY_HARGEISA,WS10M,m/s,Wind Speed at 10 Meters,UTC,-999.0
+NASA_DAILY_HARGEISA,WS50M,m/s,Wind Speed at 50 Meters,UTC,-999.0
+NASA_DAILY_HARGEISA,RH2M,%,Relative Humidity at 2 Meters,UTC,-999.0
+NASA_DAILY_HARGEISA,PRECTOTCORR,mm/day,Precipitation Corrected,UTC,-999.0
+NASA_DAILY_BOSASO,ALLSKY_SFC_SW_DWN,kW-hr/m^2/day,All Sky Surface Shortwave Downward Irradiance,UTC,-999.0
+NASA_DAILY_BOSASO,T2M,C,Temperature at 2 Meters,UTC,-999.0
+NASA_DAILY_BOSASO,WS10M,m/s,Wind Speed at 10 Meters,UTC,-999.0
+NASA_DAILY_BOSASO,WS50M,m/s,Wind Speed at 50 Meters,UTC,-999.0
+NASA_DAILY_BOSASO,RH2M,%,Relative Humidity at 2 Meters,UTC,-999.0
+NASA_DAILY_BOSASO,PRECTOTCORR,mm/day,Precipitation Corrected,UTC,-999.0
+NASA_DAILY_GAROWE,ALLSKY_SFC_SW_DWN,kW-hr/m^2/day,All Sky Surface Shortwave Downward Irradiance,UTC,-999.0
+NASA_DAILY_GAROWE,T2M,C,Temperature at 2 Meters,UTC,-999.0
+NASA_DAILY_GAROWE,WS10M,m/s,Wind Speed at 10 Meters,UTC,-999.0
+NASA_DAILY_GAROWE,WS50M,m/s,Wind Speed at 50 Meters,UTC,-999.0
+NASA_DAILY_GAROWE,RH2M,%,Relative Humidity at 2 Meters,UTC,-999.0
+NASA_DAILY_GAROWE,PRECTOTCORR,mm/day,Precipitation Corrected,UTC,-999.0
+NASA_DAILY_KISMAYO,ALLSKY_SFC_SW_DWN,kW-hr/m^2/day,All Sky Surface Shortwave Downward Irradiance,UTC,-999.0
+NASA_DAILY_KISMAYO,T2M,C,Temperature at 2 Meters,UTC,-999.0
+NASA_DAILY_KISMAYO,WS10M,m/s,Wind Speed at 10 Meters,UTC,-999.0
+NASA_DAILY_KISMAYO,WS50M,m/s,Wind Speed at 50 Meters,UTC,-999.0
+NASA_DAILY_KISMAYO,RH2M,%,Relative Humidity at 2 Meters,UTC,-999.0
+NASA_DAILY_KISMAYO,PRECTOTCORR,mm/day,Precipitation Corrected,UTC,-999.0
+NASA_DAILY_BAIDOA,ALLSKY_SFC_SW_DWN,kW-hr/m^2/day,All Sky Surface Shortwave Downward Irradiance,UTC,-999.0
+NASA_DAILY_BAIDOA,T2M,C,Temperature at 2 Meters,UTC,-999.0
+NASA_DAILY_BAIDOA,WS10M,m/s,Wind Speed at 10 Meters,UTC,-999.0
+NASA_DAILY_BAIDOA,WS50M,m/s,Wind Speed at 50 Meters,UTC,-999.0
+NASA_DAILY_BAIDOA,RH2M,%,Relative Humidity at 2 Meters,UTC,-999.0
+NASA_DAILY_BAIDOA,PRECTOTCORR,mm/day,Precipitation Corrected,UTC,-999.0
+NASA_DAILY_BELEDWEYNE,ALLSKY_SFC_SW_DWN,kW-hr/m^2/day,All Sky Surface Shortwave Downward Irradiance,UTC,-999.0
+NASA_DAILY_BELEDWEYNE,T2M,C,Temperature at 2 Meters,UTC,-999.0
+NASA_DAILY_BELEDWEYNE,WS10M,m/s,Wind Speed at 10 Meters,UTC,-999.0
+NASA_DAILY_BELEDWEYNE,WS50M,m/s,Wind Speed at 50 Meters,UTC,-999.0
+NASA_DAILY_BELEDWEYNE,RH2M,%,Relative Humidity at 2 Meters,UTC,-999.0
+NASA_DAILY_BELEDWEYNE,PRECTOTCORR,mm/day,Precipitation Corrected,UTC,-999.0
+NASA_DAILY_GALKAYO,ALLSKY_SFC_SW_DWN,kW-hr/m^2/day,All Sky Surface Shortwave Downward Irradiance,UTC,-999.0
+NASA_DAILY_GALKAYO,T2M,C,Temperature at 2 Meters,UTC,-999.0
+NASA_DAILY_GALKAYO,WS10M,m/s,Wind Speed at 10 Meters,UTC,-999.0
+NASA_DAILY_GALKAYO,WS50M,m/s,Wind Speed at 50 Meters,UTC,-999.0
+NASA_DAILY_GALKAYO,RH2M,%,Relative Humidity at 2 Meters,UTC,-999.0
+NASA_DAILY_GALKAYO,PRECTOTCORR,mm/day,Precipitation Corrected,UTC,-999.0
+NASA_DAILY_BERBERA,ALLSKY_SFC_SW_DWN,kW-hr/m^2/day,All Sky Surface Shortwave Downward Irradiance,UTC,-999.0
+NASA_DAILY_BERBERA,T2M,C,Temperature at 2 Meters,UTC,-999.0
+NASA_DAILY_BERBERA,WS10M,m/s,Wind Speed at 10 Meters,UTC,-999.0
+NASA_DAILY_BERBERA,WS50M,m/s,Wind Speed at 50 Meters,UTC,-999.0
+NASA_DAILY_BERBERA,RH2M,%,Relative Humidity at 2 Meters,UTC,-999.0
+NASA_DAILY_BERBERA,PRECTOTCORR,mm/day,Precipitation Corrected,UTC,-999.0
+NASA_DAILY_DHUUSAMAREEB,ALLSKY_SFC_SW_DWN,kW-hr/m^2/day,All Sky Surface Shortwave Downward Irradiance,UTC,-999.0
+NASA_DAILY_DHUUSAMAREEB,T2M,C,Temperature at 2 Meters,UTC,-999.0
+NASA_DAILY_DHUUSAMAREEB,WS10M,m/s,Wind Speed at 10 Meters,UTC,-999.0
+NASA_DAILY_DHUUSAMAREEB,WS50M,m/s,Wind Speed at 50 Meters,UTC,-999.0
+NASA_DAILY_DHUUSAMAREEB,RH2M,%,Relative Humidity at 2 Meters,UTC,-999.0
+NASA_DAILY_DHUUSAMAREEB,PRECTOTCORR,mm/day,Precipitation Corrected,UTC,-999.0

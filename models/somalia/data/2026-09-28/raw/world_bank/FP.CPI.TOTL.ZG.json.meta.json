@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_FP.CPI.TOTL.ZG",
+  "url": "https://api.worldbank.org/v2/country/SOM/indicator/FP.CPI.TOTL.ZG?format=json&per_page=1000&date=1960:2025&source=2",
+  "publisher": "World Bank WDI and named original providers",
+  "license": "CC BY 4.0 subject to indicator-specific third-party terms",
+  "description": "Somalia annual series including explicit nulls",
+  "retrieved_at_utc": "2026-09-28T16:23:10.142188+00:00",
+  "local_path": "raw/world_bank/FP.CPI.TOTL.ZG.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/country/SOM/indicator/FP.CPI.TOTL.ZG?format=json&per_page=1000&date=1960:2025&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 15009,
+  "sha256": "d951d3cc869e3f6b911c3ec75280784396bfa00af48a2cd3cea4d644b151880f"
+}

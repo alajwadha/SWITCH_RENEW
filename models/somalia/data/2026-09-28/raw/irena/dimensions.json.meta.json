@@ -1,0 +1,15 @@
+{
+  "source_id": "IRENA_DIMENSIONS",
+  "url": "https://pxweb.irena.org/api/v1/en/IRENASTAT/Power%20Capacity%20and%20Generation/Country_ELECSTAT_2026_H2_PXready.px",
+  "publisher": "IRENA",
+  "license": "IRENA noncommercial attribution terms; https://www.irena.org/terms-and-conditions; product-specific and third-party terms prevail",
+  "description": "Electricity statistics by Country/area, Technology, Data Type, Grid connection and Year",
+  "retrieved_at_utc": "2026-09-28T16:28:43.763287+00:00",
+  "local_path": "raw/irena/dimensions.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://pxweb.irena.org/api/v1/en/IRENASTAT/Power%20Capacity%20and%20Generation/Country_ELECSTAT_2026_H2_PXready.px",
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 5327,
+  "sha256": "bc3bf02f6be0d917c219b0855d3d16aab9e286f80271d8a39985a0af7abad8bd"
+}

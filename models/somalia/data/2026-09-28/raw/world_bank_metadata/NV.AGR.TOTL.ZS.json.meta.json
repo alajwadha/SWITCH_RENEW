@@ -1,0 +1,15 @@
+{
+  "source_id": "WDI_META_NV.AGR.TOTL.ZS",
+  "url": "https://api.worldbank.org/v2/indicator/NV.AGR.TOTL.ZS?format=json&source=2",
+  "publisher": "World Bank",
+  "license": "CC BY 4.0 subject to named original providers",
+  "description": "Indicator definition, original sources and method",
+  "retrieved_at_utc": "2026-09-28T16:23:11.142753+00:00",
+  "local_path": "raw/world_bank_metadata/NV.AGR.TOTL.ZS.json",
+  "status": "downloaded",
+  "http_status": 200,
+  "resolved_url": "https://api.worldbank.org/v2/indicator/NV.AGR.TOTL.ZS?format=json&source=2",
+  "content_type": "application/json;charset=utf-8",
+  "bytes": 1512,
+  "sha256": "fe7405bdb44e1600d98e44cc0edb61a4cc77b9d8d2ce534bed46309ac173a117"
+}
